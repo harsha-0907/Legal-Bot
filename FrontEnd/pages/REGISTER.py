@@ -36,14 +36,13 @@ if not st.session_state.gotUsername:
 
 else:
     # Show password input
-    st.write(f"That's a good username {st.session_state.username}...")
+    #st.write(f"That's a good username {st.session_state.username}...")
     st.write("Set Your Password... And Let's Get Started...")
     passwd = st.text_input("Password", type="password")
     
     if st.button("Register"):
         # If the user is ready to register
         username = st.session_state.username
-        st.write("Sending Data...", username, "", passwd)
         resp = requests.post(url="http://localhost:8000/register/", json={'username': username, 'passwd': passwd})
         resp_json = resp.json()
         
