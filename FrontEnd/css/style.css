@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333333;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #FF5733;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 18px;
+    color: #ff007f;
+}
+
+h3 {
+    font-size: 15px;               /* Set the font size to 15px */
+    color: #FFB6C1;                /* Light pink color */
+    padding: 5px 10px;             /* Add padding */
+    border-radius: 5px;            /* Optional: rounded corners */
+}
+
+p {
+    color: #555555;
+}
