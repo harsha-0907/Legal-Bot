@@ -9,13 +9,13 @@ def loadCSS(filepath=""):
 loadCSS("FrontEnd/css/style.css")
 
 def sendCredentials(username, password):
-    url = "http://localhost:89/login"
+    url = "http://localhost:8000/login"
     data = {
         "username": username,
         "passwd": passwd
     }
-    resp = requests.post(url=url, json=data)
-    if resp:
+    resp = requests.post(url=url, json=data).json()
+    if resp['status_code'] == 301:
         st.success("LOGIN SUCCESSFUL")
         return resp
     else:

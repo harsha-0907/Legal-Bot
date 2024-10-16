@@ -9,7 +9,7 @@ class ResponseModel(BaseModel):
     path: Optional[str] = None
     username: Optional[str] = None
     jwt_token: Optional[str] = None
-    message: Optional[str] = None
+    message: Optional[str] = ""
 
 class RequestModel(BaseModel):
     username: str
