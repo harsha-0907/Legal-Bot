@@ -1,0 +1,7 @@
+# Inorder for the streamlit to work, do the following configuration changes
+
+1. Go to the ~/.streamlit/config.toml and add the parameter : enableCORS = false
+
+## The above step is very important so makle sure you do that previous hand( Else the Streamlit will not work)
+
+The Backend will be running in port 89 and the Frontend will be running in port 81

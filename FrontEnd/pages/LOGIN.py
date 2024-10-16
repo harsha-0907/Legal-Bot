@@ -9,8 +9,15 @@ def loadCSS(filepath=""):
 loadCSS("FrontEnd/css/style.css")
 
 def sendCredentials(username, password):
-    if username == 'admin' and password == 'admin':
+    url = "http://localhost:89/login"
+    data = {
+        "username": username,
+        "passwd": passwd
+    }
+    resp = requests.post(url=url, json=data)
+    if resp:
         st.success("LOGIN SUCCESSFUL")
+        return resp
     else:
         error.error("Invalid Credentials")
 
@@ -21,4 +28,3 @@ error = st.empty()
 
 if st.button("Login"):
     sendCredentials(username, password)
-
