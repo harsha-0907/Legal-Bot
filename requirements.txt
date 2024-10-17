@@ -3,13 +3,16 @@ pip
 autopep8
 
 # Security Headers
-jose
+#jose
 
 # App
 fastapi
 uvicorn
 starlette
 streamlit
+
+# Model
+huggingface_hub
 
 # Database
 pymongo

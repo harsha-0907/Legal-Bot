@@ -12,9 +12,9 @@ login_router = APIRouter()
 
 def generateJWTToken(username):
     payload = {
-            'random-value': str(randint(1, 1000)),
+            'random-value': str(randint(1, 1000)+3600), # 
             'sub': username, 
-            'exp': str(time.time())
+            'exp': str(time())
     }
     SECRET_KEY = "IH3TeF130nt3nd"
     ALGORITHM = "HS256"
@@ -36,15 +36,18 @@ def validateData(name: str , passwd: str):
 
 @login_router.post("/")
 def loginUser(data: RequestModel):
-    username = data.username; passwd = data.passwd
-    is_valid = validateData(username, passwd)
-    if is_valid:
-        # Generate the JWT Token
-        jwt_token = generateJWTToken(username)
-        return JSONResponse(content=ResponseModel(status_code=301, message="Suceess", jwt_token=jwt_token, username=username).dict(), status_code=200)
-    else:
-        return JSONResponse(content=ResponseModel(status_code=404, message="Credentials Invalid", jwt_token=None, username=None).dict(), status_code=404)
-
+    try:
+        username = data.username; passwd = data.passwd
+        is_valid = validateData(username, passwd)
+        if is_valid:
+            # Generate the JWT Token
+            jwt_token = generateJWTToken(username)
+            return JSONResponse(content=ResponseModel(status_code=301, message="Suceess", jwt_token=jwt_token, username=username).dict(), status_code=200)
+        else:
+            return JSONResponse(content=ResponseModel(status_code=404, message="Credentials Invalid", jwt_token=None, username=None).dict(), status_code=404)
+    except Exception as e:
+        print("Error : ", e)
+        return JSONResponse(content=ResponseModel(status_code=404, message="Some Unknown Error", jwt_token=None, username=None).dict(), status_code=404)
 
 
     

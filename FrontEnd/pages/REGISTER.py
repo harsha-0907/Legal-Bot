@@ -47,7 +47,7 @@ else:
         resp_json = resp.json()
         
         if resp.status_code == 301 and resp_json.get('username') == st.session_state.username:
-            st.success("Registration Successful")
+            st.success("Registration Successful. Please Login Now")
             st.session_state.gotUsername = False  # Reset the flow for future registrations
             st.session_state.username = None  # Clear the username
         else:
