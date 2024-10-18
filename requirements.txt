@@ -3,7 +3,11 @@ pip
 autopep8
 
 # Security Headers
-#jose
+jose
+
+# Visualization Tools
+pandas
+matplotlib
 
 # App
 fastapi

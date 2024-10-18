@@ -1,7 +1,7 @@
 # The model for various parts of the code
 
 from pydantic import BaseModel
-from typing import Optional
+from typing import Optional, List
 
 class ResponseModel(BaseModel):
     status_code: Optional[int] = 401
@@ -14,3 +14,10 @@ class ResponseModel(BaseModel):
 class RequestModel(BaseModel):
     username: str
     passwd: str
+
+class Chat(BaseModel):
+    question: str = ""
+    response: str = ""
+
+class ChatModel(BaseModel):
+    chats: Optional[List[Chat]] = None # By default
