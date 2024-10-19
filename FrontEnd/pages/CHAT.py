@@ -45,7 +45,7 @@ def display_messages(chats):
         st.markdown(f"<div style='text-align: left;'>**Response {i+1}:** {chat['response']}</div>", unsafe_allow_html=True)
 
 # UI elements
-st.title("JWT Auth and Message Formatter")
+st.title("Lets Have a Conversation .!")
 
 # Input from the user for a message request
 user_input = st.text_input("Enter your message:")

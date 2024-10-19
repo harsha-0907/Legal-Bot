@@ -3,7 +3,7 @@ pip
 autopep8
 
 # Security Headers
-jose
+python-jose
 
 # Visualization Tools
 pandas

@@ -4,7 +4,7 @@ from fastapi import APIRouter
 from fastapi.responses import JSONResponse
 from DataModel import ResponseModel, RequestModel
 from pymongo import MongoClient
-from jose import JWTError, jwt
+from jose import JWTError
 from random import randint
 from time import time
 

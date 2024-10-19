@@ -1,3 +1,4 @@
 #!/bin/sh
 source .venv/bin/activate
-uvicorn server:app --reload
+streammlit run FrontEnd/HOME.py
+uvicorn backend_server:app --reload
