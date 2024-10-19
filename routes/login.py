@@ -1,10 +1,11 @@
 # This code will handle the logic for the Login and Register 
 
 from fastapi import APIRouter
+from variables import client
 from fastapi.responses import JSONResponse
 from DataModel import ResponseModel, RequestModel
 from pymongo import MongoClient
-from jose import JWTError
+from jose import JWTError, jwt
 from random import randint
 from time import time
 
@@ -14,7 +15,7 @@ def generateJWTToken(username):
     payload = {
             'random-value': str(randint(1, 1000)+3600), # 
             'sub': username, 
-            'exp': str(time())
+            'exp': str(int(time())+3600)
     }
     SECRET_KEY = "IH3TeF130nt3nd"
     ALGORITHM = "HS256"
@@ -22,10 +23,9 @@ def generateJWTToken(username):
     return jwt.encode(payload, SECRET_KEY, ALGORITHM)
 
 def validateData(name: str , passwd: str):
-    " The page is only accessible if the user is not authorized"
+    """ The page is only accessible if the user is not authorized"""
     # Check if there is a account with the given credentials
-    connection_url = "mongodb+srv://root:my^7#kj@cluster0.9podb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-    client = MongoClient(connection_url)
+    # nonlocal client
     db = client['legal-bot']; auth_collection = db['auth']
     document = db.auth.find_one({"username": name})
     if document['password'] == passwd:

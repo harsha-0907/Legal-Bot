@@ -19,13 +19,14 @@ def sendCredentials(username, passwd):
     #print(resp)
     #resp_data = resp.content.decode("utf-8").json()
     if resp['status_code'] == 301:
-        st.success("LOGIN SUCCESSFUL. You may now proceed to the CHAT")
         st.session_state.username = ""
         st.session_state.password = ""
+        st.session_state.jwt_token = resp['jwt_token']
         # Lets write the jwt-token to the client-side local storage
-        st.write("JWT-Token :", resp['jwt_token'])
-        js_script = f" <script> window.localStorage.setItem('my_token', '{resp['jwt_token']}');</script>"
+        #st.write("JWT-Token :", resp['jwt_token'])
+        js_script = f" <script> window.localStorage.setItem('jwt_token', '{resp['jwt_token']}');</script>"
         components.html(js_script, height=0)
+        st.success("LOGIN SUCCESSFUL. You may now proceed to the CHAT")
     else:
         error.error("Invalid Credentials")
 

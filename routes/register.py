@@ -2,6 +2,7 @@
 
 from fastapi import APIRouter, HTTPException
 from fastapi.responses import JSONResponse
+from variables import client
 from pymongo import MongoClient
 from routes.login import generateJWTToken
 from DataModel import ResponseModel, RequestModel

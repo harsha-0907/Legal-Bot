@@ -21,3 +21,6 @@ class Chat(BaseModel):
 
 class ChatModel(BaseModel):
     chats: Optional[List[Chat]] = None # By default
+    sucess: bool
+    message: Optional[str] = ""
+    status_code: int 

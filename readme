@@ -13,5 +13,6 @@ The Backend will be running in port 89 and the Frontend will be running in port 
 2. To persist the jwt token between various pages ->  we cam e up with the plane to store the token in a file.
     2.1. After I thought of this solution, then a thought cam e to my mind that is savin g jwt in localhost means saving in my system, which is the problem itself
     2.2. Use JS to write the token to the local-storage and retrieve it from the local-storage
+3. Making the DB accessible to the backend was a challenge, so first I thought of importing but that failed so I used a variables.py to accopmodate any global variables
 
 3. To make the DB modular we had to face many challenges, like re-designing the whole oops approach
