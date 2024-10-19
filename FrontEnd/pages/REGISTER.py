@@ -21,18 +21,19 @@ note = st.empty()
 if not st.session_state.gotUsername:
     # If the username is not set
     st.session_state.username = st.text_input("Username", value=st.session_state.username)
-    
-    if st.button("Proceed"):
+    if st.button("Proceed") and st.session_state.username and st.session_state.username.replace(' ', '') != "":
         # Check if the username is already taken
         resp = requests.post(url="http://localhost:8000/register/check-user", json={'username': st.session_state.username})
         resp = resp.json()
+        st.write(st.session_state.username, len(st.session_state.username))
         if resp['status_code'] == 404:
             note.write("Username is already Taken")
             # Add way to refresh the whole page (st.experimental_rerun)
         elif resp['status_code'] == 200:
             note.write(f"That's a good choice {st.session_state.username}, {resp['message']}")
-            st.session_state.gotUsername = True  # Move to next step (set password)
-            st.rerun()  # Trigger rerun to show the next step
+            st.session_state.gotUsername = True
+            st.rerun()
+    
 
 else:
     # Show password input
