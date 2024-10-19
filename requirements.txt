@@ -5,10 +5,6 @@ autopep8
 # Security Headers
 python-jose
 
-# Visualization Tools
-pandas
-matplotlib
-
 # App
 fastapi
 uvicorn
@@ -20,3 +16,7 @@ huggingface_hub
 
 # Database
 pymongo
+
+# Visualization Tools
+pandas
+matplotlib
