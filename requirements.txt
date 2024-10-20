@@ -12,7 +12,10 @@ starlette
 streamlit
 
 # Model
-huggingface_hub
+transformes
+faiss-cpu
+torch
+
 
 # Database
 pymongo
