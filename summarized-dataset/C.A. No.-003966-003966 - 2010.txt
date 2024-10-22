@@ -1,0 +1,57 @@
+## Summary of the Judgement in Amitabha Dasgupta v. United Bank of India & Ors.
+
+This case involved a dispute between a locker holder, Amitabha Dasgupta, and United Bank of India (the bank) regarding the bank's alleged negligence in breaking open his locker and the subsequent loss of some of the items deposited inside. The Supreme Court of India addressed the key legal questions arising from the case, emphasizing the need for clear guidelines regarding the responsibilities of banks in managing locker facilities.
+
+**1. Constitutional References:** None explicitly mentioned in the judgment. However, the discussion implicitly involves the application of Article 14 (Right to Equality) and Article 21 (Right to Life and Personal Liberty) as the court emphasizes the need to protect the rights of consumers and ensure fairness in the banking system.
+
+**2. Key Legal Questions:**
+* Does the bank owe a duty of care to the locker holder with respect to the contents of the locker? 
+* Is the bank liable for loss of items from the locker?
+* Is the bank subject to the laws of bailment in managing locker facilities? 
+* Can the bank claim ignorance of the locker's contents as a defense against liability?
+* Does the bank owe a separate duty of care with respect to diligent management and operation of the locker facility, beyond the contents of the locker?
+
+**3. Legal Doctrines:**
+* **Bailment:** The judgment delves into the legal doctrine of bailment, examining the relationship between the bank (bailee) and the locker holder (bailor).
+* **Negligence:** The court evaluates the bank's liability based on the principle of negligence, considering whether the bank failed to exercise reasonable care in managing the locker facility.
+* **Due Diligence:** The court highlights the requirement for banks to exercise due diligence in operating locker facilities, ensuring proper procedures for allotment, operation, and security.
+* **Customer Protection:** The judgment emphasizes the importance of protecting the interests of consumers and the need for transparency and fairness in banking practices.
+
+**4. Outcome:**
+* The appeal filed by Amitabha Dasgupta was allowed. 
+* The judgment and decree of the National Commission dismissing his revision petition were set aside. 
+* The judgment and decree of the State Commission were restored.
+
+**5. Reliefs or Orders:**
+* The bank was ordered to pay a compensation of Rs. 5,00,000/­ to Amitabha Dasgupta.
+* The bank was further ordered to pay Rs. 1,00,000/­ towards litigation expenses.
+
+**6. Reasoning:**
+* The court found the National Commission's dismissal of the revision petition was inappropriate due to the bank's undisputed negligence in breaking open the locker without a valid cause and without giving notice to the locker holder.
+* The court concluded that the bank’s action was a clear breach of duty of care, amounting to gross deficiency in service, even if the bank lacked knowledge of the exact contents of the locker.
+* The court held that the bank’s unilateral disclaimer of liability for the loss of items from the locker was unacceptable, particularly considering the reliance of consumers on bank lockers for safekeeping of valuables.
+
+**7. Statutory Interpretation:**
+* The court acknowledged the lack of specific legislation or regulations regarding the liability of banks for loss of articles from lockers under Indian law.
+* The court referred to the 2006 and 2007 RBI circulars, acknowledging that the RBI had previously recognized the applicability of bailment principles but had not issued definitive guidelines on the extent of the bank's responsibility. 
+* The court also considered the CCI’s observations regarding the common industry practice of banks disclaiming liability for locker contents and the lack of uniformity in their approach.
+
+**8. Precedents Cited:**
+* Roberts v. Stuyvesant Safe Deposit Co. (1890): This case, decided by the Court of Appeals of New York, established the principle of bailment as applicable to the relationship between banks and locker holders.
+* Jagdish Chandra Trikha v. Punjab National Bank (1998): This Delhi High Court case upheld the bank’s liability as a bailee for loss of valuables entrusted to the bank.
+* National Bank of Lahore Ltd. v. Sohan Lal Saigal (1962): This Punjab and Haryana High Court case explored the application of bailment principles in the context of the modern-day dual-key locker system.
+* Mohinder Singh Nanda v. Bank of Maharashtra (1998): This Punjab and Haryana High Court case highlighted the importance of the bank's knowledge of the locker's contents for establishing a bailment relationship.
+* Atul Mehra v. Bank of Maharashtra (2003): This Punjab and Haryana High Court case further examined the application of bailment principles in the dual-key locker system, emphasizing the need for the locker holder to prove the entrustment of articles to the bank.
+* Punjab National Bank, Bombay v. K.B. Shetty (1991): This National Commission case awarded compensation to the locker holder for loss of articles from a locker, highlighting the bank's responsibility for security and safety.
+* Mahender Singh Siwach v. Punjab and Sind Bank (2006): This National Commission case held the bank liable for negligence in allowing a third party to access the locker and for failure to follow proper verification and documentation procedures, emphasizing the bank’s duty of care towards its customers.
+* Pune Zilla Madyawarti Sahakari Bank Limited v. Ashok Bayaji Ghogare (2015): This National Commission case emphasized the importance of accepting the locker holder's affidavit as evidence regarding the locker's contents unless impeached by cross-examination.
+* UCO Bank v. R.G. Srivastava (1996): This National Commission case remitted the issue of proving the value of lost articles to a civil court, acknowledging the limitations of the consumer forum in handling such complex matters.
+* Mamta Chaudaha v. Branch Manager/Head Manager, State Bank of India (2020): This National Commission case dismissed the complaint for loss of valuables due to the lack of evidence by the locker holder, emphasizing the requirement for adequate proof to establish the claim.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The court accepted the appellants' argument that the bank’s negligence in breaking open the locker without a valid cause and without giving notice was a violation of their duty of care.
+* The court rejected the bank's argument that it had no liability due to a lack of knowledge about the locker's contents, emphasizing the bank's responsibility to maintain secure locker operations.
+
+**Conclusion:**
+
+The judgment in Amitabha Dasgupta v. United Bank of India highlights the need for the RBI to issue clear and comprehensive guidelines regarding the operation and management of locker facilities, addressing the ambiguities and inconsistencies in current practices. The court's decision also underscores the importance of banks fulfilling their responsibility to ensure the safety and security of locker facilities, recognizing that the locker service is a fundamental service for consumers, especially in an increasingly cashless economy.  

@@ -1,0 +1,70 @@
+## Summary of the Supreme Court Judgment in U.P. Awas Evam Vikas Parishad v. Asha Ram (D) Thr. LRS & Ors. 
+
+**1. Constitutional References:**
+
+- **Article 141:** Declares the law declared by the Supreme Court to be binding on all courts in India.
+- **Article 142:** Grants the Supreme Court the power to enforce its decrees and orders. 
+
+**2. Key Legal Questions:**
+
+- Whether the High Court erred in awarding a compensation of Rs. 297/- per square yard for the land acquired by the Parishad, disregarding the different dates of notifications and the distinct nature of the land acquisitions. 
+- Whether the High Court was justified in relying on subsequent judgments involving different acquisitions and different dates of notifications to determine the market value of the land in question. 
+
+**3. Legal Doctrines:**
+
+- **Statutory Interpretation:**  The court analyzes the provisions of the Land Acquisition Act, 1894, and the Uttar Pradesh Awas Evam Vikas Parishad Adhiniyam, 1965, to determine the correct method for calculating compensation for land acquisition.
+- **Market Value Determination:** The court examines the principles for determining the market value of land, including the use of comparable sale instances, judicial precedents, and considerations of location, development, and potentiality.
+- **Res Judicata:** The court implicitly applies the doctrine of res judicata by highlighting that the compensation determined in earlier cases involving different acquisitions and dates of notifications cannot automatically bind the present case.
+- **Procedural Fairness:** The court implicitly considers the principle of procedural fairness by noting that the High Court should have considered the potential impact of its order on the appellants' interests.
+
+**4. Outcome:**
+
+- The appeals were allowed. The Supreme Court set aside the order of the High Court and restored the compensation awarded by the Reference Court.
+
+**5. Reliefs or Orders:**
+
+- The Supreme Court set aside the order of the High Court dated 19.07.2019, awarding a compensation of Rs. 297/- per square yard.
+- The Supreme Court restored the compensation awarded by the Reference Court @ Rs. 120/- per square yard, along with statutory benefits.
+
+**6. Reasoning:**
+
+- The court found that the High Court had erred in applying the compensation rate of Rs. 297/- per square yard based on judgments involving different acquisitions and dates of notifications.
+- The court emphasized that the market value of land must be determined based on comparable sale instances and judicial precedents that are proximate in time and location to the land being acquired.
+- The court noted that the land in question was acquired in 1982, while the judgments relied on by the High Court involved acquisitions that took place five years later.
+- The court also noted that the land acquired for Noida is located in a more developed area than the land acquired for the Parishad, further highlighting the difference in location and circumstances.
+- The court concluded that the High Court was not justified in ignoring the significant time gap between the acquisitions and the differing circumstances of the land and development in the area.
+
+**7. Statutory Interpretation:**
+
+- The court interpreted the Land Acquisition Act, 1894, to find that the market value of land must be determined based on comparable sale instances and judicial precedents that are proximate in time and location to the land being acquired. 
+- The court also interpreted the Uttar Pradesh Awas Evam Vikas Parishad Adhiniyam, 1965, to determine the legal framework for compensation awards under the Act.
+
+**8. Precedents Cited:**
+
+- Narendra & Ors. v. State of Uttar Pradesh & Ors., decided on 11.09.2017
+- Pradeep Kumar v. State of U.P., (2016) 6 SCC 308
+- Smt. Tribeni Devi & Ors. v. Collector of Ranchi and Vice Versa, (1972) 1 SCC 480
+- Gujarat Industrial Development Corpn. v. Narottambhai Morarbhai & Anr., (1996) 11 SCC 159
+- Land Acquisition Officer v. B. Vijender Reddy & Ors., (2001) 10 SCC 669
+- Viluben Jhalejar Contractor (Dead) by LRs. v. State of Gujarat, (2005) 4 SCC 789
+- General Manager, Oil and Natural Gas Corporation Limited v. Rameshbhai Jivanbhai Patel & Anr., (2008) 14 SCC 745
+- Atma Singh (Dead) through LRs & Ors. v. State of Haryana & Anr., (2008) 2 SCC 568
+- Revenue Divisional Officer-cum-Land Acquisition Officer v. Shaik Azam Saheb & Ors., (2009) 4 SCC 395
+- Mohammad Raofuddin v. Land Acquisition Officer, (2009) 14 SCC 367
+- Himmat Singh & Ors. v. State of Madhya Pradesh & Anr., (2013) 16 SCC 392
+- Jagdish Chandra & Ors. v. New Okhla Industrial Development Authority, NOIDA & Anr., decided on 14.12.2007
+- Pradeep Kumar v. State of U.P., decided on 16.02.2016
+- U.P. Awas Evam Vikas Parishad v. Jawahar Lal (D) through LRs & Ors., decided on 28.03.2016
+
+**9. Legal Arguments Accepted/Rejected:**
+
+- The court accepted the appellant's argument that the High Court had erred in applying the compensation rate of Rs. 297/- per square yard based on judgments involving different acquisitions and dates of notifications.
+- The court rejected the land owner's argument that the purpose or authority of the acquisition was inconsequential and that the compensation should be uniformly awarded based on other acquisitions, regardless of the circumstances.
+- The court rejected the land owner's argument that the location of the land being acquired was more advantageous than the land acquired for Noida. 
+
+
+**Overall:**
+
+The judgment emphasizes the importance of applying the principles of market value determination in a consistent and contextually appropriate manner. The court held that the High Court had erred in mechanically applying a compensation rate based on unrelated acquisitions, failing to consider the specific circumstances of the case and the date of the notification in question.  The court underscored the need for judicial scrutiny and individualized assessment of compensation claims based on the specific facts and circumstances of each case. 
+
+

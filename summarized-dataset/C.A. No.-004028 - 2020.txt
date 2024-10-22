@@ -1,0 +1,51 @@
+## Summary of the Judgement in Chintels India Ltd. v. Bhayana Builders Pvt. Ltd.
+
+**1. Constitutional References:**
+* Article 133 read with Article 134A of the Constitution of India (dealing with the certificate for appeal to the Supreme Court).
+
+**2. Key Legal Questions:**
+* Is an order refusing to condone delay in filing an application under Section 34 of the Arbitration and Conciliation Act, 1996 ("Arbitration Act, 1996") to set aside an arbitral award an appealable order under Section 37(1)(c) of the said Act?
+
+**3. Legal Doctrines:**
+* **Appealability of Orders:** The judgment delves into the question of which specific orders under the Arbitration Act, 1996 are appealable.
+* **Effect Doctrine:** This doctrine, applied in the context of appealability, states that an order that effectively disposes of a claim, even if on a preliminary ground, is appealable.
+* **Pari Materia:**  This principle suggests that statutory provisions with similar intent and purpose should be interpreted consistently.
+
+**4. Outcome:**
+* The appeal was allowed.
+* The impugned judgment of the Delhi High Court was set aside.
+* The matter was remitted back to a Division Bench of the High Court to decide whether the single judge's refusal to condone delay was correct. 
+
+**5. Reliefs or Orders:**
+* The Supreme Court found that the order refusing to condone the delay was appealable under Section 37(1)(c) of the Arbitration Act, 1996.
+* The case was sent back to the High Court for further consideration on the merits of the delay condonation issue.
+
+**6. Reasoning:**
+* The court analyzed the language of Sections 34 and 37 of the Arbitration Act, 1996, emphasizing that Section 37(1)(c) refers to "setting aside or refusing to set aside an arbitral award under Section 34," which includes Section 34(3) dealing with condonation of delay.
+* The court found that the "effect doctrine" is implicit in the statutory provision for appeal under Section 37, making an order refusing to condone delay a final order with an appealable effect.
+* The court relied on its previous judgment in Essar Constructions v. N.P. Rama Krishna Reddy (2000) 6 SCC 94, finding it applicable to the current case due to the pari materia provisions of Section 37 of the 1996 Act and Section 39 of the 1940 Act. 
+* The court differentiated the case from Simplex Infrastructures Ltd. (2017) 14 SCC 225 and BGS SGS Soma JV. v. NHPC Limited (2020) 4 SCC 234, arguing that these judgments addressed different issues and did not conclusively settle the question of appealability in the current context.
+* The court overruled the Bombay High Court judgment in State of Maharashtra v. Ramdas Construction Co. 2006 (6) Mah. L.J. 678, finding it inconsistent with Essar Constructions (supra).
+
+**7. Statutory Interpretation:**
+* The court interpreted Sections 34 and 37 of the Arbitration Act, 1996, finding that Section 37(1)(c) encompasses orders refusing to condone delay under Section 34(3).
+* The court emphasized that the “and from no others” clause in Section 37 does not restrict the scope of appealability as narrowly as argued by the respondent. 
+
+**8. Precedents Cited:**
+* Essar Constructions v. N.P. Rama Krishna Reddy (2000) 6 SCC 94
+* Chief Engineer of BPDP/REO Ranchi v. Scoot Wilson Kirpatrick India (P.) Ltd. (2006) 13 SCC 622
+* Fuerst Day Lawson Ltd. v. Jindal Exports Ltd. (2011) 8 SCC 333
+* Union of India v. Simplex Infrastructures Ltd. (2017) 14 SCC 225
+* BGS SGS Soma JV. v. NHPC Limited (2020) 4 SCC 234
+* Harmanprit Singh Sidhu v. Arcadia Shares & Stock Brokers Pvt. Ltd. (2016) 234 DLT 30 
+* State of Maharashtra v. Ramdas Construction Co. 2006 (6) Mah. L.J. 678
+* Union of India v. Radha Krishna Seth and Anr., 2005 SCC OnLine All 8400
+* State of Himachal Pradesh v. Himachal Techno Engineers and Anr. (2010) 12 SCC 210
+
+**9. Legal Arguments Accepted/Rejected:**
+* The appellant's argument that an order refusing to condone delay under Section 34(3) is appealable under Section 37(1)(c) was accepted.
+* The respondent's argument that the appeal was not maintainable because the order did not directly set aside or refuse to set aside the arbitral award was rejected.
+* The respondent's argument that the Supreme Court's previous judgments in Simplex Infrastructures Ltd. and BGS SGS Soma JV. v. NHPC Limited established a different interpretation of Section 37(1)(c) was rejected.
+
+
+**Note:** This judgment highlights the importance of ensuring a proper avenue for appeal in arbitration cases.  The court recognized that, given the limited grounds for appeal under the Arbitration Act, 1996, the “effect doctrine” must be applied to ensure that parties have recourse to appellate courts in situations where their rights are substantially affected. 

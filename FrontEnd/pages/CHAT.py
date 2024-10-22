@@ -1,6 +1,7 @@
 import streamlit as st
 import json
 import requests
+from jose import JWTError, jwt
 import streamlit.components.v1 as components
 
 # Load custom CSS (if any)
@@ -13,9 +14,13 @@ loadCSS("FrontEnd/css/style.css")  # Assuming you have a CSS file to load
 token = st.session_state.jwt_token if 'jwt_token' in st.session_state else None
 
 if token:
-    st.write("Welcome")
+    try:
+        username = token.decode(token, "IH3TeF130nt3nd", "HS256")['sub']
+        st.write(f"Welcome {username}")
+    except Exception as e:
+        st.write("Please Login")
 else:
-    st.write("(Please Login First)")
+    st.write("(Please Login)")
 
 def send_request(data, token=None):
 

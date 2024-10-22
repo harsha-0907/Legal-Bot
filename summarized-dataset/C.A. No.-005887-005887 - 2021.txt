@@ -1,0 +1,48 @@
+## Summary of the Judgment in United India Insurance Co. Ltd. v. Sushil Kumar Godara
+
+**1. Constitutional References:**
+
+* Article 141 of the Constitution of India (regarding the binding nature of Supreme Court judgments).
+
+**2. Key Legal Questions:**
+
+* Whether the insurer is liable to pay a claim for a stolen vehicle when the vehicle was being driven without a valid registration at the time of the theft.
+* Whether the principle established in Narinder Singh (supra) regarding the non-liability of the insurer in case of an accident involving a vehicle without valid registration applies to a claim for theft.
+
+**3. Legal Doctrines:**
+
+* Contract law, specifically breach of contract and fundamental breach.
+* Statutory interpretation of the Motor Vehicles Act, 1988, particularly Section 39 and Section 192.
+* Binding precedent.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeal and set aside the orders of both the National Consumer Disputes Redressal Commission (NCDRC) and the Rajasthan State Consumer Disputes Redressal Commission.
+* The respondent's complaint was dismissed.
+
+**5. Reliefs or Orders:**
+
+* The insurer was relieved of its liability to pay the insurance claim.
+
+**6. Reasoning:**
+
+* The Court found that the respondent's vehicle was being driven without a valid registration at the time of the theft, which constituted a fundamental breach of the insurance policy conditions.
+* The Court held that the principle established in Narinder Singh (supra) applies to both accidents and theft claims, as driving without valid registration is a fundamental breach of the policy in both scenarios.
+* The Court emphasized the binding nature of its previous judgment in Narinder Singh (supra) and criticized the NCDRC for ignoring this precedent.
+
+**7. Statutory Interpretation:**
+
+* The Court interpreted Section 39 and Section 192 of the Motor Vehicles Act, 1988, emphasizing that driving a vehicle without a valid registration is a punishable offense.
+* The Court held that this violation constitutes a fundamental breach of the insurance contract.
+
+**8. Precedents Cited:**
+
+* Narinder Singh Vs. New India Assurance Co. Ltd. (2014) 9 SCC 324 
+* Naveen Kumar Vs. National Insurance Company Ltd. [RP/250/2019] decided on 26.11.2019
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellant argued that the respondent's lack of a valid registration constituted a fundamental breach of the policy, allowing the insurer to repudiate the claim. This argument was accepted by the Court.
+* The respondent argued that Narinder Singh (supra) was not applicable to theft claims and that the temporary registration, though expired, was sufficient. This argument was rejected.
+* The respondent argued that the NCDRC had correctly dismissed the appeal based on the facts of the case. This argument was rejected.
+

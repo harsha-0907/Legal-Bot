@@ -1,0 +1,55 @@
+## Summary of the Judgment in Annapurn0a0 Jayswal v. Indian Oil Corporation Limited and Ors.
+
+**1. Constitutional References:**
+
+* **Article 226:** The High Court’s jurisdiction to issue writs for the enforcement of fundamental rights was invoked by the plaintiff.
+* **Article 227:** The High Court’s jurisdiction to exercise superintendence over subordinate courts was also invoked by the plaintiff.
+
+**2. Key Legal Questions:**
+
+* **Commencement Date of Lease Agreement:** Whether the lease agreement commenced on the date the application for the petrol outlet was submitted (11.11.2011) or on the date the lease deed was registered (08.11.2011).
+* **Validity of Lease Agreement:** Whether the lease agreement was validly executed and whether the appellant (Annapurn0a0 Jayswal) had a valid claim to the petrol outlet.
+* **Interpretation of Lease Deed:** Whether the lease deed clearly stipulated the commencement date of the lease.
+* **Jurisdiction of the High Court:** Whether the High Court had the authority to review the findings of fact and legal interpretations made by the lower court.
+
+**3. Legal Doctrines:**
+
+* **Contract Law:** The court examined the terms and conditions of the lease agreement, focusing on the commencement date and the transfer of possession.
+* **Statutory Interpretation:** The court analyzed the provisions of the Indian Registration Act, 1908, particularly Section 47, regarding the commencement date of a registered document.
+* **Estoppel:** The court considered the principle of estoppel, holding that the appellant was bound by the previous judicial order upholding the lease agreement.
+* **Principles of Natural Justice:** The court implicitly applied principles of natural justice, recognizing the appellant’s right to be heard and challenging the lease agreement.
+
+**4. Outcome:**
+
+* The Supreme Court dismissed the appeal filed by the appellant (Annapurn0a0 Jayswal), upholding the judgment of the High Court.
+* The appellant’s claim to the petrol outlet was rejected.
+
+**5. Reliefs or Orders:**
+
+* No specific reliefs were granted to the appellant.
+
+**6. Reasoning:**
+
+* **Commencement Date of Lease Agreement:** The Supreme Court held that the lease agreement commenced on the date the lease deed was registered (08.11.2011), not on the date the application for the petrol outlet was submitted (11.11.2011).  The court referenced Section 47 of the Indian Registration Act, 1908, which states that a registered document takes effect from the date of registration.
+* **Validity of Lease Agreement:** The court found that the lease agreement was validly executed and that the appellant did not have a valid claim to the petrol outlet. The court acknowledged that the appellant had submitted an application for the petrol outlet, but the lease agreement was subsequently granted to another party.
+* **Interpretation of Lease Deed:** The court interpreted the lease deed as clearly stipulating that the commencement date of the lease was the date of registration (08.11.2011).  The court noted that the lease deed did not mention the date of the application as the starting point for the lease period.
+* **Jurisdiction of the High Court:** The Supreme Court found that the High Court correctly exercised its jurisdiction in examining the findings of the lower court and upholding the validity of the lease agreement.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted Section 47 of the Indian Registration Act, 1908, stating that a registered document takes effect from the date of registration, not from the date of an application.
+
+**8. Precedents Cited:**
+
+* **Jugalkishore Saraf v. Messrs Raw Cotton Co. Ltd., AIR 1955 SC 376:**  The court referenced this judgment to discuss the interpretation of the term "commencement" and the significance of the registration date in lease agreements.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* **Accepted Arguments:** The respondent’s arguments regarding the validity of the lease agreement and the commencement date based on the registration date were accepted. 
+* **Rejected Arguments:** The appellant’s arguments challenging the jurisdiction of the Wakf Tribunal and the validity of the lease agreement were rejected. The appellant’s arguments that the lease agreement was not effective from the date of registration were also rejected.
+
+**Conclusion:**
+
+The Supreme Court’s judgment emphasizes the importance of following proper legal procedures and adhering to the terms of registered agreements in real estate transactions.  The court highlighted that the registration date serves as the definitive starting point for lease agreements. The decision reinforces the role of the High Court in reviewing lower court decisions and ensuring fairness and legal accuracy. 
+
+

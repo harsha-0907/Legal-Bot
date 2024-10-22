@@ -1,0 +1,61 @@
+## Judgment Summary: Nathu Singh v. State of Uttar Pradesh & Ors. (and Ompal Singh v. State of Uttar Pradesh & Ors.)
+
+**1. Constitutional References:**
+
+* **Article 21 (Protection of Life and Personal Liberty):** The judgment emphasizes that the right to life and liberty is fundamental and any interference with this right must be justified by law and procedural fairness. 
+* **Article 142 (Power of Supreme Court to do Complete Justice):** The judgment mentions this article, acknowledging the Supreme Court's power to pass orders in the interest of justice, even beyond the scope of specific statutory provisions. 
+
+**2. Key Legal Questions:**
+
+* Can the High Court grant protection from arrest to an accused after dismissing their anticipatory bail application?
+* Does Section 438 CrPC allow for such protective orders after the rejection of an anticipatory bail application?
+* Does the High Court have inherent power to grant such protective orders, even if not explicitly provided for in Section 438 CrPC?
+
+**3. Legal Doctrines:**
+
+* **Anticipatory Bail (Section 438 CrPC):** This doctrine allows a person who apprehends arrest to seek protection from arrest before the arrest warrant is issued. 
+* **Judicial Discretion:** This doctrine recognizes that courts have the power to exercise their discretion to ensure justice is served, but this discretion must be exercised reasonably and based on sound legal principles. 
+* **Protection from Coercive Action:** This refers to safeguards granted by the courts to prevent the misuse of legal processes, particularly police investigation and arrest, against individuals. 
+* **Custodial Interrogation:** This involves questioning an individual while in police custody.
+
+**4. Outcome:**
+
+* Both criminal appeals (522/2021 and 523/2021) were allowed. 
+* The High Court's orders granting protection from arrest for 90 days to the respondents-accused were set aside. 
+
+**5. Reliefs or Orders:**
+
+* The appellants (complainants) were granted relief from the High Court's protective orders. 
+* The investigation into the cases was left open to the investigating agency to proceed in accordance with law.
+
+**6. Reasoning:**
+
+* The court examined the legal provisions of Section 438 CrPC, specifically focusing on the proviso to Section 438(1) which states that if the High Court rejects an anticipatory bail application, the police can arrest the accused.  
+* The court concluded that the proviso did not bar the court from granting additional protection to an accused even after dismissing their anticipatory bail application. 
+* The court acknowledged that the High Court has inherent power under Section 482 CrPC to pass orders to secure the ends of justice and ensure fairness in legal proceedings. 
+* The court reasoned that although the High Court had the power to grant protective orders even after dismissing an anticipatory bail application, this power should not be exercised arbitrarily or without sufficient justification. 
+* The court criticized the High Court for granting protection for 90 days to the accused without providing any reasons, considering the gravity of the allegations and the potential harm to the investigation process. 
+* The court highlighted that the High Court's orders had effectively prevented the police from conducting custodial interrogation of the accused, even though the offenses involved were serious. 
+
+**7. Statutory Interpretation:**
+
+* The court interpreted Section 438 CrPC as primarily focused on granting anticipatory bail, while acknowledging the possibility of the court exercising discretionary power to grant additional protection in exceptional circumstances.
+* The court interpreted the proviso to Section 438(1) CrPC as a clarificatory provision, clarifying the police's right to arrest an accused after rejection of anticipatory bail, but not restricting the court's discretionary power to grant additional protection in exceptional cases. 
+
+**8. Precedents Cited:**
+
+* *Sushila Aggarwal v. State (NCT of Delhi)* (2020) 5 SCC 1
+* *Gurbaksh Singh Sibbia v. State of Punjab* (1980) 2 SCC 565
+* *P. Chidambaram v. Directorate of Enforcement* AIR 2019 SC 4198
+* *Amrawati & Anr. v. State of U.P.* 2004 (57) ALR 290 
+* *Lal Kamlendra Pratap Singh v. State of U.P.* 2009 (3) ADJ 322 (SC)
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The court accepted the appellants' argument that the High Court erred in granting protection from arrest for 90 days after dismissing their anticipatory bail application.
+* The court rejected the respondents' arguments justifying the High Court's protective orders, finding that the orders lacked sufficient justification, were excessive, and hampered the investigation process.
+
+**Conclusion:**
+
+The Supreme Court's decision highlights the importance of balancing the rights of the accused with the interests of the investigating agency and society at large. While acknowledging the High Court's inherent power to ensure justice, the court emphasized that this power cannot be exercised arbitrarily or without valid reasons. This judgment serves as a reminder that the courts must act judiciously and with caution in granting protection from arrest to accused individuals. 
+

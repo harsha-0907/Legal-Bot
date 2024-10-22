@@ -1,0 +1,36 @@
+## Summary of the Supreme Court Judgment in The Employees State Insurance Corporation v. M/s Texmo Industries 
+
+**1. Constitutional References:** 
+- **Article 136:** Power of the Supreme Court to grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter.
+
+**2. Key Legal Questions:**
+- Whether Conveyance Allowance paid by an employer to its employees is considered "wages" as defined under Section 2(22) of the Employees State Insurance Act, 1948 (ESI Act).
+
+**3. Legal Doctrines:**
+- **Statutory Interpretation:** The court interprets the definition of "wages" under Section 2(22) of the ESI Act.
+- **Social Legislation:** The court considers the ESI Act as social legislation intended to benefit employees and applies a pro-employee interpretation in case of ambiguity.
+
+**4. Outcome:** The Special Leave Petition was dismissed. The Supreme Court upheld the concurrent findings of the High Court and the Employees’ State Insurance Court that Conveyance Allowance is excluded from the definition of "wages" under the ESI Act.
+
+**5. Reliefs or Orders:** No relief was granted. The Special Leave Petition was dismissed.
+
+**6. Reasoning:**
+- The court interpreted Section 2(22) of the ESI Act, emphasizing that "wages" include remunerative payments but exclude compensatory payments.
+- The court found that Conveyance Allowance is in the nature of travelling allowance, intended to defray travel expenses from the employee's residence to their place of work. It is a compensatory payment, not a direct remuneration for the employee's work.
+- The court referred to previous judgments from the Madras and Kerala High Courts, which held that Conveyance Allowance falls under the ambit of "travelling allowance" and is excluded from "wages."
+
+**7. Statutory Interpretation:** The court interpreted Section 2(22) of the ESI Act to conclude that "travelling allowance" encompasses Conveyance Allowance, thereby excluding it from the definition of "wages." 
+
+**8. Precedents Cited:**
+- Management of Oriental Hotels Ltd., Chennai v. Employees’ State Insurance Corporation, Chennai (2002) 1 LLJ 14
+- Regional Director, ESI Corporation v. Sundaram Clayton Ltd. (2004) II LLJ 30
+- Regional Director, ESI Corporation, Thrissur v. Royal Plastics Industries, Aluva (2015) 2 KLT 64
+- Whirlpool of India Limited v. ESI Corporation (2000) 3 SCC 185
+- Wellman (India) (p) Ltd. v. ESI Corporation (1999) 1 SCC 219
+- Modella Woollens Ltd. V ESI Corporation (1994) Supp(3) SCC 580
+- Harihar Polyfibres v. Regional Director, ESI Corporation (1994) 4 SCC 7
+- Regional Director, Employees State Insurance Corporation v. M/s IT Solutions (India) Private Limited (ILR 2002 KAR 4019)
+
+**9. Legal Arguments Accepted/Rejected:**
+- The court accepted the arguments of the Respondent Company and the lower courts that Conveyance Allowance is a form of travelling allowance and is excluded from the definition of "wages."
+- The court rejected the Petitioner Corporation's argument that Conveyance Allowance should be included in "wages" based on the Single Bench judgment of the Karnataka High Court in M/s IT Solutions (India) Private Limited, finding the reasoning of that judgment unsustainable. 

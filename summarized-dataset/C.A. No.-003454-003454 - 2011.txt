@@ -1,0 +1,62 @@
+## Summary of the Supreme Court Judgment in M/s Oriental Structural Engineers Pvt. Ltd. v. State of Kerala
+
+**1. Constitutional References:**
+
+- The judgment does not explicitly cite any specific articles from the Constitution of India. However, the case involves the interpretation of the Arbitration and Conciliation Act, 1996 (1996 Act), enacted under the authority of the Indian Constitution.
+
+**2. Key Legal Questions:**
+
+- Whether the appellants (contractors) were entitled to receive interest on delayed payments in local currency under the contract, despite not filling the blank space for the interest rate in the "appendix to bid." 
+- Whether the Arbitral Tribunal erred in awarding interest on delayed payments in local currency, as the agreement was silent on the specific rate of interest.
+- Whether the High Court and the Arbitration Court erred in setting aside the Arbitral Tribunal's award on the basis of a "patent illegality" principle. 
+
+**3. Legal Doctrines:**
+
+- **Contract Law:** The court analyzes the terms of the contract between the appellants and the State of Kerala to determine the parties' rights and obligations regarding interest on delayed payments.
+- **Waiver:** The court considers whether the appellants waived their right to claim interest on delayed payments in local currency through certain communications. 
+- **Arbitration:** The court examines the power of an Arbitral Tribunal to award interest on delayed payments under the 1996 Act, considering the principle of "patent illegality."
+- **Statutory Interpretation:** The court interprets the provisions of the 1996 Act, particularly Section 31(7), to determine the Arbitral Tribunal's power to award interest.
+- **Equitable Considerations:** The court considers the principle of awarding interest as a compensatory or equitable measure. 
+
+**4. Outcome:**
+
+- The appeal was allowed in part. The Supreme Court set aside the judgments of the High Court and Arbitration Court, restoring the Arbitral Tribunal's award regarding the entitlement to interest on delayed payments in local currency. However, the Supreme Court modified the interest rate.
+
+**5. Reliefs or Orders:**
+
+- The Supreme Court set aside the High Court judgment dated 17th September, 2009, and the Arbitration Court's order setting aside the Arbitral Tribunal's award. 
+- The Supreme Court upheld the Arbitral Tribunal's award regarding the entitlement to interest on delayed payments in local currency but modified the interest rate to 8% simple interest per annum.
+
+**6. Reasoning:**
+
+- The court found that the contract did not contain any express exclusion clause preventing the award of interest on delayed payments in local currency.
+- The court held that the omission to fill the blank space for the interest rate in the "appendix to bid" did not imply a "zero" or "nil" interest rate, as interpreted by the High Court and Arbitration Court. 
+- The court accepted the Arbitral Tribunal's reasoning that the contract itself provided for payment of interest on delayed payments and there was no evidence of waiver.
+- The court found that the High Court and Arbitration Court's decision to set aside the award on the grounds of "patent illegality" was not justified. The court emphasized that the Arbitral Tribunal had interpreted the contract in a reasonable manner, and the "patent illegality" principle should not be invoked to overturn an award simply because the Arbitral Tribunal did not arrive at a conclusion that the court would have reached. 
+- The court deemed the interest rate awarded by the Arbitral Tribunal to be excessive and adjusted it to 8% simple interest per annum, based on the principle of fairness and equity. 
+
+**7. Statutory Interpretation:**
+
+- The court interpreted the 1996 Act to confirm the Arbitral Tribunal's power to award interest on delayed payments, especially when the contract does not explicitly exclude such payment.
+- The court interpreted Section 31(7) of the 1996 Act to highlight that unless otherwise agreed upon, the Arbitral Tribunal can award interest at a reasonable rate.
+
+**8. Precedents Cited:**
+
+- Secretary, Irrigation Department, Government of Orissa & Ors. v. G.C. Roy [(1992) 1 SCC 508]
+- Reliance Cellulose Products Ltd. v. ONGC Ltd. [(2018) 9 SCC 266]
+- Union of India v. Bright Power Projects (India) (P) Ltd. [(2015) 9 SCC 695]
+- Oil Natural Gas Corporation Ltd. v. Saw Pipes Ltd. [(2003) 5 SCC 705]
+- Associate Builders v. Delhi Development Authority [(2015) 3 SCC 49]
+
+**9. Legal Arguments Accepted/Rejected:**
+
+- The court accepted the appellants' argument that the contract did not exclude interest on delayed payments.
+- The court accepted the appellants' argument that there was no evidence of waiver regarding the claim for interest.
+- The court accepted the Arbitral Tribunal's reasoning that the contract did not prohibit the award of interest.
+- The court rejected the respondents' argument that the omission to fill the blank space in the "appendix to bid" implied "zero" or "nil" interest.
+- The court rejected the respondents' argument that the "patent illegality" principle justified overturning the award. 
+
+**Overall:**
+
+This judgment provides a clear interpretation of contractual provisions regarding interest on delayed payments, particularly within the context of arbitration under the 1996 Act. The court upheld the Arbitral Tribunal's right to award interest when the contract does not explicitly exclude such payment. However, the judgment also highlights the court's role in ensuring fairness and reasonableness by modifying an excessive interest rate determined by the Arbitral Tribunal. 
+

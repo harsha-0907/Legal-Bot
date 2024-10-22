@@ -1,0 +1,51 @@
+## Judgment Summary: Chief General Manager (IPC) v. Narmada Equipments Pvt Ltd
+
+**1. Constitutional References:**
+
+* **Article 14 (Right to Equality):** Implicitly referenced through the discussion on fair treatment of parties in legal disputes.
+* **Article 142 (Power of Supreme Court to do complete justice):**  This article is the basis for the Supreme Court's power to pronounce the final decision and order in the case.
+
+**2. Key Legal Questions:**
+
+* Does Section 86(1)(f) of the Electricity Act, 2003 (2003 Act) override Section 11 of the Arbitration and Conciliation Act, 1996 (1996 Act) in adjudicating disputes between licensees and generating companies? 
+* Can a party raise an objection based on a lack of jurisdiction under Section 86(1)(f) of the 2003 Act in a subsequent application under Section 11(6) of the 1996 Act, even if they did not raise it in the initial application or before the arbitrators?
+
+**3. Legal Doctrines:**
+
+* **Statutory Interpretation:** The court primarily focused on interpreting the meaning and application of Section 86(1)(f) of the 2003 Act and its relation to Section 11 of the 1996 Act.
+* **Special Law Overrides General Law:** The court applied this principle to determine that Section 86(1)(f) of the 2003 Act, being a special provision for adjudicating specific disputes, overrides the general provisions in Section 11 of the 1996 Act.
+* **Jurisdiction Cannot be Assumed by Consent:** This principle emphasizes that consent cannot confer jurisdiction on a court or tribunal that lacks it by law.
+* **Defect of Jurisdiction is Fatal:** The court reiterated that a decree passed by a court without subject matter jurisdiction is a nullity, rendering it invalid, and can be challenged at any stage. 
+
+**4. Outcome:**
+
+* The appeal was allowed.
+* The High Court's order appointing an arbitrator under Section 11(6) of the 1996 Act was set aside.
+
+**5. Reliefs or Orders:**
+
+* The court revoked the High Court's order appointing an arbitrator.
+* The respondent (Narmada Equipments) is free to seek other legal remedies available to them.
+
+**6. Reasoning:**
+
+* The court followed the precedent set in *Gujarat Urja Vikas Nigam Limited v Essar Power Limited* (2008) 4 SCC 755, which established that Section 86(1)(f) of the 2003 Act is a special provision that grants exclusive jurisdiction to the State Electricity Commission to adjudicate disputes between licensees and generating companies.
+* The court held that the "and" in Section 86(1)(f) should be interpreted as "or," since it is impossible for the State Electricity Commission to both adjudicate the dispute and refer it to arbitration.
+* The court rejected the argument that the appellant was barred from raising the jurisdictional objection under Section 86(1)(f) in the later application, as it is a fundamental issue that cannot be waived through consent or inaction in earlier proceedings.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted Section 86(1)(f) of the 2003 Act as granting exclusive jurisdiction to the State Electricity Commission to resolve disputes between licensees and generating companies, either directly or by referring the dispute for arbitration.
+* The court interpreted Section 21 of the 1996 Act to establish the commencement of arbitral proceedings as the date on which a request for arbitration is received by the respondent.
+
+**8. Precedents Cited:**
+
+* *Gujarat Urja Vikas Nigam Limited v Essar Power Limited* (2008) 4 SCC 755
+* *Hindustan Zinc Limited v Ajmer Vidyut Vitran Nigam Limited* (2019) 17 SCC 82
+* *NHAI v Sayedabad Tea Company Limited* (2020) 15 SCC 161
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The court accepted the argument that Section 86(1)(f) of the 2003 Act overrides Section 11 of the 1996 Act.
+* The court rejected the argument that the appellant's failure to raise the jurisdictional objection in the earlier proceedings barred them from raising it later.
+* The court accepted the respondent's argument that the commencement of the arbitration proceedings was governed by the notice invoking Clause 12.3 of the PPA, which was issued after the 2003 Act came into force. 

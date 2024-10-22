@@ -1,0 +1,62 @@
+## Summary of the Supreme Court Judgment in Sripati Singh (since deceased) Through His Son Gaurav Singh v. The State of Jharkhand & Anr.
+
+**1. Constitutional References:**
+
+- The judgment does not explicitly cite any specific articles from the Constitution of India. However, the case involves the interpretation of the Negotiable Instruments Act, 1881 (N.I. Act), enacted under the authority of the Indian Constitution.
+
+**2. Key Legal Questions:**
+
+- Whether a cheque issued as security for a loan can still be presented for realization after the due date for repayment has passed.
+- Whether the appellant had established a prima facie case for the offence under Section 138 of the N.I. Act, given that the cheque was issued as security and not directly for the discharge of a debt.
+- Whether the learned Magistrate erred in taking cognizance of the offence alleged against the respondent under Section 138 of the N.I. Act.
+
+**3. Legal Doctrines:**
+
+- **Statutory Interpretation:** The court analyzes the provisions of the N.I. Act, particularly Section 138, to determine the circumstances under which a cheque issued as security can be presented for realization.
+- **Mens Rea:** The court considers the requirement of mens rea (guilty mind) for the offence of cheating under Section 420 of the Indian Penal Code (IPC).
+- **Prima Facie Evidence:** The court examines whether the appellant had established a prima facie case for the offence under Section 138 of the N.I. Act.
+- **Jurisdiction of Magistrate:** The court implicitly considers the jurisdiction of the Magistrate to take cognizance of a complaint under Section 138 of the N.I. Act.
+
+**4. Outcome:**
+
+- The appeals were allowed in part. The Supreme Court set aside the High Court order quashing the complaint and restored the complaint under Section 138 of the N.I. Act.
+
+**5. Reliefs or Orders:**
+
+- The Supreme Court set aside the High Court order dated 17.12.2019, quashing the complaint.
+- The Supreme Court restored the orders dated 04.07.2016 and 13.06.2019 passed by the Judicial Magistrate.
+- The complaint under Section 138 of the N.I. Act was restored to the file of the Judicial Magistrate for further proceedings.
+
+**6. Reasoning:**
+
+- The court acknowledged that a cheque issued as security for a loan cannot be considered a worthless piece of paper under all circumstances.
+- The court found that the respondent had issued the cheque as an assurance to repay the loan amount after the due date. The loan was in subsistence when the cheque was issued, and the cheque was presented after the agreed period for repayment had passed.
+- The court held that the High Court erred in relying on the decision in Sudhir Kumar Bhalla v. Jagdish Chand (2008) 7 SCC 137, which was not applicable to the present case.
+- The court accepted the appellant's argument that the cheque had matured for payment and the appellant was entitled to present it for realization. 
+- The court ruled that the High Court's decision to quash the complaint was not justified, as the appellant had established a prima facie case for the offence under Section 138 of the N.I. Act. 
+
+**7. Statutory Interpretation:**
+
+- The court interpreted Section 138 of the N.I. Act to find that a cheque issued as security can be presented for realization if the debt is not repaid within the agreed timeframe. 
+- The court differentiated between a cheque issued as an advance payment for a canceled purchase order and a cheque issued as security for a loan that has become due and payable.
+
+**8. Precedents Cited:**
+
+- Sampelly Satyanarayana Rao v. Indian Renewable Energy Development Agency Ltd. (Criminal Appeal No. 867 of 2016)
+- M/s Womb Laboratories Pvt. Ltd. v. Vijay Ahuja and Anr. (Criminal Appeal No. 1382-1383 of 2019)
+- Sudhir Kr. Bhalla v. Jagdish Chand and Others (2008) 7 SCC 137
+- Samir Sahay alias Sameer Sahay v. State of UP & Anr. (2018) 14 SCC 233
+- Indus Airways Pvt. Ltd. v. Magnum Aviation Pvt. Ltd. (2014) 12 SCC 539
+
+**9. Legal Arguments Accepted/Rejected:**
+
+- The court accepted the appellant's argument that the cheque issued as security had matured for payment and the appellant was entitled to present it for realization.
+- The court accepted the appellant's argument that the High Court erred in relying on the decision in Sudhir Kumar Bhalla v. Jagdish Chand (2008) 7 SCC 137.
+- The court rejected the respondent's argument that the complaint should be dismissed as there was no criminal offence under Sections 420 of the IPC and 138 of the N.I. Act.
+- The court rejected the respondent's argument that the cheque was issued solely as security and could not be presented for realization.
+
+**Overall:**
+
+This judgment clarifies the legal interpretation of a cheque issued as security for a loan. The court emphasized that a cheque issued as security can be presented for realization after the due date for repayment has passed if the loan has not been repaid. The decision underscores the need for courts to consider the specific facts and circumstances of a case when determining the applicability of provisions regarding the dishonor of cheques. 
+
+

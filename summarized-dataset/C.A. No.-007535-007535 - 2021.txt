@@ -1,0 +1,53 @@
+## Judgment Summary: Shyam Sunder Oberoi & Ors. v. District and Session Judge Tis Hazari Court, Delhi & Ors.
+
+**1. Constitutional References:**
+
+* No specific constitutional articles are mentioned in this judgment.
+
+**2. Key Legal Questions:**
+
+* Can ad-hoc employees who were later regularized in the Lower Division Clerk (LDC) cadre claim seniority from the date of their initial ad-hoc appointment?
+* What legal principles and guidelines govern the determination of seniority in the ministerial cadre of the subordinate judiciary in Delhi?
+* Was the High Court's decision to grant seniority from the date of initial ad-hoc appointment to the ad-hoc employees justified, especially considering the earlier interim orders in the case?
+
+**3. Legal Doctrines:**
+
+* **Seniority:** This doctrine relates to the order of ranking among employees based on length of service, which can affect promotions, salary, and other benefits.
+* **Regularization of Service:** This involves the confirmation of an ad-hoc appointment into a permanent or substantive position. 
+* **Interim Orders:** These are temporary orders passed by the court during the pendency of a case, often to maintain the status quo or provide interim relief.
+* **Legal Precedent:** The court relied on previous case laws to interpret and apply the relevant legal principles. 
+
+**4. Outcome:**
+
+* The appeal was allowed.
+* The judgment passed by the Division Bench of the Delhi High Court dated 6th December, 2018 was set aside. 
+* The High Court's decision to grant seniority to the ad-hoc employees from the date of their initial appointment was reversed.
+
+**5. Reliefs or Orders:**
+
+* The appellants (substantively appointed LDCs) were granted relief from the High Court's order, which had placed the ad-hoc employees senior to them. 
+* The appellants will now count their seniority from the date of their own respective regularization as LDCs.
+
+**6. Reasoning:**
+
+* The court found that the High Court's decision to grant seniority to the ad-hoc employees from the date of their initial appointment was inconsistent with the earlier orders in the case.
+* The court highlighted that the interim orders passed by the High Court in 1992 and 1994 had aimed to protect the seniority of the ad-hoc employees vis-à-vis the new recruits who qualified the written and typing tests in 1992, but did not grant them seniority from the initial date of appointment.
+* The court observed that the Order dated 17th November, 2000, which regularized the ad-hoc employees, had specifically mentioned that their seniority would be determined separately in accordance with rules.
+* The court acknowledged the absence of any specific rules for determining seniority in the LDC cadre of the subordinate judiciary, but argued that the interim orders and the subsequent regularization order did not warrant granting seniority from the initial ad-hoc appointment. 
+* The court further emphasized that the appellants, who had been recruited through open selection and qualified the written and typing tests in 1987, could not be relegated in seniority compared to the ad-hoc employees. 
+* The court considered the earlier precedents cited in the case and ultimately concluded that the High Court's decision regarding seniority was based on a misinterpretation of the earlier orders and lacked legal basis. 
+
+**7. Statutory Interpretation:**
+
+* The court applied the relevant provisions of the CrPC and the case law regarding the interpretation of Section 197 of the CrPC, emphasizing its role in protecting public servants. 
+
+**8. Precedents Cited:**
+
+* *Direct Recruit Class II Engg. Officers’ Association v. State of Maharashtra* (1990) 2 SCC 712
+* *B.S. Saiga & Ors. v. M.S. Kochhar & Ors.* (1985) 2 SCC 638 
+* *State of Maharashtra v. Dr. Budhikota Subbarao* (2003) 5 SCC 1
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The court accepted the arguments of the appellants, finding that the High Court erred in granting seniority to the ad-hoc employees from their initial appointment date.
+* The court rejected the arguments of the respondents, who claimed seniority from the initial appointment date based on the earlier interim orders. 

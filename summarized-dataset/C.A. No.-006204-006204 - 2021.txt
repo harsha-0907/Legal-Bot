@@ -1,0 +1,48 @@
+## Summary of the Judgment in The Commissioner of Income Tax, Chennai v. Mohammed Meeran Shahul Hameed
+
+**1. Constitutional References:**
+
+* **None explicitly stated.**
+
+**2. Key Legal Questions:**
+
+* **Interpretation of Section 263(2) of the Income Tax Act:** Whether the two-year limitation period for passing a revision order under Section 263 of the Income Tax Act is calculated from the date the order is "made" (passed by the Commissioner) or the date the order is "received" by the assessee.
+* **Period of Limitation:** Whether the order passed by the Commissioner of Income Tax (the Commissioner) under Section 263 was barred by the limitation period, considering the order was dispatched on 28.03.2012 and received by the assessee on 29.11.2012.
+
+**3. Legal Doctrines:**
+
+* **Statutory Interpretation:** The court focused on the interpretation of the specific wording of Section 263(2) of the Income Tax Act, particularly the use of the word "made" in relation to the limitation period.
+* **Principles of Statutory Construction:** The court applied the cardinal principle of statutory interpretation that the law should be interpreted as it is written and nothing should be added or taken away from its provisions.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeal filed by the Commissioner of Income Tax (the Appellant).
+* The High Court’s judgment dismissing the appeal and upholding the ITAT’s order was set aside.
+* The ITAT’s order quashing the revisional order passed by the Commissioner under Section 263 was reversed. 
+
+**5. Reliefs or Orders:**
+
+* The ITAT’s order quashing the revisional order passed by the Commissioner under Section 263 of the Income Tax Act was reversed.
+* The case was remanded to the ITAT for further proceedings.
+
+**6. Reasoning:**
+
+* The court held that the High Court and the ITAT had misconstrued and misinterpreted the provisions of Section 263(2) of the Income Tax Act.  The court emphasized that Section 263(2) stipulates that the order under Section 263 cannot be "made" after the expiry of two years from the end of the financial year. The court clarified that the relevant date for determining the limitation period is the date the order was "made" (passed by the Commissioner), not the date the order was "received" by the assessee.
+* The court found that the order passed by the Commissioner under Section 263 was made on 26.03.2012, well within the two-year limitation period from the end of the financial year 2008-09. The date the order was received by the assessee was irrelevant for the purpose of calculating the limitation period.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted Section 263(2) of the Income Tax Act, emphasizing that the word "made" refers to the passing of the order by the Commissioner, not the receipt of the order by the assessee.
+
+**8. Precedents Cited:**
+
+* None explicitly stated.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* **Accepted Arguments:** The appellant’s arguments that the High Court and ITAT had misconstrued the provisions of Section 263(2), that the order passed by the Commissioner was within the limitation period, and that the date of receipt of the order was irrelevant were accepted.
+* **Rejected Arguments:** The respondent’s argument that the order passed by the Commissioner was barred by limitation, considering the date of receipt of the order, was rejected.
+
+**Conclusion:**
+
+This judgment clarifies the legal interpretation of Section 263(2) of the Income Tax Act regarding the limitation period for passing revision orders. The court emphasized the importance of adhering to the specific language of the statute and applying the cardinal principle of statutory interpretation. The decision highlights the need for a clear understanding of the provisions governing tax assessments and the limitations on the Commissioner’s power to revise assessment orders. 

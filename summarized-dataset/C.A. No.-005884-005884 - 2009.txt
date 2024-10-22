@@ -1,0 +1,66 @@
+## Summary of the Judgment in Akkamma & Ors. v. Vemavathi & Ors.
+
+**1. Constitutional References:** 
+
+* None explicitly stated.
+
+**2. Key Legal Questions:**
+
+* Whether a suit for declaration of title and injunction can be dismissed solely on the ground that the plaintiff failed to prove possession.
+* Whether the proviso to Section 34 of the Specific Relief Act, 1963 bars a suit for declaration of title if the plaintiff omits to seek further relief beyond a mere declaration of title.
+* Whether the principles of Order II Rule 2 of the Code of Civil Procedure, 1908 apply to a suit for declaration of title based on subsequent incidents of interference with possession.
+
+**3. Legal Doctrines:**
+
+* Suit for declaration of title and injunction.
+* Statutory interpretation of the Specific Relief Act, 1963, particularly Section 34.
+* Applicability of Order II Rule 2 of the Code of Civil Procedure, 1908.
+* Presumption of possession following title.
+* Amendment of plaint.
+
+**4. Outcome:**
+
+* The Supreme Court partly allowed the appeal and set aside the judgments of the Trial Court and the High Court.
+* The Court held that the plaintiffs were entitled to a declaration of ownership of the suit property.
+
+**5. Reliefs or Orders:**
+
+* A decree was passed declaring the plaintiffs as owners of the suit property.
+* The High Court's dismissal of the appeal was set aside in part.
+
+**6. Reasoning:**
+
+* The Court clarified that a suit for declaration of title and injunction cannot be dismissed solely on the ground that the plaintiff failed to prove possession.
+* The Court held that the proviso to Section 34 of the Specific Relief Act, 1963 applies only if the plaintiff seeks *only* declaratory relief without any consequential relief. 
+* The Court found that the plaintiff's claim for injunction, though unsuccessful, prevented the application of the proviso to Section 34.
+* The Court disagreed with the High Court's reliance on the decision in Sri Aralappa (supra) and held that the High Court misconstrued the provisions of Section 34.
+* The Court held that the principles of Order II Rule 2 of the Code of Civil Procedure, 1908 were not applicable in this case as the 1987 suit was based on distinct incidents of interference with possession that occurred after the 1982 suit.
+
+**7. Statutory Interpretation:**
+
+* The Court interpreted the provisions of Section 34 of the Specific Relief Act, 1963, emphasizing the requirement of consequential relief alongside declaratory relief.
+* The Court interpreted the provisions of Order II Rule 2 of the Code of Civil Procedure, 1908, clarifying its non-applicability in situations where the subsequent suit is based on distinct incidents.
+
+**8. Precedents Cited:**
+
+* M.K. Rappai and Ors. v. John and Ors. (1969 (2) SCC 590)
+* Ram Saran and Anr. v. Smt. Ganga Devi (1973) 2 SCC 60
+* Vinay Krishna v. Keshav Chandra and Anr. (1993) Supp 3 SCC 129
+* Anathula Sudhakar v. P. Buchi Reddy (Dead) By LRS. And Ors. (2008) 4 SCC 594
+* Devish v. M.K. Subbiah and Ors. (AIR 1970 Mys 249)
+* Navalram Laxmidas Devmurari v. Vijayaben Jayvantbhai Chavda (AIR 1998 Guj 17)
+* Sri Aralappa v. Sri Jagannath & others (ILR 2007 Kar 339)
+* Venkataraja and Ors. v. Vidyane Doureradjaperumal (Dead) Through Legal Representatives and Ors. (2014) 14 SCC 502
+* Parkash Chand Khurana v. Harnam Singh
+* State of M.P. v. Mangilal Sharma
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellant argued that the suit was not barred by the proviso to Section 34 of the Specific Relief Act, 1963 as the plaintiff sought consequential relief in the form of injunction. This argument was accepted.
+* The appellant argued that the 1987 suit was not barred by Order II Rule 2 of the Code of Civil Procedure, 1908 as it was based on distinct incidents of interference with possession. This argument was accepted.
+* The respondent argued that the suit was not maintainable as the plaintiff failed to prove possession. This argument was rejected.
+
+**Conclusion:**
+
+The Supreme Court's decision emphasizes that a plaintiff can be granted a declaratory decree of title even if they fail to prove possession, provided they also seek consequential relief. This judgment clarifies the application of Section 34 of the Specific Relief Act, 1963 and highlights the importance of correctly understanding the scope of the proviso to this section.
+

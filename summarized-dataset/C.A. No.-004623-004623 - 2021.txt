@@ -1,0 +1,53 @@
+## Summary of the Supreme Court Judgment in Central Govt. of India v. Raj Devi Alias Raj Kumari & Anr. 
+
+**1. Constitutional References:**
+
+- **Article 141:**  Declares the law declared by the Supreme Court to be binding on all courts in India.
+- **Article 142:** Grants the Supreme Court the power to enforce its decrees and orders. 
+
+**2. Key Legal Questions:**
+
+- Whether interest on solatium in land acquisition cases is payable from the date of physical possession or from the date of the judgment in Sunder v. Union of India (2001) 7 SCC 211.
+- Whether the High Court's decision to uphold the Execution Court's order awarding interest on solatium from the date of possession was correct, considering the Supreme Court's decision in Gurpreet Singh v. Union of India (2006) 8 SCC 457. 
+
+**3. Legal Doctrines:**
+
+- **Land Acquisition:** The court analyzes the provisions of the Land Acquisition Act, 1894, and the principles governing compensation and interest in land acquisition cases.
+- **Execution Proceedings:** The court considers the powers and limitations of execution courts, including their ability to go behind the decree.
+- **Harmonious Construction:** The court attempts to reconcile the principles laid down in Sunder (supra) and Gurpreet Singh (supra), both dealing with interest on solatium.
+
+**4. Outcome:**
+
+- The appeal was allowed. The Supreme Court set aside the High Court's decision and ruled that the 1st respondent is entitled to interest on solatium from the date of the judgment in Sunder (supra), i.e., 19-09-2001.
+
+**5. Reliefs or Orders:**
+
+- The Supreme Court set aside the impugned judgment of the High Court upholding the Execution Court's order.
+- The Supreme Court directed that the 1st respondent is entitled to interest on solatium from the date of the judgment in Sunder (supra).
+
+**6. Reasoning:**
+
+- The court acknowledged that the 1st respondent was awarded solatium in the original award, but interest on solatium was not specifically mentioned in the award or the subsequent High Court judgment.
+- The court found that the High Court's reliance on the Supreme Court's decision in Central Government of India v. Bakhta & Another etc. (SLP (C) Nos. 21784-21799 of 2013) was not applicable. The court noted that in the Bakhta case, the Executing Court had awarded interest on solatium from the date of the judgment in Sunder (supra), a decision upheld by the High Court.
+- The court emphasized that the principle enunciated in Gurpreet Singh (supra) is that interest on solatium is payable only from the date of the judgment in Sunder (supra), and not from the date of possession. 
+- The court concluded that the High Court's decision was not in accordance with the law laid down in Gurpreet Singh (supra) and needed to be rectified.
+
+**7. Statutory Interpretation:**
+
+- The court interpreted the Land Acquisition Act, 1894, to find that interest on solatium is not automatically payable from the date of possession. 
+- The court also interpreted the Supreme Court's decisions in Sunder (supra) and Gurpreet Singh (supra) to clarify the applicable principles regarding interest on solatium.
+
+**8. Precedents Cited:**
+
+- Gurpreet Singh v. Union of India (2006) 8 SCC 457
+- Sunder v. Union of India (2001) 7 SCC 211
+- Central Government of India v. Bakhta & Another etc. (SLP (C) Nos. 21784-21799 of 2013)
+
+**9. Legal Arguments Accepted/Rejected:**
+
+- The court accepted the appellant's argument that the applicable principle regarding interest on solatium is the one laid down in Gurpreet Singh (supra), which mandates payment from the date of the Sunder judgment.
+- The court rejected the respondent's argument that the High Court's decision was supported by the Supreme Court's decision in the Bakhta case. 
+
+**Overall:**
+
+The judgment reaffirms the principle established in Gurpreet Singh (supra) regarding the date from which interest on solatium is payable in land acquisition cases. The court clarified that the High Court should have applied this principle in the present case.  The decision emphasizes the need for consistent application of judicial precedents in land acquisition matters to ensure clarity and prevent conflicting interpretations. 

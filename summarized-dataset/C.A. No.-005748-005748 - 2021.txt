@@ -1,0 +1,51 @@
+## Summary of the Judgment in State of Uttar Pradesh & Ors. v. Krishna Bahadur Singh
+
+**1. Constitutional References:**
+
+* None explicitly stated. However, the case implicitly involves Article 14 (Right to Equality) and Article 21 (Right to Life and Personal Liberty) as it concerns the State’s actions in disciplining a government employee and the potential impact on the employee's livelihood.
+
+**2. Key Legal Questions:**
+
+* Whether the respondent, who was initially suspended and then dismissed from service due to alleged misappropriation of government funds, was entitled to have the order of punishment set aside after 11 years. 
+* Whether the Uttar Pradesh Public Services (Tribunal) Act, 1976, allows a claim petition to be filed so long after the initial order of punishment.
+* Whether the High Court's decision to uphold the Tribunal's decision to set aside the order of dismissal was justified.
+
+**3. Legal Doctrines:**
+
+* **Principles of Natural Justice and Procedural Fairness:** The court considered whether the respondent was given a fair hearing and whether the principles of natural justice were upheld in the disciplinary proceedings.
+* **Statutory Interpretation:** The court interpreted the Uttar Pradesh Public Services (Tribunal) Act, 1976, and the relevant provisions governing disciplinary proceedings against government employees.
+* **Laches:**  The court addressed the doctrine of laches, which concerns the undue delay in bringing a claim.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeal, set aside the orders of the Tribunal and the High Court, and dismissed the claim petition filed by the respondent.
+
+**5. Reliefs or Orders:**
+
+* The orders of the Tribunal and the High Court setting aside the order of dismissal were quashed.
+*  The claim petition filed by the respondent was dismissed.
+*  The appellants (State of Uttar Pradesh) were ordered to pay an ex gratia payment of Rs. 1 lakh to the respondent within six weeks.
+
+**6. Reasoning:**
+
+* The Court found that the respondent had been given a fair opportunity to participate in the disciplinary proceedings, but he chose to remain ex parte after initially participating.
+* The Court emphasized the significant delay (11 years) in the respondent filing the claim petition. This delay, in the Court's view, constituted laches and rendered the claim petition untenable.
+* The Court acknowledged that the respondent had been acquitted in the criminal proceedings, but emphasized that this acquittal did not automatically erase the findings of the disciplinary proceedings. 
+* The Court acknowledged that the respondent had been litigating for a long time and, considering these circumstances, ordered an ex gratia payment as a gesture of goodwill.
+
+**7. Statutory Interpretation:**
+
+* The Court interpreted the Uttar Pradesh Public Services (Tribunal) Act, 1976, concluding that the Act did not allow for the filing of a claim petition after such a lengthy delay in the respondent's case.
+
+**8. Precedents Cited:**
+
+* None explicitly cited.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellants argued that the respondent's claim petition was barred by laches and that the Tribunal and the High Court erred in upholding it. This argument was accepted.
+* The respondent argued that he was entitled to have the punishment set aside due to his acquittal in the criminal proceedings. This argument was rejected.
+
+**Conclusion:**
+
+This decision underscores the importance of timely action in legal proceedings, particularly when challenging disciplinary orders.  The Court recognized the respondent's right to challenge the disciplinary proceedings, but held that significant delay can bar relief. The judgment also highlights the judicial discretion to provide ex gratia payments in certain circumstances to alleviate hardship even when the main legal claim is dismissed. 

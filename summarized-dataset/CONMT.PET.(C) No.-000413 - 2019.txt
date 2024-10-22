@@ -1,0 +1,62 @@
+## Judgment Summary: Hampshire Hotels and Resorts (Noida) Pvt. Ltd. v. Ritu Maheshwari, CEO, New Okhla Industrial Development Authority (NOIDA) (and related contempt petitions)
+
+**1. Constitutional References:**
+
+* **Article 142 (Power of Supreme Court to do Complete Justice):** The judgment references this article, acknowledging the court's power to pass orders beyond the scope of specific statutory provisions in the interest of justice. 
+
+**2. Key Legal Questions:**
+
+* Was NOIDA (New Okhla Industrial Development Authority) in contempt of court for not complying with the Supreme Court's directions in its 2011 judgment regarding the execution of lease deeds and payment of land premium?
+* Did the Supreme Court have the power to pass a remedial order in the contempt petitions to resolve the stalemate between the parties?
+
+**3. Legal Doctrines:**
+
+* **Contempt of Court:** This refers to the violation of a court order, which can be punished by the court. 
+* **Judicial Discretion:**  The court acknowledged its inherent power to exercise discretion to ensure justice is served, but also emphasized that this discretion must be exercised reasonably and based on sound legal principles. 
+* **Lease Agreement:** This is a contract that grants a person the right to use and occupy a property for a specified period. 
+* **Public Interest:** The court recognized that the outcome of the case had implications for the development of the land and public interest.
+
+**4. Outcome:**
+
+* The contempt petitions were closed. 
+* The Supreme Court issued a remedial order to resolve the stalemate between the parties, proposing two options for the petitioners:
+    * **Option 1:** Pay all outstanding dues, including interest, and NOIDA will execute a supplementary lease deed.
+    * **Option 2:** NOIDA will resume the plots, auction them off, and refund the petitioners' deposits (with certain deductions and interest).
+* NOIDA was directed to proceed with the auction if the petitioners opted for Option 2.
+
+**5. Reliefs or Orders:**
+
+* The court did not find NOIDA in contempt of court, but issued a remedial order to resolve the dispute.
+* The court modified the second option, providing for a base price of Rs.1,05,000/- per sq. metre for the plots and outlining the distribution of funds if the auction price exceeded this amount. 
+* The court directed NOIDA to proceed with the auction and make refunds to the petitioners based on the agreed-upon principles within three months of the sale. 
+
+**6. Reasoning:**
+
+* The court acknowledged that NOIDA had not fully complied with the 2011 judgment regarding lease deeds and land premium.
+* The court noted that the stalemate between the parties had led to a situation where valuable public land was lying undeveloped and NOIDA was not receiving timely payments.
+* The court recognized that the 2011 judgment had allowed for the possibility of allottees withdrawing from the lease agreement and getting refunds.
+* The court found that the Second Option, with its proposed modifications, was the most suitable solution to resolve the dispute, protect the interests of both parties, and ensure public interest. 
+
+**7. Statutory Interpretation:**
+
+* The court interpreted the principles of contempt of court, acknowledging that NOIDA's failure to comply with the 2011 judgment was a serious matter.
+* The court interpreted the inherent power of the Supreme Court to pass remedial orders to resolve disputes and ensure justice, even beyond the specific provisions of the Contempt of Courts Act. 
+
+**8. Precedents Cited:**
+
+* *ITC Ltd. v. State of Uttar Pradesh & Ors.* (2011) 7 SCC 493
+* *P. Chidambaram v. Directorate of Enforcement* AIR 2019 SC 4198
+* *Amrawati & Anr. v. State of U.P.* 2004 (57) ALR 290 
+* *Lal Kamlendra Pratap Singh v. State of U.P.* 2009 (3) ADJ 322 (SC)
+* *Sushila Aggarwal v. State (NCT of Delhi)* (2020) 5 SCC 1
+* *Gurbaksh Singh Sibbia v. State of Punjab* (1980) 2 SCC 565
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The court acknowledged the arguments of the petitioners regarding the failure of NOIDA to execute the lease deeds and the need for a solution to the stalemate.
+* The court accepted the arguments of NOIDA regarding the refund of certain amounts and interest payments.
+* The court modified the second option to address NOIDA's concerns regarding the refund of amounts and interest. 
+
+**Conclusion:**
+
+This judgment demonstrates the court's role in mediating and resolving complex disputes that impact public interest and private parties. It highlights the flexibility of the legal system to address unforeseen circumstances and ensure a fair and equitable outcome for all stakeholders. 

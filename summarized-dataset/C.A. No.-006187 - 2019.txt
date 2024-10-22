@@ -1,0 +1,60 @@
+## Summary of the Judgment in National Spot Exchange Limited v. Mr. Anil Kohli, Resolution Professional for Dunar Foods Limited
+
+**1. Constitutional References:**
+
+* **Article 142:** The appellant (National Spot Exchange Limited) requested the Supreme Court to exercise its extraordinary powers under Article 142 of the Constitution to condone the delay in filing the appeal.
+
+**2. Key Legal Questions:**
+
+* **Condonation of Delay:** Whether the NCLAT (National Company Law Appellate Tribunal) was justified in refusing to condone the 44-day delay in filing the appeal against the NCLT (National Company Law Tribunal) order rejecting the appellant’s claim.
+* **Jurisdiction of NCLAT:** Whether the NCLAT had the authority to condone the delay beyond the 15-day limit prescribed in Section 61(2) of the Insolvency and Bankruptcy Code, 2016 (IBC).
+* **Lifting the Corporate Veil:** Whether the NCLAT should have considered the evidence suggesting that PD Agro, a sister concern of the corporate debtor (Dunar Foods Limited), siphoned off funds to the corporate debtor and, therefore, the appellant’s claim against the corporate debtor should be considered.
+
+**3. Legal Doctrines:**
+
+* **Insolvency and Bankruptcy Code, 2016 (IBC):** The court analyzed the provisions of the IBC, particularly Section 61(2), regarding the limitation period for filing appeals and the NCLAT’s power to condone delay.
+* **Limitation Act:** The court referenced relevant sections of the Limitation Act (Sections 4, 5, and 12) in the context of the appellant’s argument for condonation of delay.
+* **Corporate Veil:** The court considered the doctrine of lifting the corporate veil, analyzing whether the NCLAT should have pierced the corporate veil of the corporate debtor to consider the appellant’s claim based on the alleged siphoning of funds by PD Agro.
+* **Principles of Equity and Natural Justice:** The court addressed the appellant’s argument for condonation of delay based on equity and natural justice, considering the significant amount involved and the appellant’s status as a public body.
+
+**4. Outcome:**
+
+* The Supreme Court dismissed the appeal filed by the appellant (National Spot Exchange Limited).
+* The NCLAT’s order dismissing the appeal on the ground of limitation was upheld.
+
+**5. Reliefs or Orders:**
+
+* No specific reliefs were granted to the appellant.
+
+**6. Reasoning:**
+
+* **Condonation of Delay:** The Supreme Court held that the NCLAT was correct in refusing to condone the delay beyond the 15-day limit prescribed in Section 61(2) of the IBC. The court emphasized that the legislature had explicitly limited the NCLAT’s power to condone delay, and exceeding that limit was not permissible. 
+* **Jurisdiction of NCLAT:** The Supreme Court affirmed that the NCLAT did not have the jurisdiction to condone the delay beyond 15 days, as stipulated in Section 61(2) of the IBC.
+* **Lifting the Corporate Veil:** The court did not explicitly address the argument for lifting the corporate veil. However, the court’s dismissal of the appeal suggests that it did not consider the evidence regarding PD Agro's alleged siphoning of funds to be sufficient grounds to overturn the NCLAT’s decision.
+* **Article 142 and Equity:** The Supreme Court rejected the appellant’s request to exercise its extraordinary powers under Article 142 to condone the delay. The court cited previous judgments, particularly Oil & Natural Gas Corporation Limited v. Gujarat Energy Transmission Corporation Limited, where the Court held that Article 142 cannot be used to override statutory provisions.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted Section 61(2) of the IBC, clarifying that the NCLAT’s power to condone delay is limited to a maximum of 15 days beyond the initial 30-day period.
+
+**8. Precedents Cited:**
+
+* **Union of India v. Popular Construction Co. (2001) 8 SCC 470:** This case was cited to support the argument that specific limitation periods prescribed by a statute take precedence over the provisions of the Limitation Act.
+* **New India Assurance Company Limited v. Hilli Multipurpose Cold Storage Private Limited (2020) 5 SCC 757:** This Constitution Bench decision was referenced to uphold the principle that courts cannot override the specific provisions of a statute regarding condonation of delay. 
+* **Chitra Sharma v. Union of India (2018) 18 SCC 575, Jaiprakash Associates Limited v. IDBI Bank Limited (2020) 3 SCC 328, Reliance General Insurance Co. Ltd. v. Mampee Timbers and Hardwares Pvt. Ltd. (2021) 3 SCC 673:** These cases were cited to support the appellant’s argument for condonation of delay under Article 142 of the Constitution.
+* **Rohitash Kumar v. Om Prakash Sharma (2013) 11 SCC 451:** This case was cited to emphasize that hardship alone cannot be a ground for ignoring a statutory provision.
+* **CMD/Chairman, Bharat Sanchar Nigam Limited v. Mishri Lal (2011) 14 SCC 739:**  This case was cited to highlight the principle that equity cannot override the law.
+* **Raghunath Rai Bareja v. Punjab National Bank (2007) 2 SCC 230:** This case was cited to reinforce the principle that statutory provisions regarding limitation must be strictly adhered to.
+* **Popat Bahiru Goverdhane v. Special Land Acquisition Officer (2013) 10 SCC 765:** This case was cited to emphasize that courts cannot extend the period of limitation on equitable grounds. 
+* **The Martin Burn Limited v. The Corporation of Calcutta (AIR 1966 SC 529):** This case was cited to emphasize that courts must give effect to statutory provisions even if they lead to an undesirable outcome.
+* **Oil & Natural Gas Corporation Limited v. Gujarat Energy Transmission Corporation Limited (AIR 2017 SC 1352):** This case was cited to support the argument that Article 142 cannot be used to condone delay beyond the statutory limit. 
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* **Accepted Arguments:** The respondent’s arguments that the NCLAT was bound by Section 61(2) of the IBC and had no jurisdiction to condone the delay beyond 15 days were accepted. The respondent’s argument that the appellant’s claim against the corporate debtor was not valid because there was no privity of contract was also likely accepted, although the court did not explicitly address this argument. 
+* **Rejected Arguments:** The appellant’s arguments for condonation of delay based on equity, the substantial amount involved, and the appellant’s status as a public body were rejected. The appellant’s argument for condonation of delay under Article 142 was also rejected.
+
+**Conclusion:**
+
+This judgment reinforces the importance of adhering to statutory timeframes for filing appeals and the limitations on the court’s power to condone delay. The court upheld the NCLAT’s decision, emphasizing that the legislature’s intent was to ensure efficiency and predictability in insolvency proceedings. The judgment also highlights the limitations of Article 142 in overriding specific statutory provisions. 
+

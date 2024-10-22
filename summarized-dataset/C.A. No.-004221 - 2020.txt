@@ -1,0 +1,48 @@
+## Summary of the Judgement in M/s. Reliance Asset Reconstruction Company Ltd. v. M/s Hotel Poonja International Pvt. Ltd.
+
+**1. Constitutional References:** None explicitly mentioned in the judgment.
+
+**2. Key Legal Questions:**
+* Can an application under Section 7 of the Insolvency and Bankruptcy Code, 2016 (IBC) be filed for recovery of outstanding dues when the debt is already subject to a decree and recovery proceedings under the Recovery of Debts due to Banks and Financial Institutions Act, 1993 (RDDBFI)?
+* Does the application under Section 7 of the IBC fall within the purview of the Limitation Act, 1963, and if so, is it barred by limitation?
+* Does an acknowledgement of liability, as contemplated under Section 18 of the Limitation Act, 1963, arise from financial statements and letters exchanged between the parties in this case?
+
+**3. Legal Doctrines:**
+* **Corporate Insolvency Resolution Process (CIRP):** The judgment examines the circumstances under which CIRP can be initiated under Section 7 of the IBC.
+* **Limitation Period:** The judgment applies the principles of limitation as laid down in the Limitation Act, 1963, particularly Article 137, to the application under Section 7 of the IBC.
+* **Acknowledgement of Liability:** The judgment examines the nature of acknowledgement of liability under Section 18 of the Limitation Act, 1963.
+
+**4. Outcome:**
+* The appeal filed by M/s. Reliance Asset Reconstruction Company Ltd. was dismissed.
+* The NCLAT's order dismissing the application under Section 7 of the IBC was upheld.
+
+**5. Reliefs or Orders:**
+* The appellant's application under Section 7 of the IBC was dismissed.
+* The appellant was not allowed to initiate the CIRP against the corporate debtor.
+
+**6. Reasoning:**
+* The court found that the application under Section 7 of the IBC was barred by limitation, as the debt had been declared a Non-Performing Asset (NPA) in 1993, more than three years prior to the application.
+* The court rejected the argument that the limitation period started afresh from the date of the Recovery Certificate issued by the DRT in 2003, as the default had already occurred in 1993.
+* The court also rejected the argument that the balance sheet of the corporate debtor and the letters exchanged between the parties constituted an acknowledgement of liability under Section 18 of the Limitation Act. The court found that these documents did not unequivocally acknowledge the debt, but rather reflected a dispute and negotiation process.
+* The court emphasized that the IBC is not intended to be a substitute for existing recovery forums and should not be invoked where a real dispute exists.
+
+**7. Statutory Interpretation:**
+* The court interpreted Section 7 of the IBC to require the existence of a legally recoverable debt and applied Article 137 of the Limitation Act to determine the period of limitation for initiating CIRP.
+* The court also interpreted Section 18 of the Limitation Act and found that the financial statements and letters exchanged between the parties did not meet the requirements for a valid acknowledgement of liability.
+
+**8. Precedents Cited:**
+* B.K. Educational Services Private Limited v. Parag Gupta and Associates (2019) 11 SCC 633
+* Gaurav Hargovindbhai Dave v. Asset Reconstruction Company (India) Ltd. And Ors. (2019) 10 SCC 572
+* Radha Export (India) Private Limited v. K.P. Jayaram (2020) 10 SCC 538
+* Vashdeo R. Bhojwani v. Abhyudaya Cooperative Bank Ltd. & Anr. (2019) 9 SCC 158
+* Balakrishna Savalram Pujari Waghare v. Shree Dhyaneshwar Maharaj Sansthan 1959 Supp (2) SCR 476
+* Khan Bahadur Shapoor Freedom Mazda v. Durga Prasad Chamaria and Others, AIR 1961 SC 1236
+* Mobilox Innovations Private Limited v. Kirusa Software Private Limited (2018) 1 SCC 353
+* Transmission Corporation of Andhra Pradesh Limited v. Equipment Conductors and Cables Limited (2019) 12 SCC 697
+
+**9. Legal Arguments Accepted/Rejected:**
+* The appellant's argument that the application under Section 7 of the IBC was not barred by limitation was rejected.
+* The appellant's argument that the financial statements and letters exchanged between the parties constituted an acknowledgement of liability was rejected.
+
+**Note:** This judgment underscores the importance of adhering to the prescribed limitation periods for initiating insolvency proceedings under the IBC.  The court also emphasizes that the IBC is not intended to be a primary recovery mechanism, especially where existing recovery procedures are in place. 
+

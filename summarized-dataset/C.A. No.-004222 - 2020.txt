@@ -1,0 +1,45 @@
+## Summary of the Judgement in Rajendra Narottamdas Sheth & Anr. v. Chandra Prakash Jain & Anr.
+
+**1. Constitutional References:** None explicitly mentioned in the judgment.
+
+**2. Key Legal Questions:**
+* Can a power of attorney holder file an application under Section 7 of the Insolvency and Bankruptcy Code, 2016 (IBC) on behalf of a financial creditor?
+* Does the application under Section 7 of the IBC fall within the purview of the Limitation Act, 1963, and if so, is it barred by limitation?
+* Does the acknowledgement of liability by the corporate debtor, as contemplated under Section 18 of the Limitation Act, extend the limitation period for filing the application under Section 7?
+
+**3. Legal Doctrines:**
+* **Power of Attorney:** The judgment examines the legal requirements for authorization to file an application under Section 7 of the IBC, particularly in relation to power of attorney holders.
+* **Limitation Period:** The judgment applies the principles of limitation as laid down in the Limitation Act, 1963, particularly Section 18, to the application under Section 7 of the IBC.
+* **Acknowledgement of Liability:** The judgment analyzes the concept of acknowledgement of liability under Section 18 of the Limitation Act, 1963, and its impact on the limitation period.
+
+**4. Outcome:**
+* The appeal filed by Rajendra Narottamdas Sheth & Anr. was dismissed.
+* The NCLAT's decision upholding the NCLT's order admitting the application under Section 7 of the IBC was affirmed.
+
+**5. Reliefs or Orders:**
+* The appellants' argument that the application under Section 7 was not maintainable due to lack of proper authorization and was barred by limitation was rejected.
+* The NCLT's decision to admit the application was upheld.
+
+**6. Reasoning:**
+* The court found that the power of attorney granted by the Bank to Mr. Praveen Kumar Gupta, who filed the application, provided him with sufficient authority to initiate proceedings under Section 7 of the IBC.
+* The court rejected the argument that the application was barred by limitation. The court found that the corporate debtor's acknowledgement of the debt in subsequent communications, including letters detailing repayments and requesting settlement proposals, extended the limitation period under Section 18 of the Limitation Act.
+* The court emphasized the importance of the financial creditor's burden to prove the occurrence of default and the timeliness of the application under Section 7, acknowledging that the Adjudicating Authority has the discretion to allow the financial creditor to provide additional information to support their claim.
+
+**7. Statutory Interpretation:**
+* The court interpreted Section 7 of the IBC to permit the filing of an application by a power of attorney holder on behalf of the financial creditor, as long as the power of attorney provides sufficient authorization.
+* The court interpreted Section 18 of the Limitation Act to recognize the potential for extending the limitation period based on the acknowledgement of liability by the corporate debtor, as evidenced by subsequent communications and actions.
+
+**8. Precedents Cited:**
+* Palogix Infrastructure Private Limited v. ICICI Bank Limited (2017 SCC Online NCLAT 266): This case addressed the issue of authorization to file applications under Section 7 of the IBC, particularly in relation to power of attorney holders.
+* Babulal Vardharji Gurjar v. Veer Gurjar Aluminium Industries Private Limited & Anr. (2020) 15 SCC 1: This case examined the application of Section 18 of the Limitation Act in relation to applications filed under Section 7 of the IBC.
+* Dena Bank v. C. Shivkumar Reddy & Anr. (2021 SCC Online SC 543): This case addressed the pleading requirements and document submission obligations under Section 7 of the IBC.
+* Asset Reconstruction Company (India) Limited v. Bishal Jaiswal & Anr. (2021) 6 SCC 366: This case examined the concept of acknowledgement of liability and its effect on the limitation period for filing applications under Section 7 of the IBC.
+* Noharlal Verma v. District Cooperative Central Bank Limited, Jagdalpur (2008) 14 SCC 445: This case addressed the Adjudicating Authority's responsibility to examine the timeliness of applications filed under Section 7 of the IBC.
+* B.K. Educational Services Private Limited v. Parag Gupta and Associates (2019) 11 SCC 633: This case emphasized the burden on the financial creditor to demonstrate a legally recoverable debt that is not time-barred.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The appellants' argument that the application under Section 7 was not maintainable due to lack of proper authorization was rejected.
+* The appellants' argument that the application was barred by limitation was rejected. The court accepted the argument that the subsequent communications and actions by the corporate debtor constituted an acknowledgement of liability, extending the limitation period.
+
+**Note:** This judgment highlights the complexities involved in interpreting and applying the provisions of the IBC and the Limitation Act in relation to insolvency proceedings. The court's emphasis on the financial creditor's burden to prove the occurrence of default and the timeliness of the application emphasizes the need for thorough due diligence and clear evidence to support claims under the IBC. 
+

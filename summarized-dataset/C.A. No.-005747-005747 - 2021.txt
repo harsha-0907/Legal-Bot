@@ -1,0 +1,52 @@
+## Summary of the Judgment in State of Rajasthan & Others v. Shiv Charan Meena
+
+**1. Constitutional References:**
+
+* **Article 14:**  The Court implicitly referred to Article 14, which guarantees the right to equality before the law and equal protection of the laws, by emphasizing that the respondent was not replaced by another contractual employee, but rather, the regular employee (Lalu Ram Meena) returned from deputation. This implies that the respondent's services were not terminated in a discriminatory manner.
+
+**2. Key Legal Questions:**
+
+* Whether the respondent, a contractual employee, could claim a right to permanent employment, considering that he was initially engaged on contract basis to fill the temporary absence of the regular employee.
+* Whether the termination of the respondent’s services upon the regular employee’s return from deputation was lawful.
+* Whether the High Court correctly interpreted the contractual relationship and the legal status of the respondent.
+
+**3. Legal Doctrines:**
+
+* **Contract Law:** The Court examined the terms of the contract between the respondent and the Society, which implied a temporary employment for the duration of the regular employee's deputation.
+* **Employment Law:** The Court analyzed the legal status of the respondent as a contractual worker, considering the temporary nature of his employment and the absence of any statutory entitlement to permanent employment.
+* **Principles of Natural Justice:** The Court implicitly referenced the principle of "audi alteram partem" (the right to be heard), as the respondent was not given a proper hearing or opportunity to respond before the termination of his services.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeal and set aside the judgment of the Rajasthan High Court.
+* The respondent's writ petition, seeking regularization of his services as Driver in the Agriculture Department, was dismissed.
+
+**5. Reliefs or Orders:**
+
+* The High Court’s order directing the appellants to pay Rs. 25,000/- to the respondent as costs was upheld.
+* In addition, the Supreme Court directed the appellants to pay an additional Rs. 25,000/- to the respondent within four weeks.
+
+**6. Reasoning:**
+
+* The Supreme Court found that the respondent was a contractual employee and his services were not terminated in a discriminatory manner. 
+* The respondent’s temporary employment ended upon the return of the regular employee,  in accordance with the contractual terms.
+* The High Court erred in interpreting the relationship between the respondent and the department as a claim to permanent employment. 
+
+**7. Statutory Interpretation:**
+
+* The Court interpreted the contractual relationship between the respondent and the Society as a temporary engagement based on the regular employee’s absence. 
+* The court did not explicitly interpret any specific provision of the Contract Act, but implicitly applied the principles of contract law and the principle of "audi alteram partem," based on the factual context of the case.
+
+**8. Precedents Cited:**
+
+* The judgment does not cite any specific precedents.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellants argued that the respondent’s services were terminated due to the return of the regular employee, and therefore, his claim for regularization was unjustified. This argument was accepted.
+* The respondent argued that his services were substituted by another contractual employee and that his services should be regularized. This argument was rejected.
+* The High Court accepted the respondent's argument for regularization, but the Supreme Court found this interpretation flawed, rejecting the High Court's reasoning.
+
+**Conclusion:**
+
+The Supreme Court’s judgment underscores the importance of clear contractual agreements in temporary employment situations. The court emphasized that contractual workers are not entitled to permanent employment simply because they were engaged for a temporary period. The judgment also highlights the need for fairness and due process when terminating temporary employment contracts. 

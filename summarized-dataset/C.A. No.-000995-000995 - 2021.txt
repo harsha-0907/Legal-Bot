@@ -1,0 +1,122 @@
+## Summary of the Supreme Court Judgment in Government of Maharashtra (Water Resources Department) v. M/s Borse Brothers Engineers & Contractors Pvt. Ltd.
+
+**1. Constitutional References:**
+
+- **Article 141:**  Declares the law declared by the Supreme Court to be binding on all courts in India.
+- **Article 142:** Grants the Supreme Court the power to enforce its decrees and orders. 
+
+**2. Key Legal Questions:**
+
+- Whether the judgment of the Supreme Court in N.V. International v. State of Assam, (2020) 2 SCC 109 [“N.V. International”] correctly lays down the law regarding the condonation of delay in filing appeals under Section 37 of the Arbitration and Conciliation Act, 1996 [“Arbitration Act”].
+- Whether the applicability of Section 5 of the Limitation Act, 1963 [“Limitation Act”] is excluded in the context of appeals under Section 37 of the Arbitration Act, especially when governed by the Commercial Courts Act, 2015 [“Commercial Courts Act”].
+
+**3. Legal Doctrines:**
+
+- **Statutory Interpretation:** The court extensively analyzes the provisions of the Arbitration Act, the Limitation Act, and the Commercial Courts Act to determine the intended application of Section 5 of the Limitation Act in the context of appeals under Section 37 of the Arbitration Act. 
+- **Harmonious Construction:**  The court attempts to reconcile the objectives and provisions of the three Acts to arrive at a coherent interpretation. 
+- **Judicial Legislation:** The court highlights the distinction between judicial interpretation and judicial legislation, emphasizing that courts should not go beyond interpreting the law as it stands.
+- **Public Policy:** The court considers the public policy behind statutes of limitation, specifically the need for speedy resolution of disputes and preventing stale claims.
+- **Doctrine of Unbreakability:** The court examines the application of this doctrine, which states that a limitation period cannot be extended beyond the prescribed period.
+
+**4. Outcome:**
+
+- The appeals were disposed of accordingly. The Supreme Court overruled its previous judgment in N.V. International (supra) and clarified the application of Section 5 of the Limitation Act in the context of appeals under Section 37 of the Arbitration Act.
+
+**5. Reliefs or Orders:**
+
+- The Supreme Court set aside the judgments of the High Courts of Bombay and Madhya Pradesh that had refused to condone delay in filing appeals under Section 37 of the Arbitration Act.
+- The Supreme Court upheld the judgment of the High Court of Delhi that had dismissed the appeal due to excessive delay.
+
+**6. Reasoning:**
+
+- The court recognized that N.V. International (supra) was wrongly decided and needed to be overruled.
+- The court emphasized that the Arbitration Act and the Commercial Courts Act both aim for speedy resolution of disputes.
+- The court held that the expression "sufficient cause" in Section 5 of the Limitation Act is not a blanket provision to condone all delays, especially in the context of these Acts.
+- The court found that the 60-day limitation period for appeals under the Commercial Courts Act, unlike the provisions in the Arbitration Act, did not explicitly bar condonation of delay.
+- However, the court also stressed that the "sufficient cause" requirement needs to be applied judiciously and cannot be used to justify inordinate delays, as it would contradict the purpose of speedy dispute resolution.
+- The court highlighted that the "sufficient cause" requirement is not a "panacea" for negligent or stale claims, and courts must consider the potential harm to the opposite party who might have acquired rights through the lapse of time.
+
+**7. Statutory Interpretation:**
+
+- The court interpreted the Arbitration Act, the Commercial Courts Act, and the Limitation Act to find that the "sufficient cause" requirement in Section 5 of the Limitation Act still applies in the context of appeals under Section 37 of the Arbitration Act, but should be interpreted in light of the specific objectives of these Acts.
+- The court interpreted the 60-day limitation period under the Commercial Courts Act as not inherently excluding the condonation of delay.
+- The court interpreted the "express exclusion" provision in Section 29(2) of the Limitation Act to mean that the scheme of a particular statute can exclude the application of Section 5 if it is clear that the intent is to provide a complete code for itself, as in the case of the Central Excise Act.
+
+**8. Precedents Cited:**
+
+- N.V. International v. State of Assam, (2020) 2 SCC 109
+- Union of India v. Varindera Constructions Ltd., (2020) 2 SCC 111
+- Lachmeshwar Prasad Shukul v. Keshwar Lal Chaudhuri, 1940 SCC OnLine FC 10 : AIR 1941 FC 5
+- Consolidated Engg. Enterprises v. Irrigation Deptt., (2008) 7 SCC 169
+- Kandla Export Corpn. v. OCI Corpn., (2018) 14 SCC 715
+- BGS SGS SOMA JV v. NHPC, (2020) 4 SCC 234
+- CCE & Customs v. Hongo India (P) Ltd., (2009) 5 SCC 791
+- SCG Contracts (India) (P) Ltd. v. K.S. Chamankar Infrastructure (P) Ltd., (2019) 12 SCC 210
+- State of Bihar v. Bihar Rajya Bhumi Vikas Bank Samiti, (2018) 9 SCC 472
+- Oku Tech (P) Ltd. v. Sangeet Agarwal, 2016 SCC OnLine Del 6601
+- Maja Cosmetics v. Oasis Commercial (P) Ltd., 2018 SCC OnLine Del 6698
+- Suryachakra Power Corpn. Ltd. v. Electricity Deptt., (2016) 16 SCC 152
+- ONGC v. Gujarat Energy Transmission Corpn. Ltd., (2017) 5 SCC 42
+- B.K. Educational Services (P) Ltd. v. Parag Gupta & Associates, (2019) 11 SCC 633
+- Eera v. State (NCT of Delhi), (2017) 15 SCC 133
+- Heydon case, (1584) 3 Co Rep 7a : 76 ER 637
+- Union of India v. Popular Construction Co., (2001) 8 SCC 470
+- State of Goa v. Western Builders, (2006) 6 SCC 239
+- ICOMM Tele Ltd. v. Punjab State Water Supply and Sewerage Board, (2019) 4 SCC 401
+- Centrotrade Minerals & Metal Inc. v. Hindustan Copper Ltd., (2017) 2 SCC 228
+- Union of India v. U.P. State Bridge Corpn. Ltd., (2015) 2 SCC 52
+- Brahampal v. National Insurance Company, 2020 SCC OnLine SC 1053
+- P. Radha Bai v. P. Ashok Kumar, (2019) 13 SCC 445
+- CIT v. Hindustan Bulk Carriers, (2003) 3 SCC 57
+- Whitney v. IRC [1926 AC 37 : 10 Tax Cas 88 : 95 LJKB 165 : 134 LT 98 (HL)] 
+- CIT v. S. Teja Singh [AIR 1959 SC 352 : (1959) 35 ITR 408] 
+- Gursahai Saigal v. CIT [AIR 1963 SC 1062 : (1963) 48 ITR 1] 
+- Salmon v. Duncombe [(1886) 11 AC 627 : 55 LJPC 69 : 55 LT 446 (PC)]
+- Curtis v. Stovin [(1889) 22 QBD 513 : 58 LJQB 174 : 60 LT 772 (CA)] 
+- Nokes v. Doncaster Amalgamated Collieries [(1940) 3 All ER 549 : 1940 AC 1014 : 109 LJKB 865 : 163 LT 343 (HL)]
+- Pye v. Minister for Lands for NSW [(1954) 3 All ER 514 : (1954) 1 WLR 1410 (PC)]
+- Mohan Kumar Singhania v. Union of India [1992 Supp (1) SCC 594 : 1992 SCC (L&S) 455 : (1992) 19 ATC 881 : AIR 1992 SC 1] 
+- R.S. Raghunath v. State of Karnataka [(1992) 1 SCC 335 : 1992 SCC (L&S) 286 : (1992) 19 ATC 507 : AIR 1992 SC 81] 
+- Sultana Begum v. Prem Chand Jain [(1997) 1 SCC 373 : AIR 1997 SC 1006] 
+- Boota Mal v. Union of India, (1963) 1 SCR 70
+- Nagendranath v. Suresh [AIR(1932) PC 165]
+- General Accident Fire and Life Assurance Corporation Limited v. Janmahomed Abdul Rahim [AIR (1941) PC 6] 
+- Ajmer Kaur v. State of Punjab, (2004) 7 SCC 381 
+- Kailash v. Nanhku, (2005) 4 SCC 480 
+- Salem Advocate Bar Assn. (2) v. Union of India, (2005) 6 SCC 344
+- State v. N.S. Gnaneswaran, (2013) 3 SCC 594 
+- Basawaraj v. Land Acquisition Officer, (2013) 14 SCC 81
+- Manindra Land and Building Corpn. Ltd. v. Bhutnath Banerjee [AIR 1964 SC 1336] 
+- Mata Din v. A. Narayanan [(1969) 2 SCC 770 : AIR 1970 SC 1953] 
+- Parimal v. Veena [(2011) 3 SCC 545 : (2011) 2 SCC (Civ) 1 : AIR 2011 SC 1150]
+- Maniben Devraj Shah v. Municipal Corpn. of Brihan Mumbai [(2012) 5 SCC 157 : (2012) 3 SCC (Civ) 24 : AIR 2012 SC 1629] 
+- Arjun Singh v. Mohindra Kumar [AIR 1964 SC 993]
+- Madanlal v. Shyamlal [(2002) 1 SCC 535 : AIR 2002 SC 100] 
+- Ram Nath Sao v. Gobardhan Sao [(2002) 3 SCC 195 : AIR 2002 SC 1201] 
+- P. Ramachandra Rao v. State of Karnataka [(2002) 4 SCC 578 : 2002 SCC (Cri) 830 : AIR 2002 SC 1856]
+- Abdul Rehman Antulay v. R.S. Nayak [(1992) 1 SCC 225 : 1992 SCC (Cri) 93 : AIR 1992 SC 1701] 
+- Postmaster General v. Living Media India Ltd., (2012) 3 SCC 563
+- State of Rajasthan v. Bal Kishan Mathur, (2014) 1 SCC 592 
+- State of U.P. v. Amar Nath Yadav, (2014) 2 SCC 422
+- State of T.N. v. N. Suresh Rajan, (2014) 11 SCC 709 
+- State of M.P. v. Bherulal, (2020) 10 SCC 654
+- State of M.P. v. Chaitram Maywade, (2020) 10 SCC 667
+- Chaitram Maywade v. State of M.P., 2018 SCC OnLine HP 1632
+- Ramlal v. Rewa Coalfields Ltd., (1962) 2 SCR 762
+- Salem Advocate Bar Assn. (II) v. Union of India, (2005) 6 SCC 344
+- Union of India v. U.P. State Bridge Corpn. Ltd., (2015) 2 SCC 52
+- Indu Malhotra, O.P. Malhotra on the Law and Practice of Arbitration and Conciliation (3rd Edn., Thomson Reuters, 2014).
+
+**9. Legal Arguments Accepted/Rejected:**
+
+- The court rejected the argument that the 60-day limitation period under the Commercial Courts Act, when applied to appeals under Section 37 of the Arbitration Act, should be considered a rigid bar against any condonation of delay. 
+- The court accepted the argument that the scheme of the Commercial Courts Act, unlike the Central Excise Act, does not explicitly exclude the application of Section 5 of the Limitation Act.
+- The court accepted the argument that the "sufficient cause" requirement in Section 5 of the Limitation Act should still be applied in the context of appeals under Section 37 of the Arbitration Act, but with consideration for the overarching objective of speedy dispute resolution.
+- The court rejected the argument that the "sufficient cause" requirement should be considered a "panacea" for condoning all delays, even in cases of negligence or stale claims.
+- The court rejected the argument that the "sufficient cause" requirement should be applied differently based on whether the case involves a government entity.
+
+
+**Overall:**
+
+This judgment provides a nuanced understanding of the application of the Limitation Act in the context of appeals under the Arbitration Act, specifically when the Commercial Courts Act is involved. The court's decision to overrule N.V. International (supra) and clarify the application of Section 5 of the Limitation Act reflects the importance of balancing the need for speedy dispute resolution with the need to ensure fairness and prevent the abuse of procedural loopholes.
+

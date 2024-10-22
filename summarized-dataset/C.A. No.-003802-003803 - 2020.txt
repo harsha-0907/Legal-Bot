@@ -1,0 +1,43 @@
+## Summary of the Judgement in M/s. N.N. Global Mercantile Pvt. Ltd. v. M/s. Indo Unique Flame Ltd. & Others
+
+**1. Constitutional References:** Article 226 and 227 of the Constitution of India (dealing with the writ jurisdiction of High Courts).
+
+**2. Key Legal Questions:**
+* Can an arbitration agreement be enforced even if the underlying contract is unstamped and unenforceable under the Stamp Act?
+* Are allegations of fraudulent invocation of a bank guarantee an arbitrable dispute?
+* Is a writ petition maintainable to challenge an order rejecting an application for reference to arbitration under Section 8 of the Arbitration Act?
+
+**3. Legal Doctrines:**
+* **Separability of Arbitration Agreement:** The doctrine of separability holds that an arbitration agreement is independent from the substantive contract and survives its invalidity.
+* **Kompetenz-Kompetenz:** The arbitral tribunal has the competence to determine its own jurisdiction, including the existence and validity of the arbitration agreement. 
+* **Arbitrability of Fraud:**  Civil aspects of fraud are generally arbitrable, except in specific situations like fraud in the inducement of the arbitration agreement or where the fraud renders the entire contract, including the arbitration clause, void.
+
+**4. Outcome:**
+* The High Court's judgment in favor of reference to arbitration was set aside. 
+* The case was referred back to the High Court to follow the procedure laid down in this judgement.
+
+**5. Reliefs or Orders:**
+* The Secretary General of the Supreme Court impounded the Work Order to be forwarded to the Collector for assessment of stamp duty.
+* The appellant was directed to pay the stamp duty assessed by the Collector within four weeks.
+* The appellant may seek interim relief under Section 9 of the Arbitration and Conciliation Act.
+* The stay granted by the High Court was extended for eight weeks.
+
+**6. Reasoning:**
+* The court found that the arbitration agreement, being an independent agreement, survives the invalidity of the unstamped Work Order.
+* The non-payment of stamp duty is a curable defect, and it does not invalidate the underlying contract, nor does it render the arbitration agreement unenforceable.
+* The allegations of fraudulent invocation of the bank guarantee are arbitrable, as they concern disputes between parties inter se.
+* The writ petition was not maintainable as a statutory remedy under Section 37 of the Arbitration Act is available.
+
+**7. Statutory Interpretation:**
+* The court interpreted Section 16 of the Arbitration Act, which enshrines the doctrines of separability and kompetenz-kompetenz, and held that it applies even when the underlying contract is unstamped.
+* Section 34 of the Maharashtra Stamp Act was interpreted as a bar to the admissibility of the unstamped Work Order in evidence, but not as an invalidating factor for the entire contract or the arbitration agreement.
+
+**8. Precedents Cited:**
+* **Heyman v. Darwins Ltd., Bremer Vulkan Schiffbau und Maschinefabrik v. South India Shipping Corporation, Harbour Assurance v. Kansa General International Insurance, Lesotho Highlands Development Authority v. Impregilo SpA and others, Fiona Trust & Holding Corporation v. Privalov, Fili Shipping Co Ltd and others v. Premium Nafta Products Ltd and others, Prima Paint Corporation v. Flood & Conklin MFG. CO., Buckeye Check Cashing, Inc v. Cardegna et. al, Rent-A-Center, West, Inc. v. Jackon, Uttarakhand Purv Sainik Kalyan Nigam Ltd. v. Northern Coal Field Ltd., A. Ayyasamy v. Parmasivam & Ors., SMS Tea Estates Pvt. Ltd. v. M/s. Chandmari Tea Co. Pvt. Ltd., SBP & Co. v. Patel Engineering Ltd., National Insurance Co. v. Boghara Polyfab, Master Construction Company v. Union of India, Duro Felguera S.A. v. Gangavaram Port Ltd., Mayavati Trading Private Limited v. Pradyuat Deb Burman, Garware Wall Ropes Ltd. v. Coastal Marine Constructions and Engineering Limited, Naina Thakkar v. Annapurna Builders, Shriram EPC Limited v. Rioglass Solar SA, Hindustan Steel Limited v. M/s. Dilip Construction Company, N. Radhakrishnan v. Maestro Engineers, Abdul Kadir v. Madhav Prabhakar, Bharat Rasiklal Ashra v. Gautam Rasiklal Ashra, Rashid Raza v. Sadaf Akhtar, Ameet Lalchand Shah & Ors. v. Rishabh Enterprises & Anr., Avitel Post Studioz Ltd. & Ors. v. HSBC PI Holdings (Mauritius Limited), Deccan Paper Mills v. Regency Mahavir, Vidya Drolia & Others v. Durga Trading Corporation, Booz Allen & Hamilton Inc. v. SBI Home Finance Ltd., Emaar MGF Land Limited v. Aftab Singh, Vimal Kishor Shah & Others v. Jayesh Dinesh Shah & Others, State of West Bengal v. Associated Contractors, Swiss Timing Ltd. v. Commonwealth Games 2010 Organising Committee**
+
+**9. Legal Arguments Accepted/Rejected:**
+* The argument that the unstamped Work Order renders the arbitration agreement unenforceable was rejected. 
+* The argument that allegations of fraud are not arbitrable was rejected.
+* The argument that the writ petition was maintainable despite the availability of a statutory remedy under Section 37 of the Arbitration Act was rejected.
+
+**Note:** The court also referred the issue of whether a statutory bar to an unstamped instrument also applies to the arbitration agreement to a Constitution Bench for authoritative determination. 

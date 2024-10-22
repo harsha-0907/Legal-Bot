@@ -1,0 +1,63 @@
+## Summary of the Judgment in  Korukonda Chalapathi Rao & Anr. v. Korukonda Annapurna Sampath Kumar 
+
+**1. Constitutional References:**
+
+* None explicitly stated.
+
+**2. Key Legal Questions:**
+
+* **Admissibility of Unregistered Documents:**  Whether the unregistered "Khararunama" (family settlement agreement) and the receipt for Rs. 2,00,000/- were admissible in evidence.
+* **Family Settlement:** Whether the Khararunama was a valid family settlement agreement, requiring registration under Section 17(1)(b) of the Registration Act, 1908. 
+* **Collateral Transaction:** Whether the unregistered Khararunama could be used as evidence of a collateral transaction, such as the nature of possession enjoyed by the parties.
+* **Effect of Non-registration:**  Whether the non-registration of the Khararunama  made it inadmissible as evidence of the transaction affecting the immovable property.
+
+**3. Legal Doctrines:**
+
+* **Registration Act, 1908:** The court interpreted the provisions of the Registration Act concerning the compulsory registration of non-testamentary instruments affecting immovable property.
+* **Family Settlement:** The court analyzed the legal principles governing family settlements, particularly regarding the requirements for registration and the admissibility of unregistered documents as corroborative evidence.
+* **Law of Evidence:** The court considered the admissibility of evidence and the principles of collateral transactions, particularly in the context of unregistered documents.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeal filed by the appellants (Korukonda Chalapathi Rao and another).
+* The High Court’s order finding the documents inadmissible was set aside.
+* The case was remanded to the trial court for further proceedings.
+
+**5. Reliefs or Orders:**
+
+* The order of the High Court rejecting the admissibility of the unregistered Khararunama and receipt was set aside. 
+* The case was sent back to the trial court to consider the evidence, including the Khararunama and the receipt, in accordance with the principles governing family settlements and the admissibility of unregistered documents. 
+
+**6. Reasoning:**
+
+* **Family Settlement:** The court acknowledged that a family settlement agreement can be oral, and if reduced to writing, it may require registration. However, a mere memorandum recording the terms of a previously completed oral family settlement does not require registration. 
+* **Khararunama as Record of Past Transaction:**  The court analyzed the Khararunama and concluded that it primarily serves as a record of a past transaction, reflecting the alleged arrangements made by the brothers after the 1980 partition.  The document itself does not create or extinguish any rights in the immovable properties. 
+* **Admissibility of Unregistered Documents:**  The court recognized that while an unregistered document cannot be used to prove the primary transaction (relinquishment of rights in the case of the Khararunama), it can be used as evidence of a collateral transaction, such as the conduct of the parties and the nature of possession.
+* **Non-registration and Collateral Transaction:** The court concluded that the Khararunama could be admitted as evidence of the collateral transaction, particularly regarding the nature of possession, as it does not directly affect the immovable property.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted Section 17(1)(b) of the Registration Act, acknowledging that documents affecting immovable property, including family settlements involving consideration, are compulsorily registrable. 
+* The court analyzed the proviso to Section 49 of the Registration Act, which permits the admission of unregistered documents as evidence of collateral transactions.
+
+**8. Precedents Cited:**
+
+* **Subraya M.N. v. Vittala M.N. (2016) 8 SCC 705:** The court relied on this case to establish the principle that family settlements can be oral and that a written memorandum recording the terms of a previous oral settlement does not require registration.
+* **Thulasidhara v. Narayanappa (2019) 6 SCC 409:** This case was cited to further support the argument that a written document of family settlement, even if not registered, can be used as corroborative evidence to explain the arrangement made thereunder and the conduct of the parties.
+* **Ram Charan v. Girja Nandini (AIR 1966 SC 292):** This case was referenced for its discussion on the nature of family settlements and the requirement of antecedent title or claim for the parties involved.
+* **Yellapu Uma Maheswari and Another v. Buddha Jagadheeswararao and Others (2015) 16 SCC 787:** This case was cited for its explanation of the principle that a relinquishment of rights in respect of immovable property through a document requires registration.
+* **Sita Ram Bhama v. Ramvatar Bhama (2018) 15 SCC 130:** This case was referenced for its discussion on the admissibility of an unregistered document as evidence of a collateral transaction. 
+* **Muruga Mudallar and Ors. v. Subba Reddiar (AIR 1951 Madras 12):** This case was referenced for its interpretation of the word "affect" in Section 49 of the Registration Act. 
+* **K. Panchapagesa Ayyar and Ors. v. K. Kalyanasundaram Ayyar and Ors. (AIR 1957 Madras 472):**  This case was cited for its explanation of the concept of a "collateral transaction" and the limitations on the use of unregistered documents.
+* **SMS Tea Estates (P) Ltd. v. Chandmari Tea Co. Private Ltd. (2011) 14 SCC 66:** This case was referenced to explain the principle that an arbitration agreement contained in an unregistered document can be used as evidence for a collateral transaction, i.e., dispute resolution through arbitration.
+* **N. Varada Pillai v. Jeevarathnammal (AIR 1919 P.C. 44):** This case was cited for its discussion on the admissibility of an unregistered document to show the nature of possession.
+* **Kirpal Kaur v. Bachan Singh and Ors. (AIR 1958 SC 199):** This case was referenced for its discussion on the admissibility of an unregistered document to prove the nature of possession and the limitations on using unregistered documents to circumvent the statutory bar of the Registration Act.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* **Accepted Arguments:** The appellant’s arguments that the Khararunama is not a primary transaction requiring registration and can be used as evidence of a collateral transaction (nature of possession) were accepted. 
+* **Rejected Arguments:** The respondent’s argument that the Khararunama requires registration as a family settlement agreement was rejected. The respondent’s argument that the Khararunama was inadmissible as evidence of the primary transaction was also rejected.
+
+**Conclusion:**
+
+The Supreme Court’s judgment clarifies the complexities of family settlements and the use of unregistered documents as evidence in legal proceedings.  The court emphasized the need for a nuanced interpretation of the Registration Act and the distinction between primary transactions and collateral transactions when analyzing the admissibility of unregistered documents. The court’s decision to remand the case back to the trial court highlights the importance of careful fact-finding and a thorough examination of the evidence before reaching a final decision. 

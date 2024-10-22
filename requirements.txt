@@ -12,11 +12,13 @@ matplotlib
 # App
 fastapi
 uvicorn
-starlette
 streamlit
 
 # Model
-huggingface_hub
+faiss-cpu
+transformers
+torch
+
 
 # Database
 pymongo

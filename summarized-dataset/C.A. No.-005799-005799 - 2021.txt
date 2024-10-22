@@ -1,0 +1,52 @@
+## Summary of the Judgment in New Okhla Industrial Development Authority & Ors v. 24 Oranges Lab LLP & Anr.
+
+**1. Constitutional References:**
+
+* None explicitly stated.
+
+**2. Key Legal Questions:**
+
+* Whether the execution of a lease deed at a specific rate (Rs. 5900/- per sq. meter), which was initially an interim measure, should be considered conclusive and binding on both parties.
+* Whether the High Court erred in concluding that the lease deed overrode the allotment order based solely on the execution of the lease deed.
+
+**3. Legal Doctrines:**
+
+*  **Interim Orders:**  The concept of interim orders and their effect in the context of ongoing legal proceedings.
+* **Contract Interpretation:**  How the court interpreted the lease agreement in light of the terms and conditions of the allotment order and the prior interim order.
+*  **Specific Relief Act:** The judgment implicitly references the Specific Relief Act, as it involves a petition challenging the actions of a development authority.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeal and quashed the High Court's judgment. 
+* The matter was remanded back to the High Court for a fresh consideration of the main writ petition.
+
+**5. Reliefs or Orders:**
+
+* The High Court’s judgment holding the lease deed rate at Rs. 5900/- per sq. meter as final and conclusive was quashed.
+* The High Court was directed to consider the main writ petition afresh, preferably within six months from the date of receiving this order.
+
+**6. Reasoning:**
+
+* The Court emphasized that the lease deed executed at Rs. 5900/- per sq. meter was based on an interim order by the High Court, which was intended as an interim measure pending the outcome of the main writ petition. 
+* The Court found that the High Court erred in failing to consider the interim nature of the lease deed and its dependence on the outcome of the main writ petition. 
+* The Court further noted that the allotment order contained terms and conditions that allowed for changes in the rate, making it incorrect for the High Court to conclude that the lease deed rate was binding.
+
+**7. Statutory Interpretation:**
+
+* None explicitly stated.  However, the court likely considered the provisions of the Specific Relief Act, which governs petitions against the actions of authorities, and the terms and conditions of the allotment order. 
+
+**8. Precedents Cited:**
+
+* None explicitly cited.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellant argued that the High Court misconstrued the interim nature of the lease deed. This argument was accepted.
+* The appellant argued that the terms and conditions of the allotment order allowed for changes in the rate, making the lease deed rate non-binding. This argument was implicitly accepted.
+* The respondent argued that the lease deed at Rs. 5900/- per sq. meter was conclusive. This argument was rejected.
+
+**Conclusion:**
+
+The Supreme Court's decision emphasizes the importance of recognizing the legal distinction between interim and final orders.  The Court's decision to remand the case back to the High Court for fresh consideration acknowledges the need for a proper legal evaluation of all relevant factors before concluding that an interim agreement, even if executed, is binding on all parties.
+
+

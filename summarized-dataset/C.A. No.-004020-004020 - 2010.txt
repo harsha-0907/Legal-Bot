@@ -1,0 +1,39 @@
+## Summary of the Judgement in U.P. Housing & Development Board & Anr. v. Namit Sharma
+
+**1. Constitutional References:** None explicitly mentioned in the judgment.
+
+**2. Key Legal Questions:**
+* Can a person claim a plot allotment based on a registration initially held by their deceased grandfather, even though the registration was subsequently deemed invalid by the Housing Board?
+* Does a recommendation made by a Housing Board official in a specific case, without formal authorization from the Housing Commissioner, create an enforceable right to allotment?
+
+**3. Legal Doctrines:**
+* **Government Order:** The court examined the validity of a government order issued by the State Government regarding refund of registration money and renewal of old registrations.
+* **Allotment Process:** The court scrutinized the prescribed procedure for allotment of plots in the Housing Scheme, which involved a draw of lots for eligible applicants.
+* **Power of Housing Commissioner:** The court assessed the extent of the Housing Commissioner's authority under the relevant regulations to make discretionary decisions regarding plot allotments.
+
+**4. Outcome:**
+* The appeal filed by the Housing Board was allowed.
+* The High Court's order directing allotment of a plot to the respondent was set aside and the writ petition dismissed.
+
+**5. Reliefs or Orders:**
+* The respondent is not entitled to an allotment of a plot in the Housing Scheme.
+
+**6. Reasoning:**
+* The court found that the respondent's grandfather, although registered, was never allotted a plot, and the registration was subsequently deemed invalid based on a Government order.
+* The recommendation made by a Housing Board official on the respondent's application did not constitute an enforceable order, as it lacked proper authorization from the Housing Commissioner.
+* The court emphasized that the allotment of plots in the Housing Scheme was based on a draw of lots and that the respondent had not participated in any such draw.
+* Granting the respondent a plot allotment without a proper process would be unfair to other applicants who might be eligible for allotment.
+
+**7. Statutory Interpretation:**
+* The court interpreted the Government order dated 11.10.2002 as effectively nullifying old registrations and requiring applicants to apply afresh. 
+* The court examined Rule 47 of the Uttar Pradesh Avas Evam Vikas Parishad regulations, which gives the Housing Commissioner discretionary powers in special circumstances, but found that the recommendation in this case did not constitute an exercise of this power.
+
+**8. Precedents Cited:** 
+* None specifically mentioned in the judgment.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The Housing Board's argument that the respondent had no valid claim to allotment was accepted.
+* The respondent's argument that a recommendation by a Housing Board official amounted to a binding order was rejected. 
+* The respondent's argument that the High Court's order was based on consent of the Housing Board was rejected.
+
+**Note:** The court highlighted the importance of following the prescribed procedures and ensuring fairness in the allotment process. The court emphasized that mere registration or informal recommendations do not confer an automatic right to plot allotment. 

@@ -1,0 +1,50 @@
+## Summary of the Judgement in Union of India & Ors. v. M/s Puna Hinda
+
+This case involved an appeal by the Union of India (appellant) against a Gauhati High Court order that dismissed an intra-court appeal and upheld a Single Bench decision to require the Union of India to pay M/s Puna Hinda (respondent) a substantial sum of money related to a road construction project. The dispute centered on the validity of the joint survey report, the interpretation of contract terms, and the appropriate forum for resolving the dispute.
+
+**1. Constitutional References:** None explicitly mentioned in the judgment.
+
+**2. Key Legal Questions:**
+* Was the High Court justified in allowing the writ petition and directing payment to the contractor?
+* Was the joint survey report a valid and authenticated document?
+* Was the amount claimed by the contractor based on legitimate work done or inflated claims?
+* Was the dispute a matter of contractual interpretation or public law?
+* Did the arbitration clause in the contract preclude the writ petitioner from approaching the High Court?
+
+**3. Legal Doctrines:**
+* **Writ Petition:** The court examined the jurisdiction of the High Court under Article 226 to issue a writ of mandamus compelling the Union of India to pay the disputed amount. 
+* **Contractual Interpretation:** The judgement analyzed the terms and conditions of the contract, particularly the provisions regarding measurement and payment.
+* **Arbitration Clause:** The court considered the existence of an arbitration clause in the contract and its implications for the jurisdiction of the court.
+* **Statutory Contract:** The court explored the distinction between a statutory contract and a purely contractual agreement.
+
+**4. Outcome:**
+* The appeal filed by the Union of India was allowed.
+* The High Court order dismissing the intra-court appeal and directing payment was set aside.
+* The writ petition filed by M/s Puna Hinda was dismissed.
+
+**5. Reliefs or Orders:**
+* The High Court's order directing payment was reversed.
+* The writ petition was dismissed, effectively halting the payment process.
+
+**6. Reasoning:**
+* The court found that the joint survey report, which was the basis for the contractor's claim, was not a valid or authenticated document and had not been approved by the competent authority.
+* The court concluded that the contractor's claim was inflated and based on disputed questions of fact, including claims for work not reflected in the measurement books.
+* The court held that the dispute was primarily a matter of contractual interpretation and not a public law issue, rendering the writ petition inappropriate.
+* The court pointed out that the existence of an arbitration clause in the contract required the contractor to pursue the dispute through the agreed-upon mechanism.
+
+**7. Statutory Interpretation:**
+* The court examined the relevant sections of the Contract Act, highlighting the principles governing the interpretation of contractual clauses and the resolution of disputes arising from contracts.
+
+**8. Precedents Cited:**
+* **Kerala State Electricity Board & Anr. v. Kurien E. Kalathil & Ors. (2000):**  This case reiterated that writ petitions are not the appropriate forum for resolving disputes arising from contractual obligations. 
+* **Joshi Technologies International Inc v. Union of India & Ors. (2015):**  This case clarified the limited circumstances under which writ petitions are permissible in contractual disputes.
+* **Ajai Pal Singh (1989):**  This case emphasized the distinction between statutory contracts and ordinary contracts.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The court accepted the appellants' arguments that the joint survey report was not a valid document and that the contractor's claim was based on disputed questions of fact.
+* The court accepted the appellants' argument that the arbitration clause in the contract mandated the resolution of disputes through arbitration.
+* The court rejected the respondent's argument that the dispute was a public law issue that warranted a writ petition. 
+
+**Conclusion:**
+
+The judgement reinforces the importance of following proper procedures and contractual provisions in government projects. The court's decision emphasizes that contractors cannot rely on unauthorized or unauthenticated documents to inflate their claims. The judgement also underscores the need for parties to adhere to the agreed-upon dispute resolution mechanisms, such as arbitration, in contractual matters. 

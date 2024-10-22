@@ -1,0 +1,67 @@
+## Summary of the Judgment in IREO Grace Realtech Pvt. Ltd. v. Abhishek Khanna & Others
+
+**1. Constitutional References:**
+
+* None explicitly stated.
+
+**2. Key Legal Questions:**
+
+* **Contract Interpretation:**  Determining the commencement date of the 42-month period for handing over possession of the apartments: Whether it should be calculated from the date of Building Plan approval or the date of Fire NOC issuance.
+* **Unfair Contractual Terms:** Whether the terms of the Apartment Buyer's Agreement were one-sided and unfair to the buyers, particularly regarding compensation for delay and termination rights.
+* **Applicability of RERA Act:** Whether the provisions of the Real Estate (Regulation & Development) Act, 2016 (RERA Act) should take precedence over the Consumer Protection Act, 1986, in resolving disputes related to real estate projects.
+* **Refund and Compensation:** Whether the apartment buyers were entitled to a full refund of the amounts deposited along with interest and compensation for the delay in obtaining possession.
+
+**3. Legal Doctrines:**
+
+* **Contract Law:**  The court interpreted the provisions of the Apartment Buyer's Agreement, focusing on the construction-linked payment plan and the clauses related to possession, delay, and termination.
+* **Consumer Protection Act, 1986:** The court applied the principles of the Consumer Protection Act regarding unfair trade practices, deficiency in service, and compensation for consumer grievances.
+* **Real Estate (Regulation & Development) Act, 2016 (RERA Act):** The court analyzed the provisions of the RERA Act concerning refund, compensation, and the jurisdiction of the Real Estate Regulatory Authority (RERA).
+* **Doctrine of Election:** The court considered the doctrine of election, particularly in the context of the availability of remedies under both the Consumer Protection Act and the RERA Act.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeals filed by the appellant-developer, setting aside the judgments of the National Consumer Disputes Redressal Commission (National Commission) and the Real Estate Regulatory Authority (RERA) in Gurgaon.
+* The complaints filed by the apartment buyers were dismissed.
+
+**5. Reliefs or Orders:**
+
+* The National Commission's orders directing the appellant to refund the amounts deposited along with compensation were set aside. 
+* The Supreme Court directed the appellant to refund the principal amount deposited by the apartment buyer in Civil Appeal No.3064/2020 within four weeks, with interest at 9% p.a. from 16.09.2019. If the appellant failed to comply, it would be liable to pay default interest at 12% p.a.
+* The Supreme Court directed the appellant to refund the entire amount deposited by the other respondents in Chart B, with interest at 9% S.I. per annum from 27.11.2018 until the date of payment.  The appellant would be liable for default interest at 12% S.I. p.a. if the refund was not made within three months.
+* The appellant was directed to not deduct the earnest money or any other amounts from the refund amount, as stipulated in Clause 21.3 of the Agreement.
+
+**6. Reasoning:**
+
+* **Commencement Date of Possession:** The court held that the 42-month period for handing over possession should be calculated from the date of issuance of the Fire NOC, not the date of Building Plan approval, as stipulated by the Agreement and the RERA order. The court emphasized that the Fire NOC was a mandatory requirement for commencing construction, and the Developer had delayed obtaining it. 
+* **Unfair Contractual Terms:** The court recognized that the Apartment Buyer's Agreement contained one-sided clauses that were disadvantageous to the buyers, particularly regarding compensation for delay and termination rights.
+* **Precedents & Jurisdiction:**  The court acknowledged the precedents set by previous judgments, including IREO Victory Valley Pvt. Ltd. v. Shamshul Hoda Khan and Pioneer Urban Land and Infrastructure Ltd v. Govindan Raghavan, which affirmed the right of apartment buyers to seek redressal for deficiencies in service. However, the court distinguished the present case based on the specific facts and contractual terms.
+* **RERA & Consumer Protection Act:** The court did not explicitly state that the RERA Act takes precedence over the Consumer Protection Act, but implicitly applied the provisions of both Acts in analyzing the case. The court acknowledged the RERA’s authority to adjudicate on real estate disputes and emphasized the importance of balancing the competing interests of both parties.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted the provisions of the Consumer Protection Act regarding unfair trade practices and deficiency in service, acknowledging the right of consumers to seek redressal for breaches of contractual obligations.
+* The court interpreted the provisions of the RERA Act regarding refund, compensation, and the authority of the RERA to adjudicate on real estate disputes.
+* The court interpreted the terms of the Apartment Buyer's Agreement, focusing on the clauses related to the construction-linked payment plan, possession, delay, and termination.
+
+**8. Precedents Cited:**
+
+* IREO Victory Valley Pvt. Ltd. v. Shamshul Hoda Khan (Civil Appeal No.4801 of 2019 decided on 03.05.2019)
+* Pioneer Urban Land and Infrastructure Ltd v. Govindan Raghavan (2019) 5 SCC 725
+* National Seeds Corporation Limited v. M. Madhusudhan Reddy (2012) 2 SCC 506
+* Secretary, Thirumurugan Cooperative Agricultural Credit Society v. M. Lalitha (dead) through LRs and others (2004) 1 SCC 305
+* Lucknow Development Authority v. M.K. Gupta (1994) 1 SCC 243
+* Emaar MGF Land Ltd. v. Aftab Singh (2019) 12 SCC 751
+* Transcore v. Union of India (2008) 1 SCC 125
+* Mathew Varghese v. M. Amritha Kumar (2014) 5 SCC 610
+* M/s Imperia Structures Ltd. v. Anil Patni and Anr (2020) 10 SCC 783
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* **Accepted Arguments:** The appellant's arguments regarding the importance of obtaining the Fire NOC as a pre-condition for commencing construction were accepted. The court also accepted the appellant's argument that the delay in obtaining the Fire NOC was not solely attributable to the Developer.
+* **Rejected Arguments:** The appellant's arguments that the Apartment Buyer's Agreement was not one-sided and that the buyers were bound by the terms were rejected. The appellant's argument that the RERA decision should prevail over the National Commission’s decision was also rejected.
+
+**Conclusion:**
+
+The Supreme Court's judgment in this case highlights the complex legal landscape surrounding real estate development in India. The court affirmed the importance of clear contractual agreements and the right of apartment buyers to seek redressal for deficiencies in service. The judgment also demonstrates the court's willingness to balance the competing interests of developers and buyers, particularly in light of delays caused by external factors.  The court’s decision to award compensation to buyers in the absence of a completed project emphasizes the principle of consumer protection in real estate transactions. 
+
+

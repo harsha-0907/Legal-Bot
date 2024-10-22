@@ -1,0 +1,60 @@
+##  Judgment Summary: A. Manju v. Prajwal Rev Anna & Ors. (Civil Appeal No. 1774 of 2020)
+
+**1. Constitutional References:**
+
+* The judgment does not explicitly reference any articles or sections from the Constitution of India. However, it addresses the issue of the "mandate of the public" in an election conducted under the Election Commission, which implicitly relies on fundamental rights related to free and fair elections, such as Article 19 and Article 32.
+
+**2. Key Legal Questions:**
+
+* **Whether a candidate's non-compliance with the statutory requirements for filing an election petition, specifically the failure to include an affidavit in the prescribed Form 25, is fatal to the petition's maintainability.**
+* **Whether a candidate’s allegations of corrupt practices by the elected candidate must be supported by an affidavit in Form 25, even if the allegations fall outside the purview of Section 123 of the RP Act.**
+* **Whether a technical defect in an election petition, such as non-compliance with the requirements for signing and verification of the petition, is curable or can lead to the dismissal of the petition at the threshold.**
+
+**3. Legal Doctrines:**
+
+* **Mandate of the Public:** This doctrine recognizes that a candidate’s victory in an election represents the will of the people, and thus an election petition challenging the result must meet strict legal requirements to overturn the popular mandate. 
+* **Strict Compliance:** This doctrine requires that statutory requirements for filing an election petition be followed meticulously, as they are considered integral to ensuring a fair and transparent election process. 
+* **Curable Defects:**  This doctrine allows for the correction of minor procedural errors in an election petition, as long as they do not materially affect the substance of the allegations.
+* **Waiver:**  This doctrine recognizes that certain statutory requirements may be waived if they are not considered essential for the proper determination of the case.
+
+**4. Outcome:**
+
+* The appeal was allowed.
+* The High Court's order dismissing the appellant's election petition was set aside.
+* The case was remanded to the High Court for re-hearing after a fresh auction process is conducted by the Charity Commissioner.
+
+**5. Reliefs or Orders:**
+
+* The appellant’s intervention application was restored to the High Court.
+* The Charity Commissioner was ordered to:
+    * Conduct a fresh valuation report of the property in question.
+    * Set a minimum bid price of at least Rs 1 crore.
+    * Advertise the property for sale and invite bids.
+    * Consider all bids received, including those from the appellant and second respondent.
+    * Submit a report to the High Court with the outcome of the auction.
+* The appellant was granted relief from the High Court's initial order, which had effectively awarded the property to the second respondent. 
+
+**6. Reasoning:**
+
+* The court acknowledged that election law is technical in nature and requires strict adherence to procedural requirements, particularly when a candidate's victory in an election is being contested. 
+* The court found that the appellant had sufficiently complied with the requirements of Section 81(3) of the RP Act by verifying the entire petition, including the index and synopsis. 
+* However, the court held that the appellant's failure to file an affidavit in Form 25, despite having filed a verifying affidavit in support of the petition, constituted a curable defect.
+* The court reasoned that dismissing the petition at the threshold stage on this technical ground would be too stringent, especially considering the serious allegations of corrupt practices made by the appellant against the respondent. 
+* The court, relying on the precedents of *Ponnala Lakshmaiah* and *G.M. Siddeshwar*, held that the absence of an affidavit in Form 25 could be remedied by the appellant filing an affidavit in the prescribed form. 
+* The court also expressed concern about the appellant's allegations of undisclosed income and the potential for higher bids, concluding that a fresh auction process would be the most appropriate method for selling the property and ensuring its true market value was realized.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted the provisions of the Representation of People Act, 1951, including Sections 81, 82, 83, 86, and 100, as well as the relevant form under Section 94A of the Conduct of Election Rules, 1962, emphasizing the importance of upholding the principles of fairness and transparency in the electoral process. 
+
+**8. Precedents Cited:**
+
+* *Murarka Radhey Shyam Ram Kumar v. Roop Singh Rathore* (1964) 3 SCR 573
+* *Ponnala Lakshmaiah v. Kommuri Pratap Reddy & Ors.* (2012) 8 SCC 191
+* *G.M. Siddeshwar v. Prasanna Kumar* (2013) 4 SCC 776
+* *Sardar Harcharan Singh Brar v. Sukh Darshan Singh* (2004) 11 SCC 196
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* **Accepted:** The court accepted the appellant's argument that he had substantially complied with Section 81(3) and that the non-filing of Form 25 was a curable defect. 
+* **Rejected:** The court rejected the respondent's argument that the non-compliance with Form 25 should lead to the dismissal of the petition, citing the precedent of *Ponnala Lakshmaiah*. The court also dismissed the second respondent's claim for entitlement to the property, as the initial auction process was found to be unfair. 

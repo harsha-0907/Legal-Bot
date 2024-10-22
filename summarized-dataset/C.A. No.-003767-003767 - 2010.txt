@@ -1,0 +1,38 @@
+## Summary of the Judgement in The State of Bihar & Ors. v. Arbind Jee
+
+**1. Constitutional References:** None explicitly mentioned in the judgment.
+
+**2. Key Legal Questions:**
+* Is a person appointed on compassionate grounds after a court order entitled to seniority from the date of the initial shortlisting for appointment, even though they were initially denied appointment and joined service years later?
+* Can retrospective seniority be granted in a case where the individual was not borne in service on the claimed date?
+
+**3. Legal Doctrines:**
+* **Compassionate Appointment:** This doctrine refers to appointments offered to family members of deceased government employees, usually on grounds of hardship.
+* **Seniority in Service:** Seniority is determined by the date of entry into service, which typically accrues upon joining. 
+* **Retrospective Seniority:** While courts may grant retrospective seniority in certain circumstances, it is not a general rule and should not be allowed without clear justification.
+
+**4. Outcome:**
+* The appeal by the State of Bihar was allowed. 
+* The High Court's order granting the respondent seniority from the date of initial shortlisting was set aside and quashed.
+
+**5. Reliefs or Orders:**
+* The respondent is not entitled to seniority from the date of initial shortlisting (20.11.1985), but rather from the date he actually joined service (10.2.1996).
+
+**6. Reasoning:**
+* The court highlighted that the respondent was initially denied appointment due to failing physical standards and was only appointed on the Supreme Court's direction years later.
+* The Supreme Court's order directing appointment did not include any direction for retrospective seniority.
+* Granting retrospective seniority would unjustly impact other employees who joined service before the respondent. 
+* The court distinguished this case from instances where individuals were recruited through a common competitive process and denied appointment due to arbitrary reasons.
+
+**7. Statutory Interpretation:** None explicitly mentioned in the judgment.
+
+**8. Precedents Cited:**
+* **Shitla Prasad Shukla vs. State of UP and Ors.:** This case established that retrospective seniority cannot be claimed over those who entered service earlier and that courts should not interfere with the determination of seniority by competent authorities unless it is unfair not to do so. 
+* **Ganga Vishan Gujrati And Ors. Vs. State of Rajasthan and Ors.:** This case reiterated the principle that retrospective seniority cannot be granted from a date when the employee was not borne in service.
+* **C. Jayachandran vs. State of Kerala:** This case involved a claim for notional seniority based on a delayed appointment but differed significantly from the current case on facts, as it involved a competitive recruitment process. 
+
+**9. Legal Arguments Accepted/Rejected:**
+* The appellant's argument that the respondent's seniority should be calculated from the date he actually joined service was accepted.
+* The respondent's argument that he should be granted retrospective seniority from the date of initial shortlisting was rejected. 
+
+**Note:** The court emphasized that the State faithfully implemented the Supreme Court's order by appointing the respondent, and the determination of seniority was consistent with applicable laws. 

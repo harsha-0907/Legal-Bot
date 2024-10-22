@@ -1,0 +1,64 @@
+## Judgment Summary: State of Kerala v. Mahesh
+
+**1. Constitutional References:**
+
+* **Article 136 (Special Leave to Appeal):** This article forms the basis for the Supreme Court's jurisdiction to hear this appeal against the High Court's bail order.
+* **Article 21 (Right to Life and Liberty):**  The judgment implicitly considers this article through its discussion of the balance between protecting individual liberty and societal interest in maintaining law and order.
+
+**2. Key Legal Questions:**
+
+* Did the High Court err in granting bail to the accused, charged with the heinous murder of a doctor, considering the gravity of the offense and the evidence available?
+* Does the principle of "bail being the rule and jail the exception" apply in cases involving serious offenses like murder, especially before the chargesheet is filed and the accused has been absconding?
+
+**3. Legal Doctrines:**
+
+* **Bail Jurisdiction:** The judgment extensively explores the principles governing the grant of bail under Section 439 of the Cr.P.C., particularly the need for judicial discretion and the balancing of individual liberty with the interests of justice.
+* **Appellate Interference:** The court emphasizes that while the Supreme Court generally avoids interfering with bail orders, it can intervene when the High Court's discretion has been exercised without proper application of mind or in contravention of established principles.
+* **Supervening Circumstances:** The judgment addresses the concept of supervening circumstances – events occurring after the initial bail order that warrant cancellation of bail.
+
+**4. Outcome:**
+
+* The appeal was allowed.
+* The High Court's order granting bail to the accused was set aside.
+* The accused was ordered to be taken back into custody.
+
+**5. Reliefs or Orders:**
+
+* The Supreme Court reversed the High Court's bail order.
+* The accused was ordered to be remanded back to custody.
+
+**6. Reasoning:**
+
+* The court criticized the High Court for granting bail without adequately considering the gravity of the offense (murder), the strong prima facie evidence against the accused, and the possibility of witness intimidation.
+* The court emphasized that the accused had been absconding after the crime and that the chargesheet had not yet been filed.
+* The court rejected the High Court's reliance on the accused's prolonged custody (75 days) as a reason to grant bail, arguing that this factor was not paramount in a case of such seriousness.
+* The court found the High Court's restriction of the accused from entering the jurisdiction of the Ollur Police Station inadequate to prevent witness intimidation, as the victim's family resided outside that jurisdiction.
+* The court stated that the High Court had misconstrued its directions in *In Re: Contagion of Covid 19 Virus In Prisons*, which did not mandate the release of all under-trial prisoners, especially those charged with serious offenses like murder.
+* The court emphasized the importance of applying established principles while exercising bail jurisdiction, balancing the accused's right to liberty with the need to ensure a fair trial and the protection of witnesses.
+
+**7. Statutory Interpretation:**
+
+* The court applied Section 439 of the Cr.P.C. in a manner consistent with established precedents, prioritizing the need for a judicial approach that weighs all relevant factors, including the seriousness of the offense and the possibility of witness tampering.
+* The court acknowledged that "bail being the rule and jail the exception" is a significant principle, but it argued that it does not apply automatically in all cases, especially when there is strong evidence of guilt and a high risk of witness interference.
+
+**8. Precedents Cited:**
+
+* *Ram Govind Upadhyay v. Sudarshan Singh & Ors.* (2002) 3 SCC 598
+* *Prasanta Kumar Sarkar v. Ashis Chatterjee & Anr.* (2010) 14 SCC 496
+* *Mahipal v. Rajesh Kumar & Anr.* (2020) 2 SCC 118
+* *Sanjay Chandra v. Central Bureau of Investigation* (2012) 1 SCC 40
+* *Siddharam Satlingappa Mhetra v. State of Maharashtra & Ors.* (2011) 1 SCC 694
+* *Jagdish & Ors. v. Harendrajit Singh* (1985) 4 SCC 508
+* *P. Chidambaram v. Directorate of Enforcement* (2020) 13 SCC 791
+* *Dolat Ram & Ors. v. State of Haryana* (1995) 1 SCC 349
+* *Neeru Yadav v. State of U.P.* (2014) 16 SCC 508
+* *Mohd. Amir Rashadi v. State of U.P.* (2012) 2 SCC 382
+* *Prabhakar Tewari v. State of U.P. & Anr.* (2020) 11 SCC 648
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The court accepted the appellant's argument that the High Court had erred in granting bail, failing to consider the gravity of the offense and the evidence on record.
+* The court rejected the respondent's argument that the High Court's order was well-reasoned, emphasizing that it lacked a proper analysis of the relevant factors and failed to address the prosecution's concerns regarding witness intimidation.
+* The court rejected the respondent's argument that the accused's prolonged custody (75 days) justified granting bail in a murder case, stating that the seriousness of the crime and the risk of witness influence were more crucial considerations.
+* The court rejected the respondent's argument that the High Court had correctly applied the principle of "bail being the rule and jail the exception" by citing *P. Chidambaram*, finding that this principle does not apply automatically in all cases, especially those involving serious offenses and a risk of witness interference.
+

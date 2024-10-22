@@ -1,0 +1,42 @@
+## Summary of the Judgement in Ramesh Kymal v. M/s Siemens Gamesa Renewable Power Pvt Ltd.
+
+**1. Constitutional References:** None explicitly mentioned in the judgment.
+
+**2. Key Legal Questions:**
+* Does Section 10A of the Insolvency and Bankruptcy Code, 2016 (IBC), as inserted by the Amending Act (Act 17 of 2020) with retrospective effect from 5 June 2020, bar the maintainability of an application filed under Section 9 of the IBC prior to the enactment of Section 10A, even if the default occurred after the cut-off date (25 March 2020) specified in Section 10A?
+* Can the NCLT exercise jurisdiction to determine the professional fees of a registered valuer appointed during the CIRP, even if the CIRP is subsequently set aside?
+* Does the availability of a grievance redressal mechanism under the IBC against the Resolution Professional (RP) preclude the NCLT from determining the claims of other professionals involved in the CIRP, such as the valuer?
+
+**3. Legal Doctrines:**
+* **Retrospective Legislation:** The judgment examines the principles of retrospective legislation and the interpretation of statutes with retrospective effect.
+* **Jurisdiction of NCLT:** The judgment clarifies the jurisdiction of the National Company Law Tribunal (NCLT) under Section 60(5)(c) of the IBC, particularly in relation to disputes arising from or relating to the insolvency of a corporate debtor.
+* **Insolvency Resolution Process Costs:** The judgment analyzes the definition of "insolvency resolution process costs" under Section 5(13) of the IBC and Regulation 31 of the IRP Regulations.
+
+**4. Outcome:**
+* The appeal filed by Ramesh Kymal was dismissed.
+* The NCLAT's order upholding the NCLT's decision that the application under Section 9 of the IBC was not maintainable was affirmed.
+
+**5. Reliefs or Orders:**
+* The appellant's application under Section 9 of the IBC was deemed not maintainable.
+* The NCLT's decision to dismiss the application was upheld.
+
+**6. Reasoning:**
+* The court found that Section 10A, despite its retrospective effect, bars the filing of any application for the initiation of the CIRP for defaults occurring on or after 25 March 2020, regardless of when the application was filed.
+* The court interpreted the language of Section 10A, particularly the phrase "no application shall ever be filed," to indicate a clear legislative intent to create a retrospective bar on applications for CIRP in relation to defaults occurring after the cut-off date.
+* The court emphasized that the purpose of Section 10A was to provide relief to corporate debtors facing financial distress due to the Covid-19 pandemic and that allowing applications for CIRP in relation to post-pandemic defaults would defeat this objective.
+* The court also held that the NCLT retained jurisdiction to determine the valuer's fees, despite the CIRP being set aside, as the valuer's claim was an intrinsic part of the CIRP costs.
+
+**7. Statutory Interpretation:**
+* The court adopted a purposive interpretation of Section 10A, considering its legislative purpose and the context of the Covid-19 pandemic.
+* The court interpreted Section 60(5)(c) of the IBC to encompass disputes concerning the professional fees of experts appointed during the CIRP, even if the CIRP is subsequently set aside.
+* The court interpreted Regulation 34 of the IRP Regulations to include the fees of professionals appointed by the RP as part of the "insolvency resolution process costs."
+
+**8. Precedents Cited:**
+* Sardar Inder Singh v. State of Rajasthan (1957 SCR 605): The court referred to this case to illustrate how the preamble to a statute can be used to interpret its provisions.
+* Swiss Ribbons (P) Ltd. v. Union of India (2019) 4 SCC 17: The court cited this case to highlight the importance of timely resolution of insolvency proceedings under the IBC to support credit markets and promote economic growth.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The appellant's argument that Section 10A applies prospectively and does not bar applications filed before its enactment was rejected.
+* The respondent's argument that the NCLT was functus officio and could not determine the appellant's claim for fees was rejected.
+
+**Note:** This judgment clarifies the scope of Section 10A of the IBC, emphasizing its retrospective application and its intended purpose to provide relief to corporate debtors affected by the Covid-19 pandemic. The court's interpretation emphasizes the balance between protecting corporate debtors and ensuring that professionals involved in the CIRP are fairly compensated. 

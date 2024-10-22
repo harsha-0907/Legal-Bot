@@ -1,0 +1,40 @@
+## Summary of the Judgement in State of Chhattisgarh & Anr. v. M/s Sal Udyog Private Limited
+
+**1. Constitutional References:** None explicitly mentioned in the judgment.
+
+**2. Key Legal Questions:**
+* Can a domestic arbitral award be set aside on the ground of "patent illegality" if the arbitrator fails to consider the express terms of the contract governing the parties?
+* Does the principle of waiver apply to a party who fails to raise a specific objection in a Section 34 petition under the Arbitration and Conciliation Act, 1996 (1996 Act), thereby barring them from raising the same objection in a Section 37 appeal or before the Supreme Court?
+
+**3. Legal Doctrines:**
+* **Patent Illegality:** The judgment applies the principle of "patent illegality" as a ground for setting aside an arbitral award, as outlined in Associate Builders v. Delhi Development Authority (2015) 3 SCC 49.
+* **Waiver:** The judgment examines the doctrine of waiver and its application to a party's failure to raise an objection in a Section 34 petition.
+* **Construction of Contracts:** The judgment analyzes the interpretation of contractual terms by the arbitral tribunal and the scope of judicial interference in such interpretations.
+
+**4. Outcome:**
+* The appeal filed by the State of Chhattisgarh was partly allowed.
+* The impugned arbitral award, insofar as it permitted the deduction of "supervision charges" recovered by the State, was quashed and set aside.
+
+**5. Reliefs or Orders:**
+* The High Court's judgment dated 21st October 2009 was modified to the extent of the deduction of supervision charges.
+* The appellant-State was granted relief on the ground of patent illegality in the arbitral award.
+
+**6. Reasoning:**
+* The court found that the arbitral award suffered from patent illegality by ignoring the express terms of the contract governing the parties, particularly Clause 6(b), which stipulated the inclusion of supervision charges in the expenses incurred by the State.
+* The court also considered the Circular dated 27th July 1987 issued by the Government of Madhya Pradesh, which provided for the imposition of 10% supervision charges, and found that this further reinforced the contractual obligation to recover supervision charges.
+* The court rejected the respondent-company's argument that the appellant-State waived its right to raise the objection concerning supervision charges by failing to do so in the Section 34 petition. The court held that the "patent illegality" ground under Section 34(2A) of the 1996 Act empowers the court to set aside an award based on such illegality, even if the party did not specifically raise the issue in the Section 34 petition.
+
+**7. Statutory Interpretation:**
+* The court emphasized the importance of construing the terms of a contract, including the provision for supervision charges, in a manner that is consistent with the intention of the parties and the purpose of the agreement.
+* The court applied Section 34(2A) of the 1996 Act to find that the "patent illegality" ground allows the court to interfere with the arbitral award if it finds such illegality on the face of the award.
+
+**8. Precedents Cited:**
+* Associate Builders v. Delhi Development Authority (2015) 3 SCC 49: The court relied on this case to define the concept of "patent illegality" as a ground for setting aside an arbitral award.
+* Ssangyong Engineering and Construction Company Limited v. National Highways Authority of India (NHAI) [2019] 15 SCC 131: The court referred to this case to highlight the limited scope of judicial interference in reviewing arbitral awards under the 1996 Act.
+* Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation Ltd. [2021] SCC Online SC 695: This case further clarified the principles of "patent illegality" and the permissible grounds for interfering with domestic awards.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The appellant's argument that the arbitral award suffered from patent illegality by ignoring the express terms of the contract regarding supervision charges was accepted.
+* The respondent's argument that the appellant-State waived its right to raise the objection concerning supervision charges was rejected.
+
+**Note:** This judgment highlights the importance of adhering to the express terms of a contract and the limited scope of judicial interference in arbitral awards.  The court's decision to intervene based on "patent illegality" underscores the court's role in ensuring the fairness and legitimacy of arbitral proceedings. 

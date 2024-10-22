@@ -1,0 +1,62 @@
+## Summary of the Judgement in The State of Jammu And Kashmir & Ors. v. Shaheena Masarat & Anr. 
+
+This case involved a dispute over the appointment of a Rehbar-e-Taleem (Re-T) teacher under the Re-T scheme, a program designed to address the shortage of teachers in elementary schools in Jammu and Kashmir. The dispute arose when two candidates, Shaheena Masarat (Respondent No. 1) and the incumbent teacher (Respondent No. 2), both claimed eligibility for the position.
+
+**1. Constitutional References:**
+* **Article 14:** Guarantees the right to equality and prohibits arbitrariness.
+* **Article 16:** Enshrines the right to equality of opportunity in matters of public employment.
+* **Article 226:** Enables the High Court to issue writs for the enforcement of fundamental rights. 
+* **Constitution of Jammu and Kashmir, Section 103:** Provides for the High Court's jurisdiction to review administrative decisions.
+
+**2. Key Legal Questions:**
+* Was the High Court justified in directing the appointment of both candidates, when only one position was available?
+* Was Respondent No. 2 eligible for the position, given her age exceeded the advertised limit?
+* Was the interpretation of the "as far as possible" clause in the scheme as directory correct?
+* Was the relaxation of the age limit under SRO 30 of 2003 applicable to the selection process?
+
+**3. Legal Doctrines:**
+* **Eligibility Criteria for Public Employment:** The court considered the principles governing eligibility criteria for public employment, emphasizing the need for clear and uniform standards to ensure fairness and prevent arbitrariness.
+* **Statutory Interpretation:** The court analyzed the scheme's provisions, particularly the "as far as possible" clause, determining whether it should be interpreted as mandatory or directory.
+* **Constitutional Validity of Administrative Actions:** The court examined the constitutionality of the Re-T scheme and the actions of the authorities in light of Articles 14 and 16.
+
+**4. Outcome:**
+* The appeal filed by the State of Jammu and Kashmir was partially allowed.
+* The High Court order directing the appointment of both candidates was set aside.
+* The High Court order directing the appointment of Respondent No. 1 was upheld.
+* The High Court order directing the continuance of Respondent No. 2 was set aside.
+
+**5. Reliefs or Orders:**
+* Respondent No. 1 was appointed as Re-T teacher, as directed by the High Court.
+* Respondent No. 2 was not appointed, as her age exceeded the eligibility criteria.
+* The State of Jammu and Kashmir was instructed to accommodate Respondent No. 2 in another suitable vacancy.
+
+**6. Reasoning:**
+* The court held that the High Court erred in directing the appointment of both candidates for a single position.
+* The court agreed with the High Court that Respondent No. 2 was not eligible for appointment, as her age exceeded the stipulated upper age limit of 35 years as on 01.01.2002.  The court held that SRO 30 of 2003, which relaxed the age limit, was not applicable to this selection process.
+* The court found the High Court's interpretation of the "as far as possible" clause in the scheme as directory was incorrect. The court emphasized that interpreting this provision as directory could lead to arbitrary selections and violate Articles 14 and 16 of the Constitution.
+* The court acknowledged the precedent set by the case of Iridium Indian Tele-Communication V. Motorola In-Charge but deemed it not applicable to the specific facts of the present case.
+
+**7. Statutory Interpretation:**
+* The court interpreted the Re-T scheme, including the eligibility criteria, noting that the scheme allowed the government to relax the age limit for the regularization of Re-T teachers.
+
+**8. Precedents Cited:**
+* **Iridium Indian Tele-Communication V. Motorola In-Charge (2005):** This case addressed the interpretation of "as far as possible" clauses.
+* **Manickchand Durgaprasad V. Pratabmull Rameswar (1961):** This case provided guidance on the interpretation of "as far as possible" clauses in the context of administrative rules.
+* **Lucknow Development Authority v. M.K. Gupta (1994):** This case established the principle that statutory authorities can be considered service providers under the Consumer Protection Act.
+* **Ghaziabad Development Authority v. Balbir Singh (2004):** This case expanded the application of the Consumer Protection Act to statutory authorities, including construction activities.
+* **Chandigarh Housing Board v. Avtar Singh and Ors (2010):** This case highlighted the concept of compensation for undue delay caused by government authorities.
+* **UT Chandigarh Administration and Another v. Amarjeet Singh and Others (2009):** This case addressed the application of the Consumer Protection Act to public auctions.
+* **Bachhittar Singh v. State of Punjab (1963):** This case established the need for communication of administrative orders to the affected party.
+* **Chandigarh Administration v. Jagjit Singh (1995):** This case provided guidance on the legal implications of actions taken in contravention of a previous order.
+* **Amritpal Singh v. Chandigarh Administration (2012):** This case challenged the requirement of a no-objection certificate for sale of freehold properties.
+* **Dheera Singh v. U.T. Chandigarh Admn. and Ors. (2012):** This case highlighted the need for the Chandigarh Administration to update the 1952 Act to address contemporary challenges.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The court accepted the appellant's argument that Respondent No. 2 was ineligible for appointment due to her age exceeding the limit.
+* The court accepted the appellant's argument that the relaxation of the age limit under SRO 30 of 2003 was not applicable to this specific selection process.
+* The court rejected the respondent's arguments that the "as far as possible" clause was directory and that the relaxation of the age limit under SRO 30 of 2003 was applicable.
+
+**Conclusion:**
+
+This judgement emphasizes the importance of upholding a transparent and fair selection process for public employment, upholding the principles of equality and non-arbitrariness enshrined in the Constitution. The court's decision underscores that while government authorities may have discretion in administering schemes, such discretion must be exercised within the bounds of established rules and regulations, with proper consideration for the rights of all parties involved.
+

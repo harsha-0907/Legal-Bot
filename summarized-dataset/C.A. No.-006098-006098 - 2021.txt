@@ -1,0 +1,49 @@
+## Summary of the Judgment in Mohd. Raza & Anr. v. Geeta @ Geeta Devi 
+
+**1. Constitutional References:**
+
+* **None explicitly stated.** However, the court's decision to consider the potential impact of the outcome of another lawsuit implicitly refers to the principle of judicial comity and the need for consistent rulings in related cases.
+
+**2. Key Legal Questions:**
+
+* **Decree on Admission:** Whether the High Court correctly allowed the plaintiff's (Geeta @ Geeta Devi) application for a decree on admission under Order XII Rule 6 of the Code of Civil Procedure (CPC). 
+* **Interpretation of Written Statement:** Whether the defendants' (Mohd. Raza & Anr.) written statement contained clear admissions that the plaintiff was the owner of the property and that defendant No. 1 was the tenant. 
+* **Ownership and Tenancy:** Whether the plaintiff's claim to ownership of the property and the defendants' admission that defendant No. 1 was the tenant were sufficient grounds for a decree on admission.
+
+**3. Legal Doctrines:**
+
+* **Code of Civil Procedure (CPC):** The court analyzed the provisions of the CPC, particularly Order XII Rule 6, which deals with decrees on admission. 
+* **Principles of Admission:** The court considered the legal principles governing admissions in legal proceedings, including the requirement for clear and unambiguous admissions to support a decree on admission.
+
+**4. Outcome:**
+
+* The Supreme Court dismissed the appeal filed by the defendants (Mohd. Raza & Anr.).
+* The High Court’s judgment allowing the plaintiff’s application for a decree on admission and passing a decree of eviction was upheld.
+
+**5. Reliefs or Orders:**
+
+* None specifically stated. The High Court’s order granting the plaintiff a decree on admission and a decree of eviction stands affirmed.
+
+**6. Reasoning:**
+
+* **Decree on Admission:** The Supreme Court held that the High Court was justified in allowing the plaintiff’s application for a decree on admission. The court found that the defendants’ written statement, particularly the claims of defendant No. 2, constituted a clear admission of the plaintiff’s ownership and defendant No. 1’s status as tenant.  The court noted that even though defendant No. 2 also claimed ownership, her claim was based on an agreement to sell, which did not confer ownership. 
+* **Pending Suit for Specific Performance:** The court acknowledged that defendant No. 2 had filed a separate suit for specific performance of the contract to sell, which was still pending.  The court clarified that the decree passed by the High Court would be subject to the outcome of defendant No. 2’s suit for specific performance. 
+
+**7. Statutory Interpretation:**
+
+* The court interpreted Order XII Rule 6 of the CPC, emphasizing the requirement of a clear and unambiguous admission to support a decree on admission. The court found that the defendants’ written statements, particularly those of defendant No. 2, contained such admissions.
+
+**8. Precedents Cited:**
+
+* **Himani Alloys Ltd. v. Tata Steel Ltd. (2011) 15 SCC 273:** This case was cited to support the principle that a decree on admission can be passed only if the party's written statement contains a clear and unambiguous admission.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* **Accepted Arguments:** The respondent’s arguments that the defendants' written statement contained clear admissions, that the plaintiff’s ownership claim was valid, and that the High Court's decree on admission was justified were accepted.
+* **Rejected Arguments:** The appellants’ arguments that there were no clear admissions in the written statement and that the plaintiff was not entitled to a decree on admission were rejected.
+
+**Conclusion:**
+
+This judgment reinforces the importance of careful drafting of written statements and the potential impact of admissions in civil suits. The court's decision to uphold the High Court's order highlights the significance of clear and unambiguous statements in legal proceedings.  The judgment also emphasizes that the outcome of one lawsuit can be subject to the outcome of a related pending case, underscoring the interconnectedness of legal issues and the importance of judicial efficiency. 
+
+

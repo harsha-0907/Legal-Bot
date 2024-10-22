@@ -1,0 +1,51 @@
+## Summary of the Supreme Court Judgment in Vinod Prasad Raturi & Ors. v. Union of India & Ors. 
+
+**1. Constitutional References:**
+
+- **Article 136:** Grants the Supreme Court the power to grant special leave to appeal. 
+
+**2. Key Legal Questions:**
+
+- Whether the High Court erred in directing the respondents to conduct a review Departmental Promotion Committee (DPC) without hearing the appellants and without considering the potential impact on the seniority of other officers.
+
+**3. Legal Doctrines:**
+
+- **Procedural Fairness:** The court emphasizes the importance of hearing all affected parties before passing an order.
+- **Seniority and Promotion:** The court considers the principles of seniority and promotion in the context of government service.
+- **Res Judicata:** The court implicitly applies the doctrine of res judicata by stating that settled matters, particularly those concerning seniority of others, should not be disturbed.
+
+**4. Outcome:**
+
+- The appeal was allowed. The Supreme Court set aside the judgment of the High Court. 
+
+**5. Reliefs or Orders:**
+
+- The Supreme Court set aside the order of the High Court directing the respondents to conduct a review DPC. 
+
+**6. Reasoning:**
+
+- The court found that the High Court had erred in directing a review DPC without providing the appellants, who were potentially affected by the decision, an opportunity to be heard.
+- The court reasoned that the respondent, who had chosen to continue working in Uttar Pradesh despite being allocated to Uttarakhand, could not now seek to disturb the settled matters of the appellants' seniority, which had been determined during the period he was serving in Uttar Pradesh. 
+- The court noted that the respondent had not protested the appellants' promotion to the IAS cadre while he was still in Uttar Pradesh and had even attempted to be retained in that state.
+- The court emphasized that the respondent's request for a review DPC could potentially disrupt the seniority of other officers and should not be granted without proper consideration for their interests.
+
+**7. Statutory Interpretation:**
+
+- The judgment primarily concerns the interpretation of the Uttar Pradesh Reorganization Act, 2000, and the guidelines issued by the Central Government for allocating employees to the newly formed states of Uttarakhand and Uttar Pradesh. 
+- The court did not interpret any specific provisions of the Act or guidelines but considered the broader context of the employee allocation process and the principles of seniority and promotion.
+
+**8. Precedents Cited:**
+
+- No specific precedents are cited in the judgment.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+- The court accepted the appellants' argument that the High Court erred in not providing them an opportunity to be heard before ordering a review DPC. 
+- The court accepted the appellants' argument that the respondent's claim to disturb the settled matters of their seniority was not justified.
+- The court rejected the respondent's argument that the High Court's order was innocuous and should not be interfered with.
+- The court implicitly rejected the respondent's claim for seniority based on his earlier allocation to Uttarakhand, as he had not pursued this claim when his juniors were promoted. 
+
+**Overall:**
+
+The judgment highlights the need for procedural fairness in administrative decisions and the importance of considering the potential impact on all affected parties before passing any order. The court emphasized that settled matters, particularly those relating to the seniority of others, should not be disturbed without compelling reasons and a fair hearing for all involved. 
+

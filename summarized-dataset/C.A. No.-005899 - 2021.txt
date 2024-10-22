@@ -1,0 +1,54 @@
+## Summary of the Judgment in M/s Jai Balaji Industries v. D.K. Mohanty & Anr.
+
+**1. Constitutional References:**
+
+* Article 141 of the Constitution of India (regarding the binding nature of Supreme Court judgments).
+
+**2. Key Legal Questions:**
+
+* Whether the existence of a pre-existing dispute regarding an operational debt, as required under Section 8(2)(a) of the Insolvency and Bankruptcy Code, 2016 (IBC), should be determined as of the date of the demand notice or at the time of filing an application for initiation of the Corporate Insolvency Resolution Process (CIRP).
+* Whether the doctrine of relation back applies to the restoration of appeals under Section 37 of the Arbitration and Conciliation Act, 1996, in the context of determining the existence of a pre-existing dispute under the IBC.
+
+**3. Legal Doctrines:**
+
+* Statutory interpretation of the IBC, particularly Sections 5(6), 8(2)(a), and 9.
+* Interpretation of the Arbitration and Conciliation Act, 1996, particularly Section 37 regarding appeals.
+* Doctrine of relation back.
+* Principles of vested rights and limitation.
+
+**4. Outcome:**
+
+* The Supreme Court dismissed the appeals filed by the appellant (operational creditor) seeking to challenge the order of the National Company Law Appellate Tribunal (NCLAT) setting aside the order of the National Company Law Tribunal (NCLT) initiating CIRP against the respondent company.
+
+**5. Reliefs or Orders:**
+
+* Dismissal of the appeals.
+* No reliefs granted to the appellant.
+
+**6. Reasoning:**
+
+* The Court held that a pre-existing dispute regarding an operational debt must exist prior to the issuance of the demand notice, as per the interpretation of Section 8(2)(a) of the IBC in Mobilox Innovations (supra).
+* The Court emphasized that the doctrine of relation back applies to the restoration of appeals, meaning the restored appeal is deemed to have been filed on the original date.
+* The Court concluded that the respondent company's pending appeal for restoration, filed before the demand notice was issued, constituted a pre-existing dispute, rendering the operational debt disputed.
+* The Court highlighted that the IBC is not a debt recovery mechanism and should not be used to circumvent existing dispute resolution processes.
+* The Court rejected the appellant's argument that the restoration of the appeal was a "post-facto event" and did not affect the determination of the pre-existing dispute.
+
+**7. Statutory Interpretation:**
+
+* The Court interpreted Section 8(2)(a) of the IBC, stating that the existence of a dispute must be established at the time of the demand notice.
+* It interpreted Section 9(5)(ii)(d) of the IBC, emphasizing the need to reject applications for CIRP if a notice of dispute has been received or there is a record of dispute.
+
+**8. Precedents Cited:**
+
+* Mobilox Innovations Pvt. Ltd. v. Kirusa Software Pvt. Ltd. (2018) 1 SCC 353
+* K. Kishan v. Vijay Nirman Company Pvt. Ltd. (2018) 17 SCC 662
+* Vareed Jacob v. Sosamma Geevarghese & Ors. (2004) 6 SCC 378
+* Addagada Raghavamma & Anr. v. Addagada Chenchamma & Anr. (AIR 1964 SC 136)
+* Swiss Ribbons Private Limited & Anr. v. Union of India & Ors. (2019) 4 SCC 17
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellant argued that the restoration of the appeal was a post-facto event and the pre-existing dispute should be determined at the time of filing the CIRP application. This argument was rejected.
+* The appellant relied on the minority view in Vareed Jacob (supra) to argue against the application of the doctrine of relation back in this case. This argument was rejected.
+* The respondent argued that the restoration of the appeal constituted a pre-existing dispute, negating the existence of an undisputed debt. This argument was accepted by the Court.
+

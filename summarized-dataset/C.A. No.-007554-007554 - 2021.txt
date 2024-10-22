@@ -1,0 +1,38 @@
+## Summary of the Supreme Court Judgment in Mahesh Kumar Agarwal (Dead) By LRS v. Naresh Chandra & Ors.
+
+**1. Constitutional References:** The judgment doesn't explicitly refer to any specific articles of the Indian Constitution. However, the case involves the interpretation of the U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972 (Act), which is enacted under the authority of the Indian Constitution.
+
+**2. Key Legal Questions:**
+- Whether the appellant-landlord had complied with the six-month notice requirement under the proviso to Section 21(1)(a) of the Act before filing the eviction application.
+- Whether the tenant waived his right to object to the defective notice by not raising the issue in earlier proceedings.
+
+**3. Legal Doctrines:**
+- **Waiver of Rights:** The court examines the principle of waiver and whether a party can waive statutory protections designed for their benefit.
+- **Interpretation of Statutory Provisions:** The court interprets the specific provisions of Section 21 of the Act, particularly the first and second provisos.
+- **Procedural Fairness:** The court considers the importance of procedural fairness in legal proceedings.
+
+**4. Outcome:** The appeal was allowed. The Supreme Court set aside the High Court's order and restored the eviction order passed by the Rent Controller and affirmed by the appellate authority.
+
+**5. Reliefs or Orders:**
+- The impugned order of the High Court was set aside.
+- The eviction order passed by the Rent Controller was restored with a modification that the appellants will pay Rs. 30,000/- to the respondents as compensation.
+- The appellants were ordered to deposit the compensation amount with the appropriate court within one month.
+
+**6. Reasoning:**
+- The court found that the eviction application was filed after the expiry of the six-month period specified in the proviso to Section 21(1)(a), but it considered the view taken by the court in an unreported judgment on the same provision to be possibly erroneous.
+- The court accepted the appellant's argument that the tenant had waived his right to object to the defective notice by not raising the issue in his reply notice, written statement, or appeal. 
+- The court acknowledged that a mandatory compensation provision exists in the second proviso of Section 21 for buildings let out for non-residential purposes and ordered the appellants to pay Rs. 30,000/- as compensation to the respondents.
+
+**7. Statutory Interpretation:**
+- The court interpreted the provisions of Section 21 of the Act, particularly the first and second provisos, to determine the requirements for eviction proceedings and the mandatory compensation provision.
+
+**8. Precedents Cited:**
+- Martin & Harris Ltd. v. VIth Additional Distt. Judge (1998) 1 SCC 732
+- Gopal Krishan Verma v. Tahir (Civil Appeal No. 7896-7897 of 2015)
+- Nirbhai Kumar v. Maya Devi & Ors. (2009) 5 SCC 399
+
+**9. Legal Arguments Accepted/Rejected:**
+- The court accepted the appellant's argument that the tenant had waived his right to object to the defective notice.
+- The court rejected the High Court's finding that the appellant had not complied with the six-month notice requirement, but refrained from directly overruling the unreported judgment on the same issue based on judicial discipline. 
+
+

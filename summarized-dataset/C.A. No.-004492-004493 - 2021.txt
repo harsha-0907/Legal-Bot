@@ -1,0 +1,117 @@
+## Judgment Summary: Amazon.com NV Investment Holdings LLC v. Future Retail Limited & Ors. 
+
+**1. Constitutional References:**
+
+* None explicitly cited. However, the judgment implicitly touches upon Article 14 (Right to Equality) when discussing the need for a level playing field and fair treatment for parties in legal disputes.
+
+**2. Key Legal Questions:**
+
+* Can an "award" delivered by an Emergency Arbitrator under the Singapore International Arbitration Centre (SIAC) Rules be considered an "order" under Section 17(1) of the Arbitration and Conciliation Act, 1996 (Arbitration Act)? 
+* Is an order passed under Section 17(2) of the Arbitration Act, enforcing an Emergency Arbitrator's award, appealable?
+
+**3. Legal Doctrines:**
+
+* **Statutory Interpretation:** The court focused on interpreting the meaning and application of Sections 2, 9, 17, and 37 of the Arbitration Act, specifically examining the definitions of "arbitration," "arbitral award," and "arbitral tribunal" in relation to Emergency Arbitrator awards.
+* **Party Autonomy:** The court emphasized the principle of party autonomy in arbitration, allowing parties to agree to institutional rules, including those providing for Emergency Arbitrator appointments. 
+* **Legal Fiction:** The court analyzed the concept of legal fiction as used in Section 17(2), acknowledging its limited purpose for enforcement and cautioning against extending it to encompass appeals.
+
+**4. Outcome:**
+
+* The appeals were dismissed.
+* The impugned judgments of the Division Bench of the Delhi High Court, dated 8th February, 2021 and 22nd March, 2021 were set aside.
+* The interim orders of the Supreme Court were vacated.
+
+**5. Reliefs or Orders:**
+
+* The Supreme Court revoked the High Court's stay orders on the Single Judge's judgment.
+* The Supreme Court vacated its own interim orders. 
+
+**6. Reasoning:**
+
+* The court found that an Emergency Arbitrator's "award," under the SIAC Rules, is an order under Section 17(1) of the Arbitration Act.  The court argued that the definition of "arbitral proceedings" in the Act is broad enough to encompass emergency arbitration proceedings, which commence after a notice of arbitration is received by the SIAC Registrar.
+* The court determined that enforcement orders under Section 17(2) are not appealable under the Arbitration Act, but rather fall under the provisions of the Code of Civil Procedure, making appeals possible under Order XLIII, Rule 1(r) of the Code. 
+* The court emphasized that the principle of party autonomy in arbitration allows parties to agree to institutional rules, including those providing for Emergency Arbitrators. This means that the Arbitration Act, when read with the institutional rules, covers Emergency Arbitrator orders.
+* The court rejected arguments that the Emergency Arbitrator is not an independent judicial body or that the Arbitration Act operates as an ouster of the civil court's jurisdiction, arguing that the Act is intended to promote arbitration as a means of resolving disputes and does not exclude Emergency Arbitrator appointments.
+* The court also rejected the argument that the use of "as if" in Section 17(2) creates a legal fiction that encompasses appeals, arguing that the fiction is meant for enforcement only. 
+
+**7. Statutory Interpretation:**
+
+* The court interpreted the definition of "arbitration" in Section 2(1)(a) of the Arbitration Act to cover any arbitration, including those administered by permanent arbitral institutions.
+* The court interpreted "arbitral proceedings" in Section 17(1) to encompass proceedings before an Emergency Arbitrator, as long as the parties agree to the institutional rules governing such proceedings.
+* The court interpreted Section 37 of the Arbitration Act as a complete code for appeals related to arbitration, excluding appeals from enforcement orders made under Section 17(2).
+
+**8. Precedents Cited:**
+
+* *Antrix Corporation Ltd. v. Devas Multimedia Pvt. Ltd.* (2014) 11 SCC 560
+* *Bharat Aluminium Co. v. Kaiser Aluminium Technical Services Inc.* (2016) 4 SCC 126
+* *Sumitomo Heavy Industries Ltd. v. ONGC Ltd.* (1998) 1 SCC 305
+* *Reliance Industries Ltd. v. Union of India* (2014) 7 SCC 603
+* *Centrotrade Minerals & Metal Inc. v. Hindustan Copper Ltd.* (2017) 2 SCC 228
+* *PASL Wind Solutions Pvt. Ltd. v. GE Power Conversion India Pvt. Ltd.* (2021) SCC OnLine SC 331
+* *National Highways Authority of India v. M. Hakeem* (2021) SCC OnLine SC 473
+* *Firm Ashok Traders v. Gurumukh Das Saluja* (2004) 3 SCC 155
+* *Krishnadevi Malchand Kamathia v. Bombay Environmental Action Group* (2011) 3 SCC 363
+* *Anita International v. Tungabadra Sugar Works Mazdoor Sangh* (2016) 9 SCC 44
+* *Tayabbhai M. Bagasarwalla v. Hind Rubber Industries (P) Ltd.* (1997) 3 SCC 443
+* *Bandekar Brothers Pvt. Ltd. v. Prasad Vassudev Keni* (2020) SCC OnLine SC 707
+* *State Wakf Board, Madras v. Abdul Azeez Sahib* (AIR 1968 Mad. 79)
+* *Mansukhlal Dhanraj Jain v. Eknath Vithal Ogale* (1995) 2 SCC 665
+* *Thyssen Stahlunion Gmbh v. Steel Authority of India Ltd.* (1999) 9 SCC 334
+* *BCCI v. Kochi Cricket (P) Ltd.* (2018) 6 SCC 287
+* *State of Uttarakhand & Ors. v. Kumaon Stone Crusher* (2018) 14 SCC 537
+* *Prahlad Pradhan & Ors. v. Sonu Kumhar & Ors.* (2019) 10 SCC 259
+* *Shri Balaganesan Metals v. M.N. Shanmugham Chetty* (1987) 2 SCC 707
+* *Lucknow Development Authority v. M.K. Gupta* (1994) 1 SCC 243
+* *Union of India v. A.B. Shah* (1996) 8 SCC 540
+* *Food Corporation of India v. Sukh Deo Prasad* (2009) 5 SCC 665
+* *U.C. Surendranath v. Mambally’s Bakery* (2019) 20 SCC 666
+* *Kiran Singh v. Chaman Paswan* (1955) 1 SCR 117
+* *CIT v. Pearl Mechanical Engineering & Foundry Works (P) Ltd.* (2004) 4 SCC 597
+* *Adhunik Steels Ltd. v. Orissa Manganese and Minerals (P) Ltd.* (2007) 7 SCC 125
+* *Avitel Post Studioz Ltd. & Ors. v. HSBC PI Holdings (Mauritius) Ltd.* (2021) 4 SCC 713
+* *President of India v. La Pintada Compania Navigacion SA* (1985 AC 104)
+* *British Railways Board v. Herrington* (1972 AC 877)
+* *Raffles Design International India Pvt. Ltd. v. Educomp Professional Education Ltd.* (2016) SCC OnLine Del 5521
+* *Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd.* (2009) SCC OnLine Del 511
+* *Sundaram Finance Ltd. v. Abdul Samad* (2018) 3 SCC 622
+* *Gemini Bay Transcription Pvt. Ltd. v. Integrated Sales Service Ltd.* (2018) SCC OnLine Bom 216
+* *Jet Airways (India) Ltd. v. Subrata Roy Sahara* (2011) SCC OnLine Bom 1379
+* *Kakade Construction Co. Ltd. v. Vistra ITCL* (2019) SCC OnLine Bom 1521
+* *Global Asia Venture Co. v. Arup Parimal Deb* (2018) SCC OnLine Bom 13061
+* *Punjab State Civil Supplies Corporation Ltd. v. Atwal Rice & General Mills* (2017) 8 SCC 116
+* *Kandla Export Corporation v. OCI Corporation* (2018) 14 SCC 715
+* *Fuerst Day Lawson Ltd. v. Jindal Exports Ltd.* (2011) 8 SCC 333
+* *Deep Industries Ltd. v. ONGC* (2020) 15 SCC 706
+* *Union of India v. Varindera Constructions Ltd.* (2020) 2 SCC 111
+* *BGS SGS SOMA JV v. NHPC* (2020) 4 SCC 234
+* *NHPC Ltd. v. Jaiparkash Associates Ltd.* (2018) SCC OnLine P&H 1304
+* *Shivnath Rai Harnarain (India) Co. v. Glencore Grain Rotterdam* (2009) SCC OnLine Del 3564
+* *Usha Drager (P) Ltd. v. Dragerwerk AG* (2009) SCC OnLine Del 2975
+* *Sumitomo Corpn. v. CDC Financial Services (Mauritius) Ltd.* (2008) 4 SCC 91
+* *Conros Steels (P) Ltd. v. Lu Qin (Hong Kong) Co. Ltd.* (2014) SCC OnLine Bom 2305
+* *Paramjeet Singh Patheja v. ICDS Ltd.* (2006) 13 SCC 322
+* *Rajasthan State Industrial Development & Investment Corporation v. Diamond & Gem Development Corporation Ltd.* (2013) 5 SCC 470
+* *East End Dwellings Co. Ltd. v. Finsbury Borough Council* (1952 AC 109)
+* *Industrial Supplies (P) Ltd. v. Union of India* (1980) 4 SCC 341
+* *Union of India v. Vedanta Ltd.* (2020) 10 SCC 1
+* *Umesh Goel v. H.P. Coop. Group Housing Society Ltd.* (2016) 11 SCC 313
+* *Sundaram Finance Ltd. v. Abdul Samad* (2018) 3 SCC 622
+* *Kerala SEB v. T.P. Kunhaliumma* (1976) 4 SCC 634
+* *Fuerst Day Lawson Ltd. v. Jindal Exports Ltd.* (2011) 8 SCC 333
+* *Kandla Export Corpn. v. OCI Corpn.* (2018) 14 SCC 715
+* *Sumitomo Corpn. v. CDC Financial Services (Mauritius) Ltd.* (2008) 4 SCC 91
+* *Conros Steels (P) Ltd. v. Lu Qin (Hong Kong) Co. Ltd.* (2014) SCC OnLine Bom 2305
+* *Alka Chandewar v. Shamshul Ishrar Khan* (2017) 16 SCC 119
+* *Sri Krishan v. Anand* (2009) SCC OnLine Del 2472
+* *Indiabulls Financial Services Ltd. v. Jubilee Plots & Housing (P) Ltd.* (2009) SCC OnLine Del 2458
+* *Chintels (India) Ltd. v. Bhayana Builders (P) Ltd.* (2021) 4 SCC 602
+* *State of H.P. v. Himachal Techno Engineers* (2010) 12 SCC 210
+* *In Re Franklin and Swathling’s Arbitration* (1929) 1 Ch. 238
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The court accepted Amazon's argument that an Emergency Arbitrator's award falls within the scope of Section 17(1) of the Arbitration Act when parties agree to institutional rules like the SIAC Rules.
+* The court accepted Amazon's argument that enforcement orders under Section 17(2) are not appealable under the Arbitration Act and are instead governed by the Code of Civil Procedure. 
+* The court rejected FRL's arguments that Emergency Arbitrator awards are outside the Arbitration Act, that the Arbitration Act functions as an ouster of the civil court's jurisdiction, and that the legal fiction in Section 17(2) should be extended to cover appeals. 
+* The court rejected the argument that the SIAC Rules exclude Emergency Arbitrators, finding that the Rules expressly cover such awards.
+* The court rejected the argument that the parties' agreement makes the SIAC Rules subject to the Arbitration Act in a way that would exclude Emergency Arbitrators. 

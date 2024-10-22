@@ -1,0 +1,45 @@
+## Summary of the Supreme Court Judgment in State of U.P. & Anr. v. Shyam Lal Jaiswal
+
+**1. Constitutional References:**
+
+- The judgment does not explicitly cite any specific articles from the Constitution of India. However, the case involves the interpretation of the Uttar Pradesh Transport (Subordinate) Prosecution Service Rules, 1979, enacted under the authority of the Indian Constitution.
+
+**2. Key Legal Questions:**
+
+- Whether the respondent, Shyam Lal Jaiswal, was entitled to promotion as Assistant Public Prosecutor based on his seniority, despite the fact that the post was filled through a competitive examination.
+
+**3. Legal Doctrines:**
+
+- **Statutory Interpretation:** The court examines the provisions of the Uttar Pradesh Transport (Subordinate) Prosecution Service Rules, 1979, to determine the manner of recruitment for the post of Assistant Public Prosecutor.
+- **Procedural Fairness:** The court implicitly acknowledges the principle of procedural fairness by observing that the Tribunal and High Court failed to consider the relevant rules regarding the recruitment process.
+
+**4. Outcome:**
+
+- The appeal was allowed. The Supreme Court set aside the orders of the Tribunal and High Court, finding them unsustainable in law.
+
+**5. Reliefs or Orders:**
+
+- The Supreme Court set aside the order of the High Court dated 03.08.2018, confirming the order of the Tribunal dated 12.12.2013.
+
+**6. Reasoning:**
+
+- The court concluded that the respondent's claim for promotion based solely on seniority was not sustainable. 
+- The court emphasized that Rule 5 of the 1979 Rules clearly stipulated that recruitment to the post of Assistant Public Prosecutor would be through a competitive examination followed by a Viva Voce test.
+- The court deemed the Tribunal and High Court's failure to consider this rule to be a significant legal error, making their orders unsustainable.
+
+**7. Statutory Interpretation:**
+
+- The court interpreted Rule 5 of the Uttar Pradesh Transport (Subordinate) Prosecution Service Rules, 1979, to find that the post of Assistant Public Prosecutor was filled through a competitive examination and not solely based on seniority.
+
+**8. Precedents Cited:**
+
+- The judgment does not cite any specific precedents.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+- The court rejected the respondent's argument that his seniority entitled him to promotion as Assistant Public Prosecutor.
+- The court accepted the State's argument that the 1979 Rules required recruitment for the post to be through a competitive examination.
+
+**Overall:**
+
+The Supreme Court's decision underscores the importance of adhering to statutory provisions governing recruitment processes. The court held that the Tribunal and High Court erred in failing to consider the explicit requirements of the relevant rules, making their decisions legally unsustainable. 

@@ -1,0 +1,39 @@
+## Summary of the Supreme Court Judgment in Index Medical College, Hospital and Research Centre v. The State of Madhya Pradesh & Ors.
+
+**1. Constitutional References:** 
+- **Article 14:** Right to equality.
+- **Article 19(1)(g):** Right to practice any profession or carry on any occupation, trade or business.
+
+**2. Key Legal Questions:** 
+- Whether Rule 12(8)(a) of the Madhya Pradesh Chikitsa Shiksha Pravesh Niyam, 2018, which prevents private medical colleges from filling vacant seats arising from non-joining or resignation of students in the mop-up round, violates Articles 14 and 19(1)(g) of the Constitution.
+- Whether the rule passes the test of proportionality, balancing the state's objective of preventing manipulation in admissions with the private colleges' right to manage their institutions.
+
+**3. Legal Doctrines:**
+- **Right to equality (Article 14):** Whether the classification of seats is based on intelligible differentia and has a rational nexus with the object of the rule.
+- **Right to practice profession (Article 19(1)(g):** Whether the rule imposes an unreasonable restriction on the colleges' right to manage their institutions, including admitting students.
+- **Proportionality:** Balancing the state's interest in preventing malpractice with the individual's rights.
+
+**4. Outcome:** The appeals were allowed. The Supreme Court declared Rule 12(8)(a) as violative of Articles 14 and 19(1)(g) of the Constitution of India.
+
+**5. Reliefs or Orders:** 
+- The judgment of the High Court was set aside.
+- The State of Madhya Pradesh was directed to initiate the process of filling up the 7 unfilled seats of the 1st year MBBS course in the mop-up round for the year 2020-21 by college-level counseling within 7 days.
+
+**6. Reasoning:** 
+- The court acknowledged the state's objective of ensuring merit-based admissions and preventing manipulation. However, it found the rule's restriction on private colleges to fill vacant seats to be an excessive and unreasonable measure.
+- The court applied the principle of proportionality, finding that the rule lacked a rational connection between the objective and the means adopted. The measure was deemed disproportionate, causing a significant financial burden on the colleges and wasting resources.
+
+**7. Statutory Interpretation:** The court interpreted Rule 12(8)(a) in conjunction with other provisions of the Madhya Pradesh Chikitsa Shiksha Pravesh Niyam, 2018, finding that the rule disproportionately penalized the colleges without addressing the core issue of malpractice effectively.
+
+**8. Precedents Cited:** 
+- T.M.A. Pai Foundation & Ors. v. State of Karnataka & Ors. (2002) 8 SCC 481
+- Dar-us-Slam Educational Trust & Ors. v. Medical Council of India and Ors. (2017) 8 SCC 627
+- State of T.N. & Anr. v. P. Krishnamurthy & Ors. (2006) 4 SCC 517
+- Kerala State Beverages (M&M) Corpn. Ltd. v. P.P. Suresh (2019) 9 SCC 710
+- Om Kumar and Ors. v. Union of India (2001) 2 SCC 386
+- Modern Dental College and Research Centre & Others v. State of Madhya Pradesh (2016) 7 SCC 353
+- M.R.F. Ltd. v. Inspector Kerala Govt. (1998) 8 SCC 227
+
+**9. Legal Arguments Accepted/Rejected:** 
+- The court accepted the argument that the rule violated the private colleges' right to practice their profession under Article 19(1)(g) by imposing an unreasonable restriction on their right to manage their institutions.
+- The court rejected the state's argument that the rule was necessary to prevent manipulation in admissions, finding the measure disproportionate and lacking a direct nexus with the objective. 

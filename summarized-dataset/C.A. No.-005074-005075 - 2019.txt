@@ -1,0 +1,47 @@
+## Summary of the Judgment in Maharashtra State Electricity Distribution Co. Ltd. v. JSW Steel Limited & Ors.
+
+**1. Constitutional References:**
+* **None:** The case primarily focuses on the interpretation of provisions in the Electricity Act, 2003.
+
+**2. Key Legal Questions:**
+* Are captive consumers, who generate electricity for their own use under Section 9 of the Electricity Act, 2003,  liable to pay an additional surcharge under Section 42(4) of the Act?
+* Does the Electricity Act, 2003, permit a consumer to receive supply of electricity from a source other than the distribution licensee of their area, and if so, under what conditions?
+* Is the imposition of an additional surcharge on captive consumers who receive electricity from a source other than the distribution licensee discriminatory? 
+
+**3. Legal Doctrines:**
+* **Statutory Interpretation:** The court examined the provisions of the Electricity Act, 2003, particularly Sections 9 and 42, to understand the legislative intent and the scope of the law.
+* **Equality Before the Law:** The court considered the principle of equality before the law, particularly the requirement that similar situations should be treated equally.
+* **Discrimination:** The court analyzed whether the application of the additional surcharge to captive consumers constituted unlawful discrimination.
+
+**4. Outcome:**
+* The appeals filed by the Maharashtra State Electricity Distribution Company Limited (appellant) were dismissed.
+* The Appellate Tribunal for Electricity’s order setting aside the surcharge levy on captive consumers was upheld.
+
+**5. Reliefs or Orders:**
+* None: The appeals were dismissed, and no specific reliefs were granted. However, the court directed the appellant to adjust the already recovered surcharge in future wheeling charges bills. 
+
+**6. Reasoning:**
+* The court held that Section 9 of the Electricity Act, 2003, specifically permits captive generation and distribution of electricity to captive users, without requiring permission from the State Commission. 
+* The court concluded that captive consumers are not liable to pay the additional surcharge under Section 42(4) because the section applies only to consumers who are permitted to receive supply from a source other than the distribution licensee of their area, with the approval of the State Commission. 
+* The court found that captive consumers are not subject to this requirement, as they have a statutory right to captive generation and distribution.
+* The court emphasized that the additional surcharge is meant to compensate the distribution licensee for their fixed costs and expenses. In the case of captive consumers, they are already incurring the expenditure of generating and distributing their own power. 
+* The court reasoned that subjecting captive consumers to the additional surcharge would be discriminatory and would treat similar situations unequally.
+
+**7. Statutory Interpretation:**
+* The court interpreted Section 9 of the Electricity Act, 2003, as providing a clear right for captive generation and distribution of electricity.
+* The court interpreted Section 42(4) of the Act to apply only to consumers who are permitted to receive electricity from a source other than the distribution licensee of their area.
+* The court interpreted Section 2(15) of the Act, which defines "consumer," to distinguish between ordinary consumers and captive consumers. 
+
+**8. Precedents Cited:**
+* **None:**  The judgment does not cite any specific precedents in this case.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The court accepted the respondents’ argument that captive consumers are not liable to pay the additional surcharge.
+* The court accepted the respondents’ argument that the additional surcharge would be discriminatory and unfair.
+* The court rejected the appellant's argument that the additional surcharge should be levied on captive consumers.
+
+**Conclusion:**
+
+This judgment reaffirms the importance of clear and consistent application of statutory provisions in the electricity sector. The court's decision emphasizes the need for the State Commission to ensure fairness and non-discrimination in its regulation of electricity supply. The court’s careful analysis of the statutory provisions and the application of established legal principles ensures a predictable and just approach to addressing disputes in this complex area of law. 
+
+

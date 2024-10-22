@@ -1,0 +1,30 @@
+## Summary of the Supreme Court Judgment in Union of India v. Association of Unified Telecom Service Providers of India and Ors.
+
+**1. Constitutional References:** The judgment does not explicitly cite any specific articles from the Constitution of India. However, the court's emphasis on finality and the prohibition of re-litigation aligns with the principles of judicial finality and the rule of law, both fundamental tenets of the Indian Constitution.
+
+**2. Key Legal Questions:** 
+- Whether the Union of India could rectify clerical or arithmetical errors in the computation of AGR dues after the Supreme Court's judgment on 1st September 2020.
+- Interpretation of paragraph 38(i) of the judgment dated 1st September 2020, specifically regarding the prohibition of re-assessment of AGR dues.
+
+**3. Legal Doctrines:**
+- **Res judicata:** The principle of finality of judgments, preventing re-litigation of decided issues.
+- **Judicial finality:** The court's power to bring an end to disputes and prevent further litigation on the same matter.
+- **Interpretation of statutes:** The court's role in interpreting and applying the law, including the judgment's own pronouncements.
+
+**4. Outcome:** The Miscellaneous Applications filed by the Union of India were dismissed. The court held that the judgment of 1st September 2020 did not allow for any alteration of the AGR dues, even to rectify clerical or arithmetical errors.
+
+**5. Reliefs or Orders:** No relief was granted. The applications were dismissed.
+
+**6. Reasoning:** The court reasoned that the relief sought by the Union of India, in the guise of correction or rectification, would essentially amount to re-calculation of AGR dues, which was prohibited by the earlier judgments. The court highlighted the prolonged litigation surrounding AGR dues and emphasized the need for finality in the matter. Any attempt to re-open the issue would violate the principle of res judicata and undermine the court's earlier pronouncements.
+
+**7. Statutory Interpretation:** The court interpreted paragraph 38(i) of the judgment dated 1st September 2020 as a clear bar on any reassessment or dispute regarding the AGR dues. This interpretation focused on the broader context of the judgment and the court's intention to achieve finality in the dispute.
+
+**8. Precedents Cited:** 
+- The judgment cited its own earlier judgment dated 24th October 2019 in Civil Appeal Nos. 6328-6399 of 2015 with connected matters.
+- The judgment referenced its own order dated 20th July 2020 in M.A. (D) No. 9887 of 2020 in C.A. Nos. 6328-6399 of 2015, emphasizing the rejection of any re-calculation of AGR dues at that time.
+
+**9. Legal Arguments Accepted/Rejected:** The court rejected the Union of India's argument that the judgment allowed for rectification of clerical or arithmetical errors. The court deemed this argument as a veiled attempt to re-calculate AGR dues, which was deemed unacceptable. The court accepted the legal principles of res judicata and judicial finality, emphasizing the need for finality in the dispute. 
+
+
+
+

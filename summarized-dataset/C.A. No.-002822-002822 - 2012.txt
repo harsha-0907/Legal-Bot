@@ -1,0 +1,55 @@
+## Judgment Summary: Bijay Kumar Sharma & Ors. v. Ranchi University & Ors. (Civil Appeal No. 2822 of 2012)
+
+**1. Constitutional References:**
+
+* **Article 142:** The court exercised its power under Article 142 of the Constitution of India, which grants the Supreme Court the power to pass any order deemed necessary to do complete justice in a case.
+
+**2. Key Legal Questions:**
+
+* **Whether the appellants, who were appointed to various posts in a college affiliated with Ranchi University, were entitled to a merger of their pay scales with the pay scales of Upper Division and Lower Division Assistants/Clerks, as per the Government's directive dated 28.07.1981.**
+* **Whether the Principal of the college had the authority to issue a provisional order regarding the appellants' pay scales, subject to the approval of the University.**
+* **Whether the appellants had vested rights to the pay scales granted to them by the Principal, even though the University did not approve the re-designation and pay fixation.**
+
+**3. Legal Doctrines:**
+
+* **Merger of Pay Scales:** This refers to a process of unifying different pay scales for similar categories of employees, aimed at achieving uniformity and parity in pay structures. 
+* **Statutory Interpretation:** The court analyzed the government's directive dated 28.07.1981 to determine the scope and applicability of the merger directive.
+* **Vested Rights:** This refers to a legal right that has been acquired and cannot be taken away without due process.
+* **Jurisdiction:** This refers to the legal power or authority of a court or other body to hear and decide a case.
+
+**4. Outcome:**
+
+* The appeal was dismissed.
+* The High Court's judgment upholding Ranchi University's decision to deny the appellants' merger of pay scales was upheld. 
+
+**5. Reliefs or Orders:**
+
+* The Supreme Court dismissed the appellants' plea for a merger of pay scales.
+* The court clarified that the appellants are not required to repay any amounts received by them under the Principal's order dated 03.08.1990 or under the High Court's order (if any).  
+
+**6. Reasoning:**
+
+* The court found that the government's directive dated 28.07.1981 specifically applied to employees holding posts with two or more pay scales, with the lower scale being merged with the higher scale. 
+* The court noted that the appellants' posts (Typist, Counter Clerk, Routine Clerk, and Store Keeper) did not fall under the category of Lower Division or Upper Division Assistants/Clerks, and therefore the merger directive was not applicable. 
+* The court accepted the University's argument that the Principal of the college did not have the authority to unilaterally re-designate or grant pay scales to employees without the approval of the University. 
+* The court rejected the appellants' claim of vested rights to the pay scales granted to them by the Principal, as these were provisional and subject to the University's approval.
+
+**7. Statutory Interpretation:**
+
+* The court carefully analyzed the relevant provisions of the Bihar State Universities Act, particularly Section 10(6), which deals with the Vice Chancellor's power to make appointments. 
+* The court interpreted the government's directive dated 28.07.1981 as only applying to specific categories of employees holding posts with two or more pay scales, and not to employees holding other category III posts.
+
+**8. Precedents Cited:**
+
+* *Shyam Babu Verma and Ors. v. Union of India and Ors.* (1994) 2 SCC 521
+* *Sahib Ram v. State of Haryana and Ors.* (1995) Supp (1) SCC 18
+* *State of Punjab and Ors. v. Rafiq Masih* (2014) 8 SCC 883
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* **Accepted:** The court accepted the University's arguments that the appellants' posts did not fall under the category for which a merger was mandated, and that the Principal did not have the authority to re-designate or grant pay scales without the University's approval.
+* **Rejected:** The court rejected the appellants' argument that they had vested rights to the pay scales granted to them by the Principal, as these were subject to the University's approval. 
+
+
+**In summary, the court upheld the High Court's decision, finding that the appellants' claim for a merger of pay scales was not justified, as they did not meet the specific requirements outlined in the government's directive. The court acknowledged the importance of a clear and transparent process for determining pay scales, and emphasized that the University has the authority to approve re-designations and pay fixations.** 
+

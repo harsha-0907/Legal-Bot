@@ -1,0 +1,52 @@
+## Summary of the Judgment in Sudhir Kumar v. Vinay Kumar G.B.
+
+**1. Constitutional References:**
+* **None:**  The case primarily deals with the interpretation of the Code of Civil Procedure (CPC) as amended by the Commercial Courts Act, 2015.
+
+**2. Key Legal Questions:**
+* Can a plaintiff in a commercial suit, who has failed to produce certain documents along with the plaint, later seek leave to rely on those documents?
+* What are the requirements for a plaintiff to seek leave to produce additional documents under Order VII Rule 14(3) of the CPC? 
+* Is the plaintiff obligated to produce all documents in their possession, even if the documents are bulky and were not available at the time of filing the plaint?
+* Can a plaintiff be denied the right to produce additional documents if they fail to provide a "reasonable cause" for non-disclosure along with the plaint?
+
+**3. Legal Doctrines:**
+* **Statutory Interpretation:** The court carefully analyzed the provisions of Order XI Rule 1 and Order VII Rule 14 of the CPC as amended by the Commercial Courts Act, 2015. 
+* **Procedure in Commercial Suits:** The court addressed the procedural requirements for filing commercial suits, including the disclosure of documents.
+* **Order XI Rule 1:** The court reviewed the requirements for disclosure of documents in a commercial suit under Order XI Rule 1, including the requirement for a declaration on oath.
+* **Order VII Rule 14(3):**  The court examined the provision for seeking leave to produce additional documents under Order VII Rule 14(3) and the requirement for a reasonable cause for non-disclosure.
+
+**4. Outcome:**
+* The appeal was partly allowed.
+* The High Court judgment confirming the Commercial Court’s order dismissing the appellant’s application to rely on additional documents was quashed and set aside. 
+* The appellant was granted leave to produce the invoices as additional documents.
+* The High Court's decision to deny leave to produce documents other than the invoices was confirmed.
+
+**5. Reliefs or Orders:**
+* The appellant is granted leave to produce the invoices as additional documents.
+
+**6. Reasoning:**
+* The court held that the High Court had incorrectly dismissed the appellant's application to produce additional documents based on the assumption that Order VII Rule 14(3) was not applicable to commercial suits. The court clarified that Order VII Rule 14(3) is not applicable in a commercial suit and that Order XI Rule 1 as amended by the Commercial Courts Act, 2015, should be followed. 
+* The court held that, based on the amended Order XI Rule 1, the plaintiff is required to disclose all documents in their possession, but that they may seek leave of the court to produce additional documents within 30 days of filing the suit. 
+* The court found that the appellant had provided a reasonable cause for not disclosing the invoices along with the plaint, as they were not in the appellant’s possession at the time of filing the suit. 
+* The court held that the Commercial Court and the High Court erred in rejecting the appellant's application to produce the invoices, as the court was not required to assess the genuineness of the documents at that stage. 
+* The court upheld the lower court’s decision to deny leave to produce documents other than the invoices, as the appellant had not established a reasonable cause for non-disclosure. 
+
+**7. Statutory Interpretation:**
+* The court clarified that Order VII Rule 14(3) of the CPC is not applicable to commercial suits.
+* The court interpreted Order XI Rule 1 of the CPC as amended to mandate the disclosure of all relevant documents in a commercial suit.
+* The court interpreted Order XI Rule 1(4) to allow the plaintiff to seek leave to produce additional documents within 30 days of filing the suit if there is a reasonable cause for non-disclosure.
+* The court held that the requirement for establishing reasonable cause for non-disclosure applies to documents that were in the plaintiff’s possession and control at the time of filing the plaint, but may not apply to documents that were discovered later.
+
+**8. Precedents Cited:**
+* **None:** The judgment does not cite specific precedents in this case.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The court accepted the appellant's argument that the Commercial Court and the High Court had incorrectly applied the law in denying leave to produce the invoices.
+* The court rejected the respondents' argument that the invoices were suspicious and that the appellant had not provided a reasonable cause for non-disclosure.
+* The court accepted the respondents' argument that Order VII Rule 14(3) was not applicable to commercial suits.
+
+**Conclusion:**
+
+The Supreme Court's decision in this case highlights the importance of striking a balance between the need for procedural efficiency in commercial suits and ensuring fairness to both parties.  While the court upheld the principle of disclosure and emphasized the need for transparency in litigation, it recognized the practical realities of the situation, such as the unavailability of documents. The court’s decision clarifies the application of the amended CPC provisions in commercial suits and emphasizes the need for a robust legal framework for such cases.  
+
+

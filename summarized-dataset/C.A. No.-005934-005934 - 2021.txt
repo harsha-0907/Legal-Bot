@@ -1,0 +1,48 @@
+## Summary of the Judgment in M/s Vijeta Construction v. M/s Indus Smelters Ltd. & Anr.
+
+**1. Constitutional References:**  None explicitly stated.
+
+**2. Key Legal Questions:**
+
+* Whether an order passed by the Micro Small and Medium Enterprises Facilitation Council (MSMEFC) rejecting an application due to lack of jurisdiction constitutes an "award" under the MSMED Act, making it appealable under Section 34 of the Arbitration and Conciliation Act, 1996.
+* What is the scope of jurisdiction of the MSMEFC in conciliation and arbitration proceedings under the MSMED Act.
+
+**3. Legal Doctrines:**
+
+* Statutory interpretation of the MSMED Act, particularly Section 18 dealing with dispute resolution procedures.
+* Interpretation of the Arbitration and Conciliation Act, 1996, particularly Sections 65 to 81 regarding conciliation proceedings.
+* Jurisdiction and powers of specialized tribunals vs. regular courts.
+
+**4. Outcome:**
+
+* The Supreme Court quashed the impugned order of the High Court dismissing the writ petition filed by the respondent.
+* The Court also quashed the order of the MSMEFC dated 10.01.2012 rejecting the application.
+* The matter was remitted back to the MSMEFC for a fresh decision in accordance with the MSMED Act.
+
+**5. Reliefs or Orders:**
+
+* Quashing of the High Court order and MSMEFC order.
+* Remission of the matter to the MSMEFC for a fresh decision.
+
+**6. Reasoning:**
+
+* The Court held that the MSMEFC order was not an "award" under the MSMED Act because it was passed at the conciliation stage, not the arbitration stage.
+* The Court clarified that the MSMEFC's role is primarily to assist parties in reaching a settlement during conciliation proceedings.
+* The Court held that the MSMEFC has limited jurisdiction at the conciliation stage and is not required to conduct a thorough inquiry or take evidence.
+* The Court highlighted the importance of following the procedural steps outlined in Section 18 of the MSMED Act for resolving disputes.
+
+**7. Statutory Interpretation:**
+
+* The Court interpreted Section 18 of the MSMED Act, emphasizing the distinction between conciliation and arbitration proceedings.
+* It applied Sections 65 to 81 of the Arbitration and Conciliation Act, 1996, to the conciliation stage of the MSMEFC proceedings.
+* The Court interpreted Section 24 of the MSMED Act to emphasize the overriding effect of its provisions over other laws, including the Arbitration Act, in cases governed by the MSMED Act.
+
+**8. Precedents Cited:**
+
+* No specific case laws or precedents are mentioned in the judgment.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellant argued that the MSMEFC order was not an "award" and therefore not appealable. This argument was accepted by the Court.
+* The respondent argued that the MSMEFC order was an "award" and appealable under the Arbitration Act. This argument was rejected.
+* The respondent argued that the MSMEFC has the jurisdiction to conduct a thorough inquiry and take evidence. This argument was rejected.

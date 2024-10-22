@@ -1,0 +1,62 @@
+## Summary of the Judgment in Narayan Deorao Javle v. Krishna & Ors.
+
+**1. Constitutional References:**
+* **None:** The case primarily revolves around the interpretation of provisions in the Transfer of Property Act, 1882.
+
+**2. Key Legal Questions:**
+* Does a decree for foreclosure of a mortgage extinguish the right of redemption for a subsequent purchaser of the mortgaged property, particularly if the purchaser was not made a party to the foreclosure suit?
+* Is a purchaser from a mortgagor required to give notice to the mortgagee of their purchase? 
+* Can a purchaser of a portion of the mortgaged property redeem only their share or must they redeem the entire property?
+
+**3. Legal Doctrines:**
+* **Right of Redemption:**  The statutory right of a mortgagor to redeem mortgaged property by paying the mortgage debt. 
+* **Extinguishment of Right of Redemption:** The principle that the right of redemption can be extinguished by act of the parties or by decree of a court.
+* **Necessary Party:**  The requirement to implead all necessary parties in a suit, particularly those with a direct interest in the property.
+* **Res Judicata:** The principle that a matter that has been finally decided by a competent court cannot be reopened in subsequent proceedings.
+* **Constructive Notice:**  The principle that knowledge of a fact is imputed to a person if they are aware of circumstances that would lead a reasonable person to inquire about the fact.
+
+**4. Outcome:**
+* The appeal was allowed.
+* The High Court judgment dismissing the appellant's suit for redemption was set aside.
+* The First Appellate Court judgment upholding the appellant's right to redeem was restored.
+
+**5. Reliefs or Orders:**
+* The appellant (Narayan Deorao Javle) is granted three months to deposit the mortgage amount.
+* Upon depositing the mortgage amount, the appellant is entitled to seek restoration of possession of the property.
+* The Executing Court is directed to ensure expeditious delivery of possession to the appellant.
+
+**6. Reasoning:**
+* The court held that the decree for foreclosure passed against the original mortgagors was void and non-est as the appellant (subsequent purchaser) was not made a party to the suit, despite being a necessary party. 
+* The court found that the mortgagee was aware of the appellant's purchase, based on the appellant's possession of the land, the revenue record, and the fact that the possession was taken from the appellant in execution of the foreclosure decree.
+* The court held that the compromise between the original mortgagor and the mortgagee was ineffective and not enforceable against the appellant, who had purchased the property.
+* The court found that the appellant's right to redeem was not extinguished by the decree of foreclosure, as it was not a valid decree due to the non-impleadment of the necessary party.
+* The court rejected the respondents' arguments that the appellant was required to give notice to the mortgagee of their purchase and that the right of redemption had been extinguished.
+* The court held that the appellant, having purchased the property, was entitled to redeem it, subject to payment of the entire mortgage amount. The court cited previous case laws to support the principle that a purchaser from a mortgagor has the right to redeem the property.
+
+**7. Statutory Interpretation:**
+* The court interpreted Section 59A of the Transfer of Property Act to include subsequent purchasers in the definition of mortgagors. 
+* The court interpreted Section 60 of the Act to ensure that the right to redemption is not extinguished by a void decree.
+* The court interpreted Section 91 of the Act to recognize the right of a purchaser from a mortgagor to redeem the property.
+* The court interpreted Order XXXIV Rule 1 of the Code of Civil Procedure to require the joinder of all parties with an interest in the mortgage property.
+
+**8. Precedents Cited:**
+* **Bank of Poona v. Navrajasthan Cooperative Housing Society Ltd. (1968):** This case held that a purchaser of a portion of the mortgaged property has the right to redeem only their share on payment of a proportionate amount.
+* **Banamali Tripathy v. Biswanath Pattanaik (1984):**  This case discussed the right of redemption and its extinguishment by the decree of a court. 
+* **Shivdev Singh & Anr. v. Sucha Singh & Anr. (2000):** This case established that the right of redemption is a statutory and legal right that cannot be extinguished by an agreement made at the time of mortgage.
+* **Achaldas Durgaji Oswal (Dead) through LRs v. Ramvilas Gangabisan Heda (Dead) through LRs & Ors. (2003):** This case emphasized the statutory recognition of the right of redemption under the Transfer of Property Act.
+* **Jamila Begum (Dead) though Legal Representatives v. Shami Mohd. (Dead) through Legal Representatives & Anr. (2019):** This case clarified that a purchaser of a property acquires the entire equity of redemption.
+* **Dr. Govinddas & Anr. v. Shrimati Shantibai & Ors. (1973):** This case discussed the concept of constructive notice.
+* **Allokam Peddabbayya & Anr. v. Allahabad Bank & Ors. (2017):** This case addressed the rights of a purchaser from a mortgagor.
+* **Samarendra Nath Sinha & Anr. v. Krishna Kumar Nag (1967):** This case dealt with a case of a purchaser pending lis.
+* **Mrutunjay Pani & Anr. v. Narmada Bala Sasmal & Anr. (1961):** This case discussed the extinguishment of the mortgage and the continuation of the mortgagor-mortgagee relationship.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The court accepted the appellant's argument that the decree of foreclosure was void and non-est as the appellant was not made a party to the suit.
+* The court accepted the appellant's argument that the mortgagee had constructive notice of the appellant's purchase.
+* The court accepted the appellant's argument that the appellant, having purchased the property, was entitled to redeem it. 
+* The court rejected the respondents' argument that the decree of foreclosure extinguished the right of redemption.
+* The court rejected the respondents' argument that the appellant was required to give notice to the mortgagee of their purchase.
+
+**Conclusion:**
+
+This judgment reaffirms the importance of ensuring fairness and procedural regularity in mortgage foreclosure proceedings. The court's decision emphasizes the need to protect the rights of all parties involved, including subsequent purchasers, and to ensure that foreclosure proceedings are conducted in a manner that does not violate principles of fairness and due process. The court’s reliance on several relevant precedents highlights the evolving jurisprudence in this area of law, particularly in the context of redemption and the rights of subsequent purchasers. 

@@ -1,0 +1,58 @@
+## Summary of the Judgement in Sivasankaran v. Santhimeenal
+
+This case involved a dispute between a husband (appellant) and a wife (respondent) over a marriage that never took off due to the wife's initial refusal to live with the husband and her subsequent pattern of harassment. The Supreme Court of India addressed the question of whether a decree of divorce could be granted based on irretrievable breakdown of marriage, a ground not explicitly recognized under the Hindu Marriage Act.
+
+**1. Constitutional References:**
+* **Article 142:** Grants the Supreme Court the power to do complete justice in cases where law or statute may not provide a remedy.
+
+**2. Key Legal Questions:**
+* Can a decree of divorce be granted based on irretrievable breakdown of marriage, even though this is not a specific ground under the Hindu Marriage Act? 
+* Does the respondent's subsequent conduct amount to mental cruelty?
+* Should the court exercise its jurisdiction under Article 142 to dissolve the marriage or relegate the parties to the family court?
+
+**3. Legal Doctrines:**
+* **Irretrievable Breakdown of Marriage:** The court discussed the legal theory of irretrievable breakdown of marriage, a ground for divorce often recognized in other jurisdictions but not explicitly codified in India.
+* **Mental Cruelty:** The court considered the concept of mental cruelty under Section 13(1)(i-a) of the Hindu Marriage Act, examining whether the respondent's actions constituted harassment and emotional distress.
+* **Jurisdiction under Article 142:** The court analyzed the unique jurisdiction of the Supreme Court under Article 142 to do complete justice, particularly in circumstances where traditional legal remedies may be inadequate.
+
+**4. Outcome:**
+* The appeal filed by the husband was allowed. 
+* The order of the High Court dissolving the marriage on the grounds of irretrievable breakdown of marriage was upheld. 
+* A decree of divorce was passed, dissolving the marriage between the parties.
+
+**5. Reliefs or Orders:**
+* The marriage was dissolved by a decree of divorce. 
+
+**6. Reasoning:**
+* The court found that the marriage had never taken off and was irretrievably broken down, based on the wife's initial refusal to cohabit with the husband and her subsequent actions, which included filing multiple cases, harassing the husband at work, and attempting to damage his professional reputation.
+* The court concluded that the wife's actions constituted mental cruelty and that there was no possibility of reconciliation.
+* The court held that the wife's reluctance to concede the divorce, even for financial reasons, further solidified the breakdown of the marriage.
+* The court acknowledged the pending reference to a Constitution Bench regarding the application of Article 142 in cases of divorce by mutual consent. However, the court found that the reference did not preclude the court from exercising its jurisdiction in the present case, which did not involve mutual consent.
+
+**7. Statutory Interpretation:**
+* The court acknowledged that irretrievable breakdown of marriage is not a statutory ground for divorce under the Hindu Marriage Act. However, the court cited numerous previous cases where the court has exercised its jurisdiction under Article 142 to grant divorce based on irretrievable breakdown, even in the absence of legislative mandate.
+
+**8. Precedents Cited:**
+* **Naveen Kohli v. Neelu Kohli (2006):**  This case established the principle that courts can dissolve a marriage as irretrievably broken down in situations where there is no chance of reconciliation and the marriage is beyond repair.
+* **Samar Ghosh v. Jaya Ghosh (2007):**  This case supported the notion that a marriage can be considered irretrievably broken down, even if no specific ground for divorce is provided.
+* **Sukhendu Das v. Rita Mukherjee (2017):**  This case provided an example of the court exercising its jurisdiction under Article 142 to grant divorce based on irretrievable breakdown, even without mutual consent.
+* **R. Srinivas Kumar v. R. Shametha (2019):** This case affirmed the court's authority to dissolve a marriage based on irretrievable breakdown, even in the absence of consent by both parties.
+* **Munish Kakkar v. Nidhi Kakkar (2020):**  This case reiterated the court's discretion to grant divorce on the grounds of irretrievable breakdown, even if the parties are not in agreement.
+* **K. Srinivas Rao v. D.A. Deepa (2013):**  This case provided precedent for holding that continued harassment and attempts to damage a spouse's professional reputation can constitute mental cruelty. 
+* **Malathi Ravi v. B.V. Ravi (2014):**  This case further supported the concept of mental cruelty as a ground for divorce.
+* **A. Jayachandra v. Aneel Kaur (2005):** This case highlighted the impact of a breakdown of marital unity and the devastating effects on a spouse's emotional well-being.
+* **Shilpa Sailesh v. Varun Sreenivasan (2016):**  This case involved a reference to a Constitution Bench regarding the application of Article 142 in cases of divorce by mutual consent.
+* **T.P.(C) No. 1118/2014:**  This reference to a Constitution Bench explored the broader parameters for exercising powers under Article 142.
+* **Joshi Technologies International Inc v. Union of India & Ors. (2015):**  This case reinforced the principle that the court has discretion in exercising jurisdiction under Article 226 in contractual disputes.
+* **Radhakrishna Agarwal v. State of Bihar (1977):**  This case addressed the issue of when a writ petition may not be appropriate in purely contractual matters.
+* **Premji Bhai Parmar v. DDA (1980):**  This case further emphasized the limitations of the High Court's jurisdiction in contractual disputes.
+* **Divl. Forest Officer v. Bishwanath Tea Co. Ltd. (1981):** This case provided precedent for holding that a contract is not necessarily statutory just because it involves a public body.
+* **Bachhittar Singh v. State of Punjab (1963):** This case established the requirement of communication of administrative orders to the affected party.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The court accepted the appellant's argument that the marriage was irretrievably broken down and that the respondent's actions constituted mental cruelty.
+* The court rejected the respondent's argument that divorce on the grounds of irretrievable breakdown was not permissible in the absence of consent by both parties, upholding the court's power under Article 142 to do complete justice.
+
+**Conclusion:**
+
+The judgement in Sivasankaran v. Santhimeenal demonstrates the evolution of divorce law in India, particularly with regard to the recognition of irretrievable breakdown as a ground for divorce. While this ground is not explicitly codified, the Supreme Court's continued reliance on Article 142 to address such cases signals a shift towards a more modern and pragmatic approach to marital breakdown. The judgement also underscores the need for courts to consider the impact of a spouse's conduct, even after the initial separation, in determining the possibility of reconciliation and the appropriate course of action. 

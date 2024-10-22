@@ -1,0 +1,59 @@
+## Summary of the Judgement in The National Highways Authority of India v. Pandarínathan Govindarájulu & Anr.
+
+**1. Constitutional References:** None explicitly mentioned in the judgment.
+
+**2. Key Legal Questions:**
+* Does the expansion of a National Highway project exceeding 100 km require prior environmental clearance even if the additional right of way or land acquisition is within the permissible limits specified in the Environment (Protection) Notifications?
+* Is the segmentation of a National Highway project into multiple packages less than 100 km permissible to avoid the requirement of environmental clearance?
+* Does the "right of way" for a National Highway project, as defined in the relevant manual, include amenities like toll plazas and rest houses?
+
+**3. Legal Doctrines:**
+* **Environmental Impact Assessment (EIA):** This doctrine requires specific projects, including road expansion projects, to undergo an environmental impact assessment before they are undertaken.
+* **Statutory Interpretation:** The court examines the language and intent of the Environment (Protection) Notifications to interpret the requirements for environmental clearance.
+* **Segmentation of Projects:** The judgment examines the permissibility of dividing a large project into smaller segments to potentially circumvent environmental clearance requirements.
+
+**4. Outcome:**
+* The appeals filed by the National Highways Authority of India (NHAI) were allowed. 
+* The High Court's judgment requiring environmental clearance for the National Highway 45-A expansion project was set aside.
+
+**5. Reliefs or Orders:**
+* The court held that environmental clearance is not required for the NH 45-A Villuppuram - Nagapattinam Highway expansion project as the land acquisition does not exceed the permissible limits for existing alignments and realignments.
+* The NHAI was directed to strictly adhere to the limits for land acquisition as specified in the Notifications.
+* The Ministry of Environment, Forest and Climate Change was directed to constitute an expert committee to examine the permissibility of segmentation of National Highway projects exceeding 100 km and, if permissible, under what circumstances.
+* The NHAI was directed to fulfill the requirement of reafforestation in accordance with existing legal regime.
+* Toll plazas and rest houses must be included within the permissible limits for the "right of way" as defined in the relevant manual.
+
+**6. Reasoning:**
+* The court interpreted the Environment (Protection) Notification dated 22.08.2013, finding that prior environmental clearance is only required for National Highway expansion projects exceeding 100 km if the additional right of way or land acquisition exceeds the specified limits.
+* The court rejected the High Court's finding that segmentation of a large project is impermissible to avoid environmental clearance, finding that the  Notifications do not explicitly prohibit segmentation.
+* The court emphasized the importance of balancing economic development with environmental protection, but found that allowing unrestricted segmentation could undermine the purpose of the Notifications.
+* The court concluded that the "right of way" for a National Highway project includes all necessary facilities, including toll plazas and rest areas, and must adhere to the specified limits.
+
+**7. Statutory Interpretation:**
+* The court interpreted the Environment (Protection) Notifications dated 14.09.2006 and 22.08.2013, emphasizing the importance of the "involving" clause, which requires additional right of way or land acquisition exceeding the specified limits for environmental clearance.
+* The court found that the Notifications do not explicitly prohibit segmentation of projects, but cautioned that it should not be a strategy to avoid environmental impact assessments.
+
+**8. Precedents Cited:**
+* State of Tamil Nadu v. Hind Stone, (1982) 2 SCC 205
+* The State of Uttar Pradesh and Ors v. Babu Ram Upadhya 1961 SCR (2) 679
+* Bansal Wire Industries Ltd. v. State of U.P ., (2011) 6 SCC 545
+* (1843-60) All ER Rep 55, Sussex Peerage case
+* Dental Council of India v. Hari Prakash, (2001) 8 SCC 61 and Harbhajan Singh v. Press Council of India, (2002) 3 SCC 722
+* South Central Railway Employees Coop. Credit Society Employees’ Union v. Registrar of Coop. Societies. (1998) 2 SCC 580
+* CIT v. Surat Art Silk Cloth Manufacturers’ Association (1980) 2 SCC 31
+* Silppi Construction Contractors v. Union of India, 2019 SCC OnLine SC 1133
+* Old Town Neighborhood Association v. Kauffman, (S.D. Ind. 2002), Case No. 1:02-cv-1505-DFH. 
+* Commission of the European Communities v. Kingdom of Spain, Case C-227/01. 
+* Deepak Kumar v. State of Haryana (2012) 4 SCC 629
+* Citizens for Green Doon v. Union of India, 2018 SCC OnLine NGT 1777
+* Indian Council for Enviro-Legal Action v. Union of India [(1996) 5 SCC 281]
+* Vellore Citizens' Welfare Forum v. Union of India [(1996) 5 SCC 647]
+
+**9. Legal Arguments Accepted/Rejected:**
+* The NHAI's argument that environmental clearance is not required if the expansion project is divided into multiple packages less than 100 km was accepted, but with a caveat that segmentation cannot be used as a strategy to avoid environmental clearance.
+* The NHAI's argument that toll plazas and rest houses do not fall under the definition of "right of way" was rejected.
+* The NHAI's argument that the project was divided into packages due to administrative exigencies and the need for speedy execution was considered, but the court ultimately found it insufficient to justify circumventing environmental clearance.
+
+**Note:** The court aimed to strike a balance between promoting economic development and protecting the environment, recognizing the importance of enforcing environmental regulations while allowing for practical considerations in large infrastructure projects.
+
+

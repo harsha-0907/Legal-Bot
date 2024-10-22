@@ -1,0 +1,58 @@
+## Summary of the Judgment in Assistant Excise Commissioner, Kottayam & Ors. v. Esthappan Cherian & Anr. (Civil Appeal No. 5815 of 2009)
+
+**1. Constitutional References:**
+
+* **Article 14:**  The judgment implicitly references Article 14 concerning the right to equality before the law and equal protection of the laws. The case involves the dispute over the application of a rule to a previous contract, potentially impacting the licensee's right to equality.
+* **Article 21:** This article, concerning the right to life and personal liberty, is also relevant as it pertains to the protection of the licensee's property, which was attached to recover alleged arrears.
+
+**2. Key Legal Questions:**
+
+* **Retrospective application of rules:** Whether the amended Rule 13 of the Abkari Shops Departmental Management Rules, 1972, could be applied retrospectively to a contract entered into before the amendment came into force.
+* **Validity of the show cause notices:** Whether the show cause notices issued by the Director (OL) for alleged irregularities in the implementation of recruitment rules were valid, particularly considering the previous show cause notices issued in 2002 and 2005.
+* **Interpretation of departmental management fee:** Whether the departmental management fee collected by the state should be adjusted against the licensee's overall liability.
+
+**3. Legal Doctrines:**
+
+* **Statutory interpretation:**  The court examined the wording and intention of the Abkari Shops Departmental Management Rules, 1972, as well as the Abkari Shops (Disposal in Auction) Rules, to interpret their meaning and application in the case.
+* **Retrospective legislation:** The court applied the principle that retrospective legislation is generally disfavored unless there is clear intent to the contrary.
+* **Abuse of process:** The court addressed the argument of whether repeated show cause notices constituted an abuse of process.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeals of the State of Kerala and dismissed the writ petition filed by the licensee. 
+* The court upheld the validity of the show cause notices issued by the Director (OL). 
+* The court determined that the departmental management fee collected by the state could not be recovered again from the licensee.
+
+**5. Reliefs or Orders:**
+
+* The High Court's orders quashing the show cause notices and the demand for arrears were set aside.
+* The licensee was given two months to pay the remaining 50% of the admitted amount.
+* The State of Kerala was ordered to release the licensee's attached property within four weeks of receiving the remaining 50% of the amount.
+
+**6. Reasoning:**
+
+* The Supreme Court determined that the High Court incorrectly interpreted the amended Rule 13, finding that it was not meant to apply retrospectively.
+* The Court emphasized that the licensee's contract was entered into before the amendment of Rule 13, therefore, the amended rule was inapplicable.
+* The Court reasoned that the issuance of repeated show cause notices did not constitute an abuse of process, as they were issued to address legitimate concerns regarding alleged irregularities.
+* The Court acknowledged the right to procedural fairness but maintained that the State's actions were justified in seeking to recover arrears and were not a violation of the licensee's right to be heard. 
+
+**7. Statutory Interpretation:**
+
+* The Court interpreted the Abkari Shops Departmental Management Rules, 1972, as well as the Abkari Shops (Disposal in Auction) Rules, to ensure that the amended Rule 13 was not applied retrospectively.
+* The Court also examined the language of the show cause notices and the contractual terms to determine the legal grounds for issuing the notices and the State's right to recover arrears.
+
+**8. Precedents Cited:**
+
+* **Lucka v State of Kerala & Ors.** (2000) The Court referenced this case as support for the principle that the amended Rule 13 was inapplicable to contracts entered into before the amendment was enacted.
+* **Commissioner of Income Tax v Vatika Township** (2015) The Court cited this case for the principle that retrospective legislation is not favored unless there is a clear legislative intent. 
+* **Union of India v M.C. Ponnose** (1970)  The Court relied on this case to support the doctrine that delegated legislation cannot operate retrospectively unless specifically empowered by the statute.
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The State's argument that the amended Rule 13 could not be applied retrospectively was accepted.
+* The licensee's argument that the departmental management fee should be adjusted against their overall liability was accepted.
+* The licensee's argument that the show cause notices were invalid due to the previous 2002 and 2005 notices was rejected.
+
+**Conclusion:**
+
+The Supreme Court's decision highlights the importance of adhering to the principle of retrospective legislation, particularly when it could impact the rights of individuals.  The Court also upheld the Director (OL)'s authority to investigate alleged irregularities in the implementation of recruitment rules and the right of the State to seek recovery of outstanding arrears.

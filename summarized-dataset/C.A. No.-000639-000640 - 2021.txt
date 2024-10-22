@@ -1,0 +1,71 @@
+## Judgment Summary: Sachin Kumar & Ors. v. Delhi Subordinate Service Selection Board (DSSSB) & Ors. (and related appeals)
+
+**1. Constitutional References:**
+
+* **Article 14 (Right to Equality):** The judgment emphasizes that public authorities must treat all individuals equally, without discrimination, and ensure a fair and reasonable process in public employment. 
+* **Article 16 (Right to Equality of Opportunity in Matters of Public Employment):**  This article ensures that all candidates have an equal opportunity to compete for government jobs.
+
+**2. Key Legal Questions:**
+
+* Was the DSSSB (Delhi Subordinate Services Selection Board) justified in canceling the entire recruitment process for the post of Head Clerk (Grade 2)? 
+* What constitutes a systemic flaw in a recruitment process that justifies cancellation of the entire process?
+* Can the court uphold the cancellation of a recruitment process if the irregularities primarily affected a specific group of candidates, while others were not involved in wrongdoing?
+* Can the court require candidates who were found to be free from any irregularities to retake the exam? 
+
+**3. Legal Doctrines:**
+
+* **Judicial Review:** This doctrine allows courts to review decisions made by public authorities to ensure they are consistent with the law and principles of fairness. 
+* **Fair Procedure:** This doctrine mandates that public authorities must act in a fair and reasonable manner in all their decisions, particularly in matters of recruitment. 
+* **Systemic Flaw:** This refers to a fundamental defect or irregularity that pervades the entire recruitment process, affecting its integrity and legitimacy.
+* **Proportionality:**  This doctrine emphasizes that the remedy chosen by the authority must be proportionate to the nature and severity of the violation. 
+
+**4. Outcome:**
+
+* The appeals filed by DSSSB and GNCTD were allowed. 
+* The High Court's judgment upholding the Tribunal's decision to set aside the cancellation was reversed.
+* The DSSSB's decision to cancel the entire recruitment process was upheld.
+* The appeals filed by the candidates were dismissed.
+
+**5. Reliefs or Orders:**
+
+* The Supreme Court reversed the High Court's judgment and upheld the DSSSB's decision to cancel the recruitment process. 
+* The court directed DSSSB and GNCTD to take steps to ensure that such irregularities do not recur in future examinations. 
+
+**6. Reasoning:**
+
+* The court acknowledged that the DSSSB had a duty to conduct a fair and transparent recruitment process.
+* The court found that the investigations by the first and second committees had revealed significant systemic flaws in the recruitment process, including: 
+    * A delay of five years in conducting the Tier-I exam, which was detrimental to the fairness of the process.
+    * The decision to use electronic admit cards, which was not mentioned in the advertisement and disadvantaged candidates without internet access. 
+    * The lack of proper randomization, which facilitated the seating of family members together in the same examination room.
+    * The failure to verify the educational qualifications of candidates.
+    * Evidence suggesting the involvement of coaching centers in the leakage of question papers. 
+* The court concluded that the DSSSB's decision to cancel the entire recruitment process was a justified response to the systemic flaws. The court argued that while some candidates might be untainted, the nature of the irregularities  and the extent of their pervasiveness made it impossible to separate the tainted from the untainted, and thus canceling the entire process was necessary to preserve the legitimacy of the recruitment. 
+* The court accepted the DSSSB's argument that it had taken steps to address the irregularities, including verification for impersonation, but found these measures insufficient given the gravity of the flaws. 
+
+**7. Statutory Interpretation:**
+
+* The court applied the relevant provisions of the Constitution and the legal framework governing the conduct of public examinations and recruitment processes. 
+* The court interpreted the principle of fair procedure to require that a recruitment process must be conducted fairly and reasonably, without undue bias or discrimination, and must ensure equal access to all eligible candidates.
+* The court emphasized that public authorities have the right to cancel an entire selection process if it is found to be systematically flawed, but this power must be exercised reasonably and proportionally.  
+
+**8. Precedents Cited:**
+
+* *Bihar School Examination Board v. Subhas Chandra Sinha & Ors.* (1970) 1 SCC 648
+* *Anamica Mishra v. UP Public Service Commission, Allahabad* (1990) Supp. SCC 692
+* *Madhyamic Shiksha Mandal, MP v. Abhilash Shiksha Prasar Samiti* (1998) 9 SCC 236
+* *Union of India v. Rajesh P.U. Puthuvalnikathu* (2003) 7 SCC 285
+* *Inderpreet Singh Kahlon v. State of Punjab* (2006) 11 SCC 356
+* *Joginder Pal v. State of Punjab* (2014) 6 SCC 644
+* *Chairman All India Railway Recruitment Board v. K Shyam Kumar* (2010) 6 SCC 614
+* *State of Tamil Nadu v. A Kalaimani* 2019 SCC Online 1002
+* *Gohil Vishvaraj Hanubhai v. State of Gujarat* (2017) 13 SCC 621
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The court accepted the arguments of the DSSSB and GNCTD that the recruitment process was tainted by systemic irregularities, which warranted cancellation.
+* The court rejected the arguments of the candidates that the cancellation was unfair, arguing that the integrity of the entire process was compromised.
+
+**Conclusion:**
+
+This judgment reaffirms the principle that public authorities have a responsibility to uphold the integrity and fairness of recruitment processes. It emphasizes that the courts will scrutinize these processes to ensure equal opportunity and access to all eligible candidates. The decision also suggests that when serious systemic flaws are identified, canceling the entire process may be the most appropriate solution to ensure public confidence in the recruitment system. 

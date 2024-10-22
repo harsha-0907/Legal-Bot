@@ -1,0 +1,48 @@
+## Judgment Summary: Padam Nabh & Sons v. Yash Pal
+
+**1. Constitutional References:** 
+
+* **Article 14 (Right to Equality):** The judgment indirectly touches upon this article through its discussion of the need for fair treatment of tenants and landlords. 
+* **Article 21 (Right to Life and Liberty):** The judgment implicitly considers this article by acknowledging the importance of housing and the need to balance the rights of tenants and landlords.
+
+**2. Key Legal Questions:**
+
+* Can a Non-Resident Indian (NRI) who acquires a building after a tenant has been inducted invoke the summary jurisdiction under Section 13B(1) of the East Punjab Urban Rent Restriction Act, 1949 (the Act)?
+
+**3. Legal Doctrines:**
+
+* **Statutory Interpretation:** The court focused on interpreting the meaning of "let out" within Section 13B(1) of the Act.
+* **Distinguishing Precedents:** The court distinguished the precedent in *Nathi Devi v. Radha Devi Gupta* (2005) 2 SCC 271, which interpreted Section 14D of the Delhi Rent Control Act, 1958, finding key differences between the two Acts. 
+* **Construction of Exceptions:** The court recognized that provisions providing for summary eviction are exceptions to the general rules governing tenant-landlord relationships and should be construed strictly.
+
+**4. Outcome:**
+
+* The appeal filed by the tenant was dismissed.
+* The tenant was given six months to vacate the premises, provided they furnish a standard undertaking within two weeks.
+
+**5. Reliefs or Orders:**
+
+* The court granted the NRI landlord the right to evict the tenant under Section 13B(1) of the Act.
+* The court granted the tenant six months to vacate the premises.
+
+**6. Reasoning:**
+
+* The court held that *Nathi Devi* was not directly applicable to the interpretation of Section 13B(1) of the Act, due to the significant differences between the two Acts.
+* The court emphasized that the Act was meant to protect tenants from exploitation, but it also recognized the need to consider the rights of landlords, particularly NRIs who are entitled to their property.
+* The court found that the proviso to Section 13B(1) clearly indicates that the NRI owner needs to wait for five years before invoking the summary eviction provision, irrespective of when the tenant was originally inducted.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted "let out" within Section 13B(1) to mean that the premises become "let out by him" when an NRI owner takes possession and the tenancy is attorned in their favor, establishing a landlord-tenant relationship.
+
+**8. Precedents Cited:**
+
+* *Nathi Devi v. Radha Devi Gupta* (2005) 2 SCC 271
+* *S. Surjit Singh Kalra v. Union of India & Anr.* (1991) 2 SCC 87
+* *Kanta Goel v. B.P. Pathak* (1977) 2 SCC 814
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellant's argument based on *Nathi Devi* was rejected, as the court found the case to be distinguishable.
+* The court accepted the argument that the proviso to Section 13B(1) imposes a five-year waiting period on the NRI owner, irrespective of the tenant's induction date. 
+* The court accepted the interpretation of "let out" as being established upon the NRI owner's acquisition of the property and the tenant's attornment of the tenancy in their favor.

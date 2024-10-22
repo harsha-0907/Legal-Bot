@@ -1,0 +1,57 @@
+## Summary of the Judgment in Krishna Gopal Tiwary v. Union of India & Ors.
+
+**1. Constitutional References:**
+* **Article 14:**  Guarantees the right to equality before the law and equal protection of the laws.
+* **None:** The case revolves primarily around the interpretation of statutory provisions, particularly the Payment of Gratuity Act, 1972.
+
+**2. Key Legal Questions:**
+* Can a statutory amendment that grants a benefit, in this case, increased gratuity, be given retrospective effect, especially when the amendment specifically specifies a future date for its coming into force?
+* Can the Executive’s power to fix the date of commencement for a statute be deemed excessive delegation?
+* Does the exemption from income tax for gratuity received under the Payment of Gratuity Act apply to gratuity exceeding the prescribed limit?
+
+**3. Legal Doctrines:**
+* **Retrospective Legislation:** The principle that new laws or amendments generally apply prospectively and cannot be applied retrospectively. 
+* **Statutory Interpretation:**  The court considered the legislative intent behind the Payment of Gratuity (Amendment) Act, 2010, particularly the purpose and effect of its provisions.
+* **Delegation of Powers:** The court examined the principle of delegation of powers, particularly the Executive's authority to set the date of commencement for a statute.
+* **Taxation and Exemptions:** The court reviewed the provisions of the Income Tax Act, 1961, relating to exemptions for gratuity received under the Payment of Gratuity Act.
+
+**4. Outcome:**
+* The appeal was dismissed.
+* The High Court judgment upholding the tax deduction on the gratuity amount was upheld. 
+
+**5. Reliefs or Orders:**
+* None. The appeal was dismissed, and the High Court’s decision to uphold the tax deduction was confirmed.
+
+**6. Reasoning:**
+* The court held that the Payment of Gratuity (Amendment) Act, 2010, which increased the ceiling for gratuity payments, was not intended to have retrospective effect. 
+* The court emphasized that the Amending Act specifically specifies a future date (24.05.2010) for its coming into force, indicating that the legislature did not intend for the amendment to apply to payments made before the specified date.
+* The court also held that the Executive’s power to fix the date of commencement of the Act was a valid delegation of power, as it was necessary to allow the Executive to implement the law effectively. 
+* The court rejected the appellants' argument that the amendment should be applied retrospectively because it granted a benefit.  The court cited previous cases to establish that retrospectivity is generally presumed to apply to situations imposing a burden or liability and that a benefit is presumed to be prospective. 
+* The court found that the exemption from income tax for gratuity received under the Payment of Gratuity Act, 1972, is limited to the amount calculated in accordance with the provisions of the Act, which was subject to a ceiling of Rs. 10 lakhs.
+* The court also addressed the appellants' arguments regarding the "liberalised benefits" and the "two categories of employees" created by the cut-off date, finding that the cut-off date was justified based on the one-time nature of the gratuity payment.
+
+**7. Statutory Interpretation:**
+* The court interpreted Section 4(3) of the Payment of Gratuity Act, 1972, as amended, to clarify that the maximum amount of gratuity payable is Rs. 10 lakhs, applicable from the specified date of commencement. 
+* The court interpreted Section 10(10)(ii) of the Income Tax Act, 1961, to emphasize that the exemption from income tax for gratuity received under the Payment of Gratuity Act is subject to the limits prescribed under the Act. 
+
+**8. Precedents Cited:**
+* **Commissioner of Income Tax (Central)-I, New Delhi v. Vatika Township Private Limited (2015):** This case addressed the presumption against retrospectivity, particularly when a provision is onerous to the assessee.
+* **D.S. Nakara & Ors. v. Union of India (1983):** This case established that a cut-off date for granting a benefit can be deemed arbitrary if it is unrelated to the purpose of the benefit.
+* **State Government Pensioners’ Association & Ors. v. State of Andhra Pradesh (1986):** This case held that gratuity, once paid, becomes crystallized and cannot be revised retrospectively.
+* **Union of India v. All India Services Pensioners’ Association & Anr. (1988):** This case distinguished between pension and gratuity payments, highlighting that pension is paid periodically while gratuity is paid only once on retirement.
+* **Sri Vijayalakshmi Rice Mills, New Contractors Co. & Ors. v. State of Andhra Pradesh (1976):**  This case held that the price applicable on the date of sale is the one that should be considered, even if a higher price is introduced subsequently.
+* **Orient Paper and Industries Ltd. & Anr. v. State of Orissa & Ors. (1991):** This case upheld the Executive's power to fix the date of commencement for an Act.
+* **Himachal Road Transport Corporation & Anr. v. Himachal Road Transport Corporation Retired Employees Union (2021):** This case upheld the fixation of a cut-off date for increased gratuity payments, citing financial constraints.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The court accepted the respondents’ argument that the Amending Act, 2010, did not have retrospective effect.
+* The court accepted the respondents' argument that the Executive had the power to fix the date of commencement.
+* The court accepted the respondents' argument that the gratuity exemption was subject to the limits prescribed under the Payment of Gratuity Act.
+* The court rejected the appellants’ argument that the amendment should be applied retrospectively because it granted a benefit. 
+* The court rejected the appellants’ argument that the cut-off date for the gratuity ceiling was arbitrary.
+
+**Conclusion:**
+
+This judgment highlights the importance of adhering to the principle of retrospectivity in statutory interpretation. The court's decision emphasizes the need for clarity in the language of statutes and for the legislature to express its intention for retrospectivity clearly and explicitly. The court's detailed analysis of relevant case laws and the application of established legal principles reinforces the need for a consistent and predictable approach to statutory interpretation in India.  
+
+

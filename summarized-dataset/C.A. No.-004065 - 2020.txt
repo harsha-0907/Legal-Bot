@@ -1,0 +1,41 @@
+## Summary of the Judgement in Alok Kaushik v. Mrs Bhuvaneshwari Ramanathan and Others
+
+**1. Constitutional References:**
+* Article 142 of the Constitution of India: The court invoked this article to provide relief to the appellant and ensure a determination of his professional fees.
+
+**2. Key Legal Questions:**
+* What is the proper forum for determining the professional fees of a registered valuer appointed under the Insolvency and Bankruptcy Code, 2016 (IBC) during the Corporate Insolvency Resolution Process (CIRP), when the CIRP is subsequently set aside?
+* Does the NCLT retain jurisdiction to determine the valuer's fees after the CIRP is set aside?
+* Does the availability of a grievance redressal mechanism under the IBC against the Resolution Professional (RP) divest the NCLT of its jurisdiction to determine the valuer's fees?
+
+**3. Legal Doctrines:**
+* **Jurisdiction of NCLT:** The judgment examines the jurisdiction of the National Company Law Tribunal (NCLT) under Section 60(5)(c) of the IBC, particularly in relation to disputes arising from or relating to the insolvency of a corporate debtor.
+* **Functus Officio:** The judgment addresses the concept of "functus officio" and its applicability to the NCLT's jurisdiction in the context of CIRP proceedings.
+* **Insolvency Resolution Process Costs:** The judgment analyzes the definition of "insolvency resolution process costs" under Section 5(13) of the IBC and Regulation 31 of the IRP Regulations.
+
+**4. Outcome:**
+* The appeal filed by Alok Kaushik was allowed.
+* The NCLAT's order rejecting the appellant's claim for professional fees was set aside.
+
+**5. Reliefs or Orders:**
+* The proceedings were remitted back to the NCLT for determining the appellant's claim for professional fees.
+* The NCLT was directed to determine the amount payable to the appellant as a registered valuer, considering his claim as an intrinsic part of the CIRP costs.
+
+**6. Reasoning:**
+* The court found that the NCLT was not rendered "functus officio" simply because the CIRP was set aside.
+* The court held that the NCLT had the necessary jurisdiction under Section 60(5)(c) of the IBC to determine the appellant's claim for professional fees, as it was a matter arising from or relating to the insolvency of the corporate debtor.
+* The court emphasized that the availability of a grievance redressal mechanism under the IBC against the RP did not preclude the NCLT from determining the claims of other professionals involved in the CIRP, such as the appellant.
+
+**7. Statutory Interpretation:**
+* The court interpreted Section 60(5)(c) of the IBC to encompass disputes concerning the professional fees of experts appointed during the CIRP, even if the CIRP is subsequently set aside.
+* The court interpreted Regulation 34 of the IRP Regulations to include the fees of professionals appointed by the RP as part of the "insolvency resolution process costs."
+
+**8. Precedents Cited:**
+* Gujarat Urja Vikas Nigam Limited vs Amit Gupta and Others 2021 SCC OnLine SC 194: This case clarified the NCLT's jurisdiction under Section 60(5)(c) of the IBC.
+
+**9. Legal Arguments Accepted/Rejected:**
+* The appellant's argument that the NCLT was not functus officio and had jurisdiction to determine his fees was accepted.
+* The NCLT's argument that it was functus officio and could not determine the appellant's claim was rejected.
+* The respondent's argument that the IBBI was the proper forum for addressing the appellant's complaint was rejected.
+
+**Note:** This judgment reinforces the NCLT's role as the primary forum for resolving disputes arising from insolvency proceedings under the IBC.  It also underscores the importance of providing a mechanism to address the claims of professionals who are appointed as part of the CIRP, even if the CIRP is ultimately terminated. 

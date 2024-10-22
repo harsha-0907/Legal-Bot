@@ -1,0 +1,55 @@
+## Summary of the Judgment in SGS India Ltd. v. Dolphin International Ltd.
+
+**1. Constitutional References:**
+
+* None explicitly stated.
+
+**2. Key Legal Questions:**
+
+* Whether SGS India Ltd. (Appellant), a testing and certification company, could be held liable for the change in the quality of groundnut (Aflatoxin levels and size) found at the port of destination after shipment from India.
+* Whether the appellant’s disclaimer in the inspection certificates, absolving them of responsibility for changes occurring during transportation and storage, was valid.
+* Whether the complainant, Dolphin International Ltd., had successfully proven that the appellant was deficient in service.
+
+**3. Legal Doctrines:**
+
+* **Contract Law:** The Court examined the terms of the contract between the parties and the scope of the appellant’s responsibility.
+* **Consumer Protection Act, 1986:** The court applied the principles of the Consumer Protection Act, particularly the burden of proof regarding "deficiency in service."
+* **Negligence:** The court considered whether the appellant was negligent in its inspection and certification process.
+
+**4. Outcome:**
+
+* The Supreme Court allowed the appeal and set aside the order of the National Consumer Disputes Redressal Commission.
+* The complaint filed by Dolphin International Ltd. was dismissed.
+
+**5. Reliefs or Orders:**
+
+* The Commission’s order directing SGS India Ltd. to pay Rs. 65,74,000/- with interest and Rs. 25,000/- as cost was set aside.
+
+**6. Reasoning:**
+
+* The Court emphasized that the appellant’s responsibility was limited to inspecting and certifying the quality and quantity of the groundnut at the time of shipment from India. 
+* The Court found that the appellant's disclaimer in the certificates, absolving them of responsibility for changes during transportation and storage, was valid and reflected the inherent risks associated with shipping agricultural products. 
+* The Court held that the complainant failed to prove any negligence or deficiency in service by the appellant during the inspection process in India. 
+* The Court emphasized the burden of proof lying on the complainant to establish deficiency in service under the Consumer Protection Act, 1986.
+* The Court noted that the complainant did not produce the results of the samples sent to the appellant’s counterpart in Greece and Netherlands for comparison, making it impossible to conclude that the appellant’s initial certificates were materially different from the findings at the destination ports.
+
+**7. Statutory Interpretation:**
+
+* The court interpreted the Consumer Protection Act, 1986, specifically regarding the burden of proof required to establish “deficiency in service.”
+
+**8. Precedents Cited:**
+
+* Ravneet Singh Bagga v. KLM Royal Dutch Airlines & Anr. (2000) 1 SCC 66
+* Indigo Airlines v. Kalpana Rani Debbarma & Ors. (2020) 9 SCC 424
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The appellant argued that its responsibility was limited to inspection at the port of loading and that the disclaimer in the certificates was valid. These arguments were accepted.
+* The complainant argued that the appellant was responsible for ensuring the quality of the groundnut remained the same at the destination port. This argument was rejected.
+* The complainant argued that the appellant was negligent and deficient in service. This argument was rejected. 
+
+**Conclusion:**
+
+This judgment clarifies the scope of responsibility for inspection and certification companies when dealing with perishable agricultural products. It affirms that companies like SGS India Ltd. cannot be held liable for changes in the quality of goods that occur during transportation and storage, particularly in the absence of specific contractual terms. The decision underscores the importance of defining clear expectations and responsibilities within contracts to avoid disputes and ensure fair treatment for all parties involved. 
+
+

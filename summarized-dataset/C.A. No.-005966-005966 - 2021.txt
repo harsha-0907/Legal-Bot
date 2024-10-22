@@ -1,0 +1,68 @@
+## Judgment Summary: Ajay Kumar Shukla & Ors. v. Arvind Rai & Ors. (and related appeals)
+
+**1. Constitutional References:**
+
+* **Article 14 (Right to Equality):** The judgment explicitly discusses this article in the context of promotions, emphasizing that denying promotions based on arbitrary or discriminatory criteria violates the right to equality.
+* **Article 16 (Right to Equality of Opportunity in Matters of Public Employment):** This article is also referenced in the context of promotions, highlighting the right to equal opportunity in matters of public employment.
+* **Article 309 (Regulation of Public Services):** The judgment mentions this article, acknowledging its relevance to the creation of service rules and regulations.
+
+**2. Key Legal Questions:**
+
+* Was the final seniority list prepared by the Department of Minor Irrigation (Department) in 2010 valid, considering it was based on the combined seniority list prepared by the Uttar Pradesh Public Service Commission (UPPSC) for three different branches of engineering (agriculture, civil, and mechanical) even though separate lists were initially submitted by the UPPSC?
+* Did the appellants, who challenged the seniority list, delay in approaching the court unreasonably, thereby impacting their claim? 
+* Were the appellants denied promotions based on arbitrary or discriminatory criteria, violating their fundamental rights under Articles 14 and 16? 
+
+**3. Legal Doctrines:**
+
+* **Statutory Interpretation:** The court heavily relied on interpreting the provisions of the Uttar Pradesh State Service Rules, 1991 and the Uttar Pradesh Engineering Service (Minor Irrigation Department) Rules, 2009, especially those relating to seniority lists and promotion procedures. 
+* **Principles of Natural Justice:** The court considered the principle of natural justice in relation to the fairness of the seniority list preparation process. 
+* **Doctrine of Estoppel:** The court examined the doctrine of estoppel in relation to the appellants' potential acceptance of the initial seniority list, thereby impacting their right to later challenge it.
+* **Doctrine of Laches:** The court addressed the doctrine of laches, which concerns unreasonable delay in asserting a legal right, potentially impacting the claim. 
+
+**4. Outcome:**
+
+* The appeals were allowed.
+* The High Court's order dismissing the writ petitions challenging the seniority list was set aside.
+* The single judge's order, which had set aside the Department's 2010 seniority list and directed the preparation of a new list, was upheld.
+
+**5. Reliefs or Orders:**
+
+* The Supreme Court reversed the High Court's order and restored the single judge's order.
+* The Department was directed to prepare a new seniority list in accordance with the 1991 Rules and the single judge's order.
+
+**6. Reasoning:**
+
+* The court found that the Department's decision to combine the three separate seniority lists submitted by the UPPSC violated the provisions of the 1991 Rules, which explicitly required separate lists for each branch.
+* The court rejected the High Court's finding that the appellants had unreasonably delayed in approaching the court, arguing that the appellants were not aware of the procedural flaws until the 2010 seniority list was published. 
+* The court found that the appellants' promotions were affected by the invalid seniority list, violating their fundamental rights to equality and equal opportunity under Articles 14 and 16.
+* The court criticized the High Court for failing to properly consider the arguments of the appellants and the principles of natural justice. 
+
+**7. Statutory Interpretation:**
+
+* The court interpreted the 1991 Rules to mandate separate seniority lists for each branch of engineering, rejecting the Department's claim that combining lists was permissible.
+* The court interpreted the 2009 Rules, noting that they reiterated the requirement of a separate seniority list for each branch.
+
+**8. Precedents Cited:**
+
+* *Nishchala Shankar Mahapatra v. State of Odisha* (2010) 12 AIC 471
+* *Daya Ram Anand Gurhani v. State of Maharashtra & Ors.* (1984) 3 SCC 36
+* *B.A. Bajaj & Anr. v. State of Punjab & Ors.* (1998) 2 SCC 523
+* *Lalit Singh Tijoora v. Union of India & Ors.* (1976) 1 SCC 599
+* *R.A. Makashi & Ors. v. I.M. Menon & Ors.* (1982) 1 SCC 379
+* *Ashok Kumar Gupta v. State of Uttar Pradesh* (1991) 2 SCC 295
+* *Ajit Singh v. State of Punjab* (1999) 7 SCC 209
+* *Major Gen. A.M. Singh, VSM v. Union of India & Ors.* (2014) 3 SCC 670
+* *Ranjan Kumar & Ors. v. State of Bihar & Ors.* (2014) 16 SCC 187
+* *Prabodh Varma & Ors. v. State of Uttar Pradesh & Ors.* (1984) 4 SCC 251
+* *Uttaranchal State v. Madan Mohan Joshi & Ors.* (2008) 6 SCC 797
+* *Indu Shekhar Singh & Ors. v. State of U.P. & Ors.* (2006) 8 SCC 129
+* *Trideep Kumar Thiagaraj v. State of West Bengal* (2009) 1 SCC 768
+* *Mukul Kumar Tyagi & Ors. v. State of Uttar Pradesh & Ors.* (2020) 4 SCC 86
+
+**9. Legal Arguments Accepted/Rejected:**
+
+* The court accepted the appellants' argument that the Department's combined seniority list violated the 1991 Rules and led to a violation of their fundamental rights.
+* The court rejected the respondents' argument that the appellants' delay in approaching the court barred their claim, finding that the delay was justified by the fact that the appellants were not aware of the flaws in the process until the 2010 seniority list was published.
+* The court rejected the High Court's reasoning regarding the absence of indispensable parties and the doctrine of estoppel, finding that the High Court erred in its analysis. 
+
+
