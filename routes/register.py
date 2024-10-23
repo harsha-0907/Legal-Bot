@@ -8,7 +8,7 @@ from routes.login import generateJWTToken
 from DataModel import ResponseModel, RequestModel
 
 # Initialize the Database variables
-url = "mongodb+srv://root:my^7#kj@cluster0.9podb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+url = "URL"
 db_client = MongoClient(url)
 db = db_client['legal-bot']; auth_collection = db['auth']
 
